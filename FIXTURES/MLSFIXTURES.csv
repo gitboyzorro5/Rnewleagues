@@ -1,0 +1,494 @@
+"","Div","HomeTeam","AwayTeam","Date"
+"1","MLS","Inter Miami","RSL",2024-02-21
+"2","MLS","LAFC","Seattle",2024-02-24
+"3","MLS","Crew","Atlanta Utd",2024-02-24
+"4","MLS","Portland Timbers","Rapids",2024-02-24
+"5","MLS","Philadelphia","Fire",2024-02-24
+"6","MLS","D.C. United","NE Revolution",2024-02-24
+"7","MLS","St. Louis","RSL",2024-02-24
+"8","MLS","Austin","Minnesota Utd",2024-02-24
+"9","MLS","Orlando City","CF Montreal",2024-02-24
+"10","MLS","FC Dallas","SJ Earthquakes",2024-02-24
+"11","MLS","Charlotte","NYCFC",2024-02-24
+"12","MLS","Dynamo FC","Sporting KC",2024-02-24
+"13","MLS","FC Cincinnati","Toronto FC",2024-02-25
+"14","MLS","Nashville","NY Red Bulls",2024-02-25
+"15","MLS","LA Galaxy","Inter Miami",2024-02-25
+"16","MLS","Austin","LA Galaxy",2024-04-27
+"17","MLS","FC Cincinnati","Rapids",2024-04-27
+"18","MLS","Crew","CF Montreal",2024-04-27
+"19","MLS","Philadelphia","RSL",2024-04-27
+"20","MLS","NYCFC","Charlotte",2024-04-27
+"21","MLS","NY Red Bulls","Vancouver Wcaps",2024-04-27
+"22","MLS","NE Revolution","Inter Miami",2024-04-27
+"23","MLS","D.C. United","Seattle",2024-04-27
+"24","MLS","Orlando City","Toronto FC",2024-04-27
+"25","MLS","Fire","Atlanta Utd",2024-04-27
+"26","MLS","LAFC","Portland Timbers",2024-04-27
+"27","MLS","FC Dallas","Dynamo FC",2024-04-27
+"28","MLS","Minnesota Utd","Sporting KC",2024-04-27
+"29","MLS","Nashville","SJ Earthquakes",2024-04-27
+"30","MLS","SJ Earthquakes","LAFC",2024-05-04
+"31","MLS","Inter Miami","NY Red Bulls",2024-05-04
+"32","MLS","D.C. United","Philadelphia",2024-05-04
+"33","MLS","Charlotte","Portland Timbers",2024-05-04
+"34","MLS","Orlando City","FC Cincinnati",2024-05-04
+"35","MLS","Toronto FC","FC Dallas",2024-05-04
+"36","MLS","Atlanta Utd","Minnesota Utd",2024-05-04
+"37","MLS","Fire","NE Revolution",2024-05-04
+"38","MLS","Vancouver Wcaps","Austin",2024-05-04
+"39","MLS","Dynamo FC","St. Louis",2024-05-04
+"40","MLS","RSL","Sporting KC",2024-05-04
+"41","MLS","Nashville","CF Montreal",2024-05-04
+"42","MLS","Seattle","LA Galaxy",2024-05-05
+"43","MLS","NYCFC","Rapids",2024-05-05
+"44","MLS","Charlotte","Nashville",2024-05-11
+"45","MLS","Atlanta Utd","D.C. United",2024-05-11
+"46","MLS","Philadelphia","Orlando City",2024-05-11
+"47","MLS","Toronto FC","NYCFC",2024-05-11
+"48","MLS","CF Montreal","Inter Miami",2024-05-11
+"49","MLS","NY Red Bulls","NE Revolution",2024-05-11
+"50","MLS","St. Louis","Fire",2024-05-11
+"51","MLS","LA Galaxy","RSL",2024-05-11
+"52","MLS","Sporting KC","Dynamo FC",2024-05-11
+"53","MLS","Rapids","SJ Earthquakes",2024-05-11
+"54","MLS","FC Dallas","Austin",2024-05-11
+"55","MLS","LAFC","Vancouver Wcaps",2024-05-11
+"56","MLS","Crew","FC Cincinnati",2024-05-11
+"57","MLS","Portland Timbers","Seattle",2024-05-12
+"58","MLS","FC Cincinnati","Atlanta Utd",2024-05-15
+"59","MLS","Philadelphia","NYCFC",2024-05-15
+"60","MLS","Orlando City","Inter Miami",2024-05-15
+"61","MLS","D.C. United","NY Red Bulls",2024-05-15
+"62","MLS","CF Montreal","Crew",2024-05-15
+"63","MLS","Austin","Dynamo FC",2024-05-15
+"64","MLS","Portland Timbers","SJ Earthquakes",2024-05-15
+"65","MLS","Rapids","Vancouver Wcaps",2024-05-15
+"66","MLS","Fire","Charlotte",2024-05-15
+"67","MLS","St. Louis","LAFC",2024-05-15
+"68","MLS","RSL","Seattle",2024-05-15
+"69","MLS","Nashville","Toronto FC",2024-05-15
+"70","MLS","Minnesota Utd","LA Galaxy",2024-05-15
+"71","MLS","Nashville","Atlanta Utd",2024-05-18
+"72","MLS","Toronto FC","CF Montreal",2024-05-18
+"73","MLS","Inter Miami","D.C. United",2024-05-18
+"74","MLS","FC Cincinnati","St. Louis",2024-05-18
+"75","MLS","NYCFC","NY Red Bulls",2024-05-18
+"76","MLS","Charlotte","LA Galaxy",2024-05-18
+"77","MLS","NE Revolution","Philadelphia",2024-05-18
+"78","MLS","SJ Earthquakes","Orlando City",2024-05-18
+"79","MLS","Austin","Sporting KC",2024-05-18
+"80","MLS","Seattle","Vancouver Wcaps",2024-05-18
+"81","MLS","Dynamo FC","FC Dallas",2024-05-18
+"82","MLS","RSL","Rapids",2024-05-18
+"83","MLS","Minnesota Utd","Portland Timbers",2024-05-18
+"84","MLS","Fire","Crew",2024-05-18
+"85","MLS","CF Montreal","Nashville",2024-05-25
+"86","MLS","D.C. United","Fire",2024-05-25
+"87","MLS","Charlotte","Philadelphia",2024-05-25
+"88","MLS","Toronto FC","FC Cincinnati",2024-05-25
+"89","MLS","Atlanta Utd","LAFC",2024-05-25
+"90","MLS","NE Revolution","NYCFC",2024-05-25
+"91","MLS","Orlando City","Crew",2024-05-25
+"92","MLS","FC Dallas","RSL",2024-05-25
+"93","MLS","Portland Timbers","Sporting KC",2024-05-25
+"94","MLS","Rapids","Minnesota Utd",2024-05-25
+"95","MLS","SJ Earthquakes","Austin",2024-05-25
+"96","MLS","Vancouver Wcaps","Inter Miami",2024-05-25
+"97","MLS","St. Louis","Seattle",2024-05-25
+"98","MLS","LA Galaxy","Dynamo FC",2024-05-25
+"99","MLS","CF Montreal","D.C. United",2024-05-29
+"100","MLS","NY Red Bulls","Charlotte",2024-05-29
+"101","MLS","FC Cincinnati","Nashville",2024-05-29
+"102","MLS","Philadelphia","Toronto FC",2024-05-29
+"103","MLS","Inter Miami","Atlanta Utd",2024-05-29
+"104","MLS","LA Galaxy","FC Dallas",2024-05-29
+"105","MLS","Seattle","RSL",2024-05-29
+"106","MLS","Dynamo FC","Rapids",2024-05-29
+"107","MLS","Austin","Portland Timbers",2024-05-29
+"108","MLS","Sporting KC","Vancouver Wcaps",2024-05-29
+"109","MLS","Fire","Orlando City",2024-05-29
+"110","MLS","LAFC","Minnesota Utd",2024-05-29
+"111","MLS","Crew","NE Revolution",2024-10-12
+"112","MLS","NYCFC","SJ Earthquakes",2024-05-31
+"113","MLS","Philadelphia","CF Montreal",2024-06-01
+"114","MLS","D.C. United","Toronto FC",2024-06-01
+"115","MLS","Inter Miami","St. Louis",2024-06-01
+"116","MLS","NY Red Bulls","Orlando City",2024-06-01
+"117","MLS","LAFC","FC Dallas",2024-06-01
+"118","MLS","RSL","Austin",2024-06-01
+"119","MLS","Minnesota Utd","Sporting KC",2024-06-01
+"120","MLS","Fire","LA Galaxy",2024-06-01
+"121","MLS","Portland Timbers","Dynamo FC",2024-06-01
+"122","MLS","Nashville","NE Revolution",2024-06-01
+"123","MLS","Vancouver Wcaps","Rapids",2024-06-01
+"124","MLS","Atlanta Utd","Charlotte",2024-06-02
+"125","MLS","Crew","Seattle",2024-09-07
+"126","MLS","NE Revolution","NY Red Bulls",2024-06-08
+"127","MLS","Minnesota Utd","FC Dallas",2024-06-08
+"128","MLS","St. Louis","Portland Timbers",2024-06-08
+"129","MLS","Sporting KC","Seattle",2024-06-08
+"130","MLS","NYCFC","Crew",2024-06-14
+"131","MLS","CF Montreal","RSL",2024-06-15
+"132","MLS","Orlando City","LAFC",2024-06-15
+"133","MLS","NE Revolution","Vancouver Wcaps",2024-06-15
+"134","MLS","NY Red Bulls","Nashville",2024-06-15
+"135","MLS","Atlanta Utd","Dynamo FC",2024-06-15
+"136","MLS","Philadelphia","Inter Miami",2024-06-15
+"137","MLS","Charlotte","D.C. United",2024-06-15
+"138","MLS","Toronto FC","Fire",2024-06-15
+"139","MLS","LA Galaxy","Sporting KC",2024-06-15
+"140","MLS","FC Dallas","St. Louis",2024-06-15
+"141","MLS","Rapids","Austin",2024-06-15
+"142","MLS","Seattle","Minnesota Utd",2024-06-15
+"143","MLS","SJ Earthquakes","FC Cincinnati",2024-06-15
+"144","MLS","RSL","LAFC",2024-03-02
+"145","MLS","Minnesota Utd","Crew",2024-03-02
+"146","MLS","Inter Miami","Orlando City",2024-03-02
+"147","MLS","Vancouver Wcaps","Charlotte",2024-03-02
+"148","MLS","Dynamo FC","NY Red Bulls",2024-03-02
+"149","MLS","St. Louis","NYCFC",2024-03-02
+"150","MLS","FC Dallas","CF Montreal",2024-03-02
+"151","MLS","Sporting KC","Philadelphia",2024-03-02
+"152","MLS","Fire","FC Cincinnati",2024-03-02
+"153","MLS","SJ Earthquakes","LA Galaxy",2024-03-02
+"154","MLS","Seattle","Austin",2024-03-02
+"155","MLS","Rapids","Nashville",2024-03-02
+"156","MLS","Portland Timbers","D.C. United",2024-03-02
+"157","MLS","NE Revolution","Toronto FC",2024-03-03
+"158","MLS","Inter Miami","Crew",2024-06-19
+"159","MLS","Toronto FC","Nashville",2024-06-19
+"160","MLS","Charlotte","Orlando City",2024-06-19
+"161","MLS","CF Montreal","NY Red Bulls",2024-06-19
+"162","MLS","D.C. United","Atlanta Utd",2024-06-19
+"163","MLS","LA Galaxy","NYCFC",2024-06-19
+"164","MLS","Austin","LAFC",2024-06-19
+"165","MLS","SJ Earthquakes","Portland Timbers",2024-06-19
+"166","MLS","Dynamo FC","Seattle",2024-06-19
+"167","MLS","St. Louis","Rapids",2024-06-19
+"168","MLS","FC Dallas","Minnesota Utd",2024-06-19
+"169","MLS","Sporting KC","RSL",2024-06-19
+"170","MLS","FC Cincinnati","Philadelphia",2024-06-19
+"171","MLS","NY Red Bulls","Toronto FC",2024-06-22
+"172","MLS","D.C. United","Dynamo FC",2024-06-22
+"173","MLS","Crew","Sporting KC",2024-06-22
+"174","MLS","FC Cincinnati","NE Revolution",2024-06-22
+"175","MLS","Philadelphia","Charlotte",2024-06-22
+"176","MLS","Orlando City","Fire",2024-06-22
+"177","MLS","St. Louis","Atlanta Utd",2024-06-22
+"178","MLS","Seattle","FC Dallas",2024-06-22
+"179","MLS","RSL","LA Galaxy",2024-06-22
+"180","MLS","LAFC","SJ Earthquakes",2024-06-22
+"181","MLS","Rapids","CF Montreal",2024-06-22
+"182","MLS","Portland Timbers","Vancouver Wcaps",2024-06-22
+"183","MLS","Nashville","NYCFC",2024-06-22
+"184","MLS","Minnesota Utd","Austin",2024-06-22
+"185","MLS","NYCFC","Orlando City",2024-06-28
+"186","MLS","Atlanta Utd","Toronto FC",2024-06-29
+"187","MLS","NY Red Bulls","D.C. United",2024-06-29
+"188","MLS","CF Montreal","Philadelphia",2024-06-29
+"189","MLS","NE Revolution","Crew",2024-06-29
+"190","MLS","LAFC","Rapids",2024-06-29
+"191","MLS","Nashville","Inter Miami",2024-06-29
+"192","MLS","Vancouver Wcaps","St. Louis",2024-06-29
+"193","MLS","Seattle","Fire",2024-06-29
+"194","MLS","Dynamo FC","Charlotte",2024-06-29
+"195","MLS","Portland Timbers","Minnesota Utd",2024-06-29
+"196","MLS","Sporting KC","Austin",2024-06-29
+"197","MLS","SJ Earthquakes","LA Galaxy",2024-06-29
+"198","MLS","FC Dallas","FC Cincinnati",2024-06-29
+"199","MLS","Crew","Nashville",2024-07-03
+"200","MLS","Toronto FC","Orlando City",2024-07-03
+"201","MLS","Charlotte","Inter Miami",2024-07-03
+"202","MLS","NYCFC","CF Montreal",2024-07-03
+"203","MLS","NE Revolution","Atlanta Utd",2024-07-03
+"204","MLS","D.C. United","FC Cincinnati",2024-07-03
+"205","MLS","Fire","Philadelphia",2024-07-03
+"206","MLS","Minnesota Utd","Vancouver Wcaps",2024-07-03
+"207","MLS","St. Louis","SJ Earthquakes",2024-07-03
+"208","MLS","RSL","Dynamo FC",2024-07-03
+"209","MLS","LA Galaxy","LAFC",2024-07-04
+"210","MLS","FC Dallas","Portland Timbers",2024-07-04
+"211","MLS","Rapids","Sporting KC",2024-07-04
+"212","MLS","Orlando City","D.C. United",2024-07-06
+"213","MLS","FC Cincinnati","Inter Miami",2024-07-06
+"214","MLS","Crew","Toronto FC",2024-07-06
+"215","MLS","CF Montreal","Vancouver Wcaps",2024-07-06
+"216","MLS","Philadelphia","NY Red Bulls",2024-07-06
+"217","MLS","Seattle","NE Revolution",2024-07-06
+"218","MLS","RSL","Atlanta Utd",2024-07-06
+"219","MLS","Austin","NYCFC",2024-07-06
+"220","MLS","Sporting KC","FC Dallas",2024-07-07
+"221","MLS","Rapids","St. Louis",2024-07-07
+"222","MLS","Portland Timbers","Nashville",2024-07-07
+"223","MLS","LA Galaxy","Minnesota Utd",2024-07-07
+"224","MLS","Dynamo FC","LAFC",2024-07-07
+"225","MLS","SJ Earthquakes","Fire",2024-07-08
+"226","MLS","Toronto FC","Philadelphia",2024-07-13
+"227","MLS","NE Revolution","Orlando City",2024-07-13
+"228","MLS","D.C. United","Nashville",2024-07-13
+"229","MLS","FC Cincinnati","Charlotte",2024-07-13
+"230","MLS","CF Montreal","Atlanta Utd",2024-07-13
+"231","MLS","Portland Timbers","RSL",2024-07-13
+"232","MLS","SJ Earthquakes","Sporting KC",2024-07-13
+"233","MLS","LAFC","Crew",2024-07-13
+"234","MLS","FC Dallas","LA Galaxy",2024-07-13
+"235","MLS","Dynamo FC","Minnesota Utd",2024-07-13
+"236","MLS","Fire","NYCFC",2024-07-13
+"237","MLS","St. Louis","Vancouver Wcaps",2024-07-13
+"238","MLS","Rapids","NY Red Bulls",2024-07-13
+"239","MLS","Austin","Seattle",2024-07-13
+"240","MLS","Atlanta Utd","NYCFC",2024-07-17
+"241","MLS","Philadelphia","NE Revolution",2024-07-17
+"242","MLS","Crew","Charlotte",2024-07-17
+"243","MLS","NY Red Bulls","CF Montreal",2024-07-17
+"244","MLS","Inter Miami","Toronto FC",2024-07-17
+"245","MLS","FC Cincinnati","Fire",2024-07-17
+"246","MLS","Seattle","St. Louis",2024-07-17
+"247","MLS","Nashville","Orlando City",2024-07-17
+"248","MLS","Vancouver Wcaps","Sporting KC",2024-07-17
+"249","MLS","LAFC","RSL",2024-07-17
+"250","MLS","FC Dallas","Austin",2024-07-17
+"251","MLS","Minnesota Utd","D.C. United",2024-07-17
+"252","MLS","LA Galaxy","Rapids",2024-07-17
+"253","MLS","SJ Earthquakes","Dynamo FC",2024-07-17
+"254","MLS","Inter Miami","Fire",2024-07-20
+"255","MLS","Philadelphia","Nashville",2024-07-20
+"256","MLS","NE Revolution","FC Dallas",2024-07-20
+"257","MLS","CF Montreal","Toronto FC",2024-07-20
+"258","MLS","NY Red Bulls","FC Cincinnati",2024-07-20
+"259","MLS","Orlando City","NYCFC",2024-07-20
+"260","MLS","Atlanta Utd","Crew",2024-07-20
+"261","MLS","Austin","Charlotte",2024-07-20
+"262","MLS","Sporting KC","St. Louis",2024-07-20
+"263","MLS","Vancouver Wcaps","Dynamo FC",2024-07-20
+"264","MLS","Minnesota Utd","SJ Earthquakes",2024-07-20
+"265","MLS","Rapids","RSL",2024-07-20
+"266","MLS","Seattle","LAFC",2024-07-20
+"267","MLS","LA Galaxy","Portland Timbers",2024-07-20
+"268","MLS","Minnesota Utd","Seattle",2024-08-24
+"269","MLS","Vancouver Wcaps","LAFC",2024-08-24
+"270","MLS","NYCFC","Fire",2024-08-24
+"271","MLS","Inter Miami","FC Cincinnati",2024-08-24
+"272","MLS","Philadelphia","Crew",2024-08-24
+"273","MLS","D.C. United","FC Dallas",2024-08-24
+"274","MLS","Charlotte","NY Red Bulls",2024-08-24
+"275","MLS","CF Montreal","NE Revolution",2024-08-24
+"276","MLS","LA Galaxy","Atlanta Utd",2024-08-24
+"277","MLS","Sporting KC","Orlando City",2024-08-24
+"278","MLS","RSL","SJ Earthquakes",2024-08-24
+"279","MLS","Portland Timbers","St. Louis",2024-08-24
+"280","MLS","Nashville","Austin",2024-08-24
+"281","MLS","Dynamo FC","Toronto FC",2024-08-24
+"282","MLS","Toronto FC","D.C. United",2024-08-31
+"283","MLS","Orlando City","Nashville",2024-08-31
+"284","MLS","Crew","NYCFC",2024-08-31
+"285","MLS","FC Cincinnati","CF Montreal",2024-08-31
+"286","MLS","NY Red Bulls","Philadelphia",2024-08-31
+"287","MLS","Charlotte","Atlanta Utd",2024-08-31
+"288","MLS","Portland Timbers","Seattle",2024-08-31
+"289","MLS","LAFC","Dynamo FC",2024-08-31
+"290","MLS","FC Dallas","Rapids",2024-08-31
+"291","MLS","Fire","Inter Miami",2024-08-31
+"292","MLS","Austin","Vancouver Wcaps",2024-08-31
+"293","MLS","SJ Earthquakes","Minnesota Utd",2024-08-31
+"294","MLS","RSL","NE Revolution",2024-08-31
+"295","MLS","St. Louis","LA Galaxy",2024-09-01
+"296","MLS","Toronto FC","Charlotte",2024-03-09
+"297","MLS","NYCFC","Portland Timbers",2024-03-09
+"298","MLS","Atlanta Utd","NE Revolution",2024-03-09
+"299","MLS","NY Red Bulls","FC Dallas",2024-03-09
+"300","MLS","Orlando City","Minnesota Utd",2024-03-09
+"301","MLS","Crew","Fire",2024-03-09
+"302","MLS","SJ Earthquakes","Vancouver Wcaps",2024-03-09
+"303","MLS","Austin","St. Louis",2024-03-09
+"304","MLS","RSL","Rapids",2024-03-09
+"305","MLS","LAFC","Sporting KC",2024-03-09
+"306","MLS","Nashville","LA Galaxy",2024-03-10
+"307","MLS","FC Cincinnati","D.C. United",2024-03-10
+"308","MLS","Inter Miami","CF Montreal",2024-03-10
+"309","MLS","Philadelphia","Seattle",2024-04-30
+"310","MLS","NY Red Bulls","Sporting KC",2024-09-07
+"311","MLS","NE Revolution","St. Louis",2024-09-07
+"312","MLS","Vancouver Wcaps","FC Dallas",2024-09-07
+"313","MLS","Fire","D.C. United",2024-09-07
+"314","MLS","D.C. United","NYCFC",2024-09-14
+"315","MLS","Atlanta Utd","Nashville",2024-09-14
+"316","MLS","Inter Miami","Philadelphia",2024-09-14
+"317","MLS","FC Cincinnati","Crew",2024-09-14
+"318","MLS","CF Montreal","Charlotte",2024-09-14
+"319","MLS","Toronto FC","Austin",2024-09-14
+"320","MLS","Orlando City","NE Revolution",2024-09-14
+"321","MLS","Fire","NY Red Bulls",2024-09-14
+"322","MLS","St. Louis","Minnesota Utd",2024-09-14
+"323","MLS","Vancouver Wcaps","SJ Earthquakes",2024-09-14
+"324","MLS","Dynamo FC","RSL",2024-09-14
+"325","MLS","LA Galaxy","LAFC",2024-09-14
+"326","MLS","Rapids","Portland Timbers",2024-09-14
+"327","MLS","Seattle","Sporting KC",2024-09-15
+"328","MLS","NYCFC","Philadelphia",2024-09-18
+"329","MLS","NE Revolution","CF Montreal",2024-09-18
+"330","MLS","Atlanta Utd","Inter Miami",2024-09-18
+"331","MLS","Toronto FC","Crew",2024-09-18
+"332","MLS","Minnesota Utd","FC Cincinnati",2024-09-18
+"333","MLS","RSL","FC Dallas",2024-09-18
+"334","MLS","Seattle","SJ Earthquakes",2024-09-18
+"335","MLS","Portland Timbers","LA Galaxy",2024-09-18
+"336","MLS","Nashville","Fire",2024-09-18
+"337","MLS","LAFC","Austin",2024-09-18
+"338","MLS","Sporting KC","Rapids",2024-09-18
+"339","MLS","Dynamo FC","Vancouver Wcaps",2024-09-18
+"340","MLS","Orlando City","Charlotte",2024-09-18
+"341","MLS","NYCFC","Inter Miami",2024-09-21
+"342","MLS","CF Montreal","Fire",2024-09-21
+"343","MLS","NY Red Bulls","Atlanta Utd",2024-09-21
+"344","MLS","Crew","Orlando City",2024-09-21
+"345","MLS","Charlotte","NE Revolution",2024-09-21
+"346","MLS","Rapids","Toronto FC",2024-09-21
+"347","MLS","Austin","Dynamo FC",2024-09-21
+"348","MLS","FC Dallas","LAFC",2024-09-21
+"349","MLS","Sporting KC","Minnesota Utd",2024-09-21
+"350","MLS","RSL","Portland Timbers",2024-09-21
+"351","MLS","LA Galaxy","Vancouver Wcaps",2024-09-21
+"352","MLS","SJ Earthquakes","St. Louis",2024-09-21
+"353","MLS","Nashville","FC Cincinnati",2024-09-21
+"354","MLS","Philadelphia","D.C. United",2024-09-22
+"355","MLS","NE Revolution","Nashville",2024-09-28
+"356","MLS","CF Montreal","SJ Earthquakes",2024-09-28
+"357","MLS","FC Cincinnati","LAFC",2024-09-28
+"358","MLS","Inter Miami","Charlotte",2024-09-28
+"359","MLS","Philadelphia","Atlanta Utd",2024-09-28
+"360","MLS","NY Red Bulls","NYCFC",2024-09-28
+"361","MLS","D.C. United","Crew",2024-09-28
+"362","MLS","Austin","RSL",2024-09-28
+"363","MLS","FC Dallas","Orlando City",2024-09-28
+"364","MLS","St. Louis","Sporting KC",2024-09-28
+"365","MLS","Vancouver Wcaps","Portland Timbers",2024-09-28
+"366","MLS","Seattle","Dynamo FC",2024-09-28
+"367","MLS","Fire","Toronto FC",2024-09-28
+"368","MLS","Minnesota Utd","Rapids",2024-09-28
+"369","MLS","Atlanta Utd","CF Montreal",2024-10-02
+"370","MLS","Crew","Inter Miami",2024-10-02
+"371","MLS","Orlando City","Philadelphia",2024-10-02
+"372","MLS","Toronto FC","NY Red Bulls",2024-10-02
+"373","MLS","NYCFC","FC Cincinnati",2024-10-02
+"374","MLS","Charlotte","Fire",2024-10-02
+"375","MLS","Dynamo FC","NE Revolution",2024-10-02
+"376","MLS","SJ Earthquakes","FC Dallas",2024-10-02
+"377","MLS","Nashville","D.C. United",2024-10-02
+"378","MLS","RSL","Minnesota Utd",2024-10-02
+"379","MLS","Rapids","LA Galaxy",2024-10-02
+"380","MLS","Portland Timbers","Austin",2024-10-02
+"381","MLS","LAFC","St. Louis",2024-10-02
+"382","MLS","Vancouver Wcaps","Seattle",2024-10-02
+"383","MLS","Vancouver Wcaps","Minnesota Utd",2024-10-05
+"384","MLS","NYCFC","Nashville",2024-10-05
+"385","MLS","Charlotte","CF Montreal",2024-10-05
+"386","MLS","Atlanta Utd","NY Red Bulls",2024-10-05
+"387","MLS","NE Revolution","D.C. United",2024-10-05
+"388","MLS","Toronto FC","Inter Miami",2024-10-05
+"389","MLS","Crew","Philadelphia",2024-10-05
+"390","MLS","FC Cincinnati","Orlando City",2024-10-05
+"391","MLS","Sporting KC","LAFC",2024-10-05
+"392","MLS","Rapids","Seattle",2024-10-05
+"393","MLS","St. Louis","Dynamo FC",2024-10-05
+"394","MLS","SJ Earthquakes","RSL",2024-10-05
+"395","MLS","LA Galaxy","Austin",2024-10-05
+"396","MLS","Portland Timbers","FC Dallas",2024-10-06
+"397","MLS","Fire","Nashville",2024-10-19
+"398","MLS","NY Red Bulls","Crew",2024-10-19
+"399","MLS","CF Montreal","NYCFC",2024-10-19
+"400","MLS","Inter Miami","NE Revolution",2024-10-19
+"401","MLS","Philadelphia","FC Cincinnati",2024-10-19
+"402","MLS","D.C. United","Charlotte",2024-10-19
+"403","MLS","Orlando City","Atlanta Utd",2024-10-19
+"404","MLS","Seattle","Portland Timbers",2024-10-19
+"405","MLS","LAFC","SJ Earthquakes",2024-10-19
+"406","MLS","RSL","Vancouver Wcaps",2024-10-19
+"407","MLS","FC Dallas","Sporting KC",2024-10-19
+"408","MLS","Minnesota Utd","St. Louis",2024-10-19
+"409","MLS","Dynamo FC","LA Galaxy",2024-10-19
+"410","MLS","Austin","Rapids",2024-10-19
+"411","MLS","Seattle","Rapids",2024-03-16
+"412","MLS","Fire","CF Montreal",2024-03-16
+"413","MLS","D.C. United","Inter Miami",2024-03-16
+"414","MLS","NYCFC","Toronto FC",2024-03-16
+"415","MLS","Crew","NY Red Bulls",2024-03-16
+"416","MLS","Dynamo FC","Portland Timbers",2024-03-16
+"417","MLS","FC Dallas","Vancouver Wcaps",2024-03-16
+"418","MLS","Minnesota Utd","LAFC",2024-03-16
+"419","MLS","Sporting KC","SJ Earthquakes",2024-03-16
+"420","MLS","LA Galaxy","St. Louis",2024-03-16
+"421","MLS","Nashville","Charlotte",2024-03-16
+"422","MLS","Austin","Philadelphia",2024-03-16
+"423","MLS","NE Revolution","FC Cincinnati",2024-03-17
+"424","MLS","Atlanta Utd","Orlando City",2024-03-17
+"425","MLS","NY Red Bulls","Inter Miami",2024-03-23
+"426","MLS","NE Revolution","Fire",2024-03-23
+"427","MLS","Vancouver Wcaps","RSL",2024-03-23
+"428","MLS","Charlotte","Crew",2024-03-23
+"429","MLS","Orlando City","Austin",2024-03-23
+"430","MLS","Toronto FC","Atlanta Utd",2024-03-23
+"431","MLS","FC Cincinnati","NYCFC",2024-03-23
+"432","MLS","Portland Timbers","Philadelphia",2024-03-23
+"433","MLS","Sporting KC","LA Galaxy",2024-03-23
+"434","MLS","Rapids","Dynamo FC",2024-03-23
+"435","MLS","St. Louis","D.C. United",2024-03-23
+"436","MLS","SJ Earthquakes","Seattle",2024-03-23
+"437","MLS","LAFC","Nashville",2024-03-23
+"438","MLS","Rapids","LAFC",2024-03-30
+"439","MLS","Philadelphia","Minnesota Utd",2024-03-30
+"440","MLS","Toronto FC","Sporting KC",2024-03-30
+"441","MLS","Inter Miami","NYCFC",2024-03-30
+"442","MLS","Orlando City","NY Red Bulls",2024-03-30
+"443","MLS","D.C. United","CF Montreal",2024-03-30
+"444","MLS","Charlotte","FC Cincinnati",2024-03-30
+"445","MLS","Dynamo FC","SJ Earthquakes",2024-03-30
+"446","MLS","Vancouver Wcaps","Portland Timbers",2024-03-30
+"447","MLS","Nashville","Crew",2024-03-30
+"448","MLS","Austin","FC Dallas",2024-03-30
+"449","MLS","RSL","St. Louis",2024-03-30
+"450","MLS","LA Galaxy","Seattle",2024-03-30
+"451","MLS","Atlanta Utd","Fire",2024-03-31
+"452","MLS","Vancouver Wcaps","Toronto FC",2024-04-06
+"453","MLS","LAFC","LA Galaxy",2024-04-06
+"454","MLS","Crew","D.C. United",2024-04-06
+"455","MLS","Inter Miami","Rapids",2024-04-06
+"456","MLS","NYCFC","Atlanta Utd",2024-04-06
+"457","MLS","FC Cincinnati","NY Red Bulls",2024-04-06
+"458","MLS","NE Revolution","Charlotte",2024-04-06
+"459","MLS","Nashville","Philadelphia",2024-04-06
+"460","MLS","Fire","Dynamo FC",2024-04-06
+"461","MLS","Seattle","CF Montreal",2024-04-06
+"462","MLS","Austin","SJ Earthquakes",2024-04-06
+"463","MLS","Minnesota Utd","RSL",2024-04-06
+"464","MLS","St. Louis","FC Dallas",2024-04-06
+"465","MLS","Sporting KC","Portland Timbers",2024-04-07
+"466","MLS","Portland Timbers","LAFC",2024-04-13
+"467","MLS","CF Montreal","FC Cincinnati",2024-04-13
+"468","MLS","NYCFC","NE Revolution",2024-04-13
+"469","MLS","NY Red Bulls","Fire",2024-04-13
+"470","MLS","Charlotte","Toronto FC",2024-04-13
+"471","MLS","D.C. United","Orlando City",2024-04-13
+"472","MLS","RSL","Crew",2024-04-13
+"473","MLS","FC Dallas","Seattle",2024-04-13
+"474","MLS","Vancouver Wcaps","LA Galaxy",2024-04-13
+"475","MLS","SJ Earthquakes","Rapids",2024-04-13
+"476","MLS","Sporting KC","Inter Miami",2024-04-13
+"477","MLS","Minnesota Utd","Dynamo FC",2024-04-13
+"478","MLS","Atlanta Utd","Philadelphia",2024-04-14
+"479","MLS","St. Louis","Austin",2024-04-14
+"480","MLS","Atlanta Utd","FC Cincinnati",2024-04-20
+"481","MLS","CF Montreal","Orlando City",2024-04-20
+"482","MLS","Crew","Portland Timbers",2024-04-20
+"483","MLS","NYCFC","D.C. United",2024-04-20
+"484","MLS","Toronto FC","NE Revolution",2024-04-20
+"485","MLS","Inter Miami","Nashville",2024-04-20
+"486","MLS","Dynamo FC","Austin",2024-04-20
+"487","MLS","Fire","RSL",2024-04-20
+"488","MLS","Rapids","FC Dallas",2024-04-20
+"489","MLS","Seattle","Vancouver Wcaps",2024-04-20
+"490","MLS","Sporting KC","St. Louis",2024-04-20
+"491","MLS","LAFC","NY Red Bulls",2024-04-20
+"492","MLS","LA Galaxy","SJ Earthquakes",2024-04-21
+"493","MLS","Charlotte","Minnesota Utd",2024-04-21

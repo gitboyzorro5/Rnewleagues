@@ -77,7 +77,7 @@ arg_goaltotalsv2[is.na(arg_goaltotalsv2)] <- ""
 mls_goaltotalsv2 <- cbind(mls_goaltotalsv2,mls_avg_totalgoals)
 arg_goaltotalsv2 <- cbind(arg_goaltotalsv2,arg_avg_totalgoals)
 
-View(arg_goaltotalsv2)
+
 
 
 

@@ -1,0 +1,379 @@
+"","Div","HomeTeam","AwayTeam","Date"
+"1","ARG","Sarmiento","Instituto",2024-05-10
+"2","ARG","Arg Juniors","Rosario Central",2024-05-10
+"3","ARG","Newells OB","Platense",2024-05-10
+"4","ARG","Huracan","Defensa Justicia",2024-05-11
+"5","ARG","Godoy Cruz","Barracas Central",2024-05-11
+"6","ARG","Independiente","Talleres",2024-05-11
+"7","ARG","River Plate","Central Cordoba",2024-05-11
+"8","ARG","Deportivo Riestra","San Lorenzo",2024-05-12
+"9","ARG","Tigre","Estudiantes",2024-05-12
+"10","ARG","Lanus","Independiente Rivadavia",2024-05-12
+"11","ARG","Belgrano","Racing Club",2024-05-12
+"12","ARG","Atletico Tucuman","Boca Juniors",2024-05-12
+"13","ARG","Gimnasia–LP","Velez Sarsfield",2024-05-13
+"14","ARG","Union","Banfield",2024-05-13
+"15","ARG","Instituto","Platense",2024-08-11
+"16","ARG","Racing Club","Gimnasia–LP",2024-08-11
+"17","ARG","Independiente Rivadavia","Boca Juniors",2024-08-11
+"18","ARG","Belgrano","Union",2024-08-11
+"19","ARG","Central Cordoba","Defensa Justicia",2024-08-11
+"20","ARG","Barracas Central","Talleres",2024-08-11
+"21","ARG","Tigre","Godoy Cruz",2024-08-11
+"22","ARG","River Plate","Huracan",2024-08-11
+"23","ARG","Deportivo Riestra","Lanus",2024-08-11
+"24","ARG","Banfield","Velez Sarsfield",2024-08-11
+"25","ARG","Arg Juniors","Sarmiento",2024-08-11
+"26","ARG","San Lorenzo","Atletico Tucuman",2024-08-11
+"27","ARG","Estudiantes","Independiente",2024-08-11
+"28","ARG","Rosario Central","Newells OB",2024-08-11
+"29","ARG","Independiente","Rosario Central",2024-08-18
+"30","ARG","Union","Arg Juniors",2024-08-18
+"31","ARG","Lanus","Central Cordoba",2024-08-18
+"32","ARG","Talleres","Independiente Rivadavia",2024-08-18
+"33","ARG","Sarmiento","Tigre",2024-08-18
+"34","ARG","Atletico Tucuman","Estudiantes",2024-08-18
+"35","ARG","Platense","Barracas Central",2024-08-18
+"36","ARG","Newells OB","Racing Club",2024-08-18
+"37","ARG","Godoy Cruz","Deportivo Riestra",2024-08-18
+"38","ARG","Defensa Justicia","Banfield",2024-08-18
+"39","ARG","Boca Juniors","San Lorenzo",2024-08-18
+"40","ARG","Velez Sarsfield","Instituto",2024-08-18
+"41","ARG","Gimnasia–LP","River Plate",2024-08-18
+"42","ARG","Huracan","Belgrano",2024-08-18
+"43","ARG","Deportivo Riestra","Sarmiento",2024-08-25
+"44","ARG","Barracas Central","Velez Sarsfield",2024-08-25
+"45","ARG","Instituto","Defensa Justicia",2024-08-25
+"46","ARG","Lanus","Godoy Cruz",2024-08-25
+"47","ARG","Arg Juniors","Huracan",2024-08-25
+"48","ARG","San Lorenzo","Talleres",2024-08-25
+"49","ARG","River Plate","Newells OB",2024-08-25
+"50","ARG","Tigre","Union",2024-08-25
+"51","ARG","Racing Club","Independiente",2024-08-25
+"52","ARG","Rosario Central","Atletico Tucuman",2024-08-25
+"53","ARG","Independiente Rivadavia","Platense",2024-08-25
+"54","ARG","Estudiantes","Boca Juniors",2024-08-25
+"55","ARG","Belgrano","Gimnasia–LP",2024-08-25
+"56","ARG","Central Cordoba","Banfield",2024-08-25
+"57","ARG","Independiente","River Plate",2024-09-01
+"58","ARG","Boca Juniors","Rosario Central",2024-09-01
+"59","ARG","Newells OB","Belgrano",2024-09-01
+"60","ARG","Banfield","Instituto",2024-09-01
+"61","ARG","Gimnasia–LP","Arg Juniors",2024-09-01
+"62","ARG","Huracan","Tigre",2024-09-01
+"63","ARG","Talleres","Estudiantes",2024-09-01
+"64","ARG","Atletico Tucuman","Racing Club",2024-09-01
+"65","ARG","Union","Deportivo Riestra",2024-09-01
+"66","ARG","Sarmiento","Lanus",2024-09-01
+"67","ARG","Platense","San Lorenzo",2024-09-01
+"68","ARG","Velez Sarsfield","Independiente Rivadavia",2024-09-01
+"69","ARG","Godoy Cruz","Central Cordoba",2024-09-01
+"70","ARG","Defensa Justicia","Barracas Central",2024-09-01
+"71","ARG","Rosario Central","Talleres",2024-09-15
+"72","ARG","Lanus","Union",2024-09-15
+"73","ARG","Barracas Central","Banfield",2024-09-15
+"74","ARG","Racing Club","Boca Juniors",2024-09-15
+"75","ARG","Godoy Cruz","Sarmiento",2024-09-15
+"76","ARG","Central Cordoba","Instituto",2024-09-15
+"77","ARG","Arg Juniors","Newells OB",2024-09-15
+"78","ARG","River Plate","Atletico Tucuman",2024-09-15
+"79","ARG","Tigre","Gimnasia–LP",2024-09-15
+"80","ARG","Estudiantes","Platense",2024-09-15
+"81","ARG","Belgrano","Independiente",2024-09-15
+"82","ARG","Independiente Rivadavia","Defensa Justicia",2024-09-15
+"83","ARG","San Lorenzo","Velez Sarsfield",2024-09-15
+"84","ARG","Deportivo Riestra","Huracan",2024-09-15
+"85","ARG","Defensa Justicia","San Lorenzo",2024-09-22
+"86","ARG","Sarmiento","Central Cordoba",2024-09-22
+"87","ARG","Newells OB","Tigre",2024-09-22
+"88","ARG","Gimnasia–LP","Deportivo Riestra",2024-09-22
+"89","ARG","Banfield","Independiente Rivadavia",2024-09-22
+"90","ARG","Independiente","Arg Juniors",2024-09-22
+"91","ARG","Platense","Rosario Central",2024-09-22
+"92","ARG","Huracan","Lanus",2024-09-22
+"93","ARG","Boca Juniors","River Plate",2024-09-22
+"94","ARG","Instituto","Barracas Central",2024-09-22
+"95","ARG","Velez Sarsfield","Estudiantes",2024-09-22
+"96","ARG","Atletico Tucuman","Belgrano",2024-09-22
+"97","ARG","Union","Godoy Cruz",2024-09-22
+"98","ARG","Talleres","Racing Club",2024-09-22
+"99","ARG","Deportivo Riestra","Newells OB",2024-09-29
+"100","ARG","San Lorenzo","Banfield",2024-09-29
+"101","ARG","Rosario Central","Velez Sarsfield",2024-09-29
+"102","ARG","Estudiantes","Defensa Justicia",2024-09-29
+"103","ARG","Racing Club","Platense",2024-09-29
+"104","ARG","Independiente Rivadavia","Instituto",2024-09-29
+"105","ARG","Godoy Cruz","Huracan",2024-09-29
+"106","ARG","Belgrano","Boca Juniors",2024-09-29
+"107","ARG","Central Cordoba","Barracas Central",2024-09-29
+"108","ARG","River Plate","Talleres",2024-09-29
+"109","ARG","Arg Juniors","Atletico Tucuman",2024-09-29
+"110","ARG","Sarmiento","Union",2024-09-29
+"111","ARG","Tigre","Independiente",2024-09-29
+"112","ARG","Lanus","Gimnasia–LP",2024-09-29
+"113","ARG","Huracan","Sarmiento",2024-10-06
+"114","ARG","Instituto","San Lorenzo",2024-10-06
+"115","ARG","Defensa Justicia","Rosario Central",2024-10-06
+"116","ARG","Atletico Tucuman","Tigre",2024-10-06
+"117","ARG","Barracas Central","Independiente Rivadavia",2024-10-06
+"118","ARG","Union","Central Cordoba",2024-10-06
+"119","ARG","Platense","River Plate",2024-10-06
+"120","ARG","Velez Sarsfield","Racing Club",2024-10-06
+"121","ARG","Newells OB","Lanus",2024-10-06
+"122","ARG","Gimnasia–LP","Godoy Cruz",2024-10-06
+"123","ARG","Talleres","Belgrano",2024-10-06
+"124","ARG","Banfield","Estudiantes",2024-10-06
+"125","ARG","Boca Juniors","Arg Juniors",2024-10-06
+"126","ARG","Independiente","Deportivo Riestra",2024-10-06
+"127","ARG","Belgrano","Platense",2024-10-20
+"128","ARG","Sarmiento","Gimnasia–LP",2024-10-20
+"129","ARG","Rosario Central","Banfield",2024-10-20
+"130","ARG","Deportivo Riestra","Atletico Tucuman",2024-10-20
+"131","ARG","Estudiantes","Instituto",2024-10-20
+"132","ARG","Arg Juniors","Talleres",2024-10-20
+"133","ARG","Central Cordoba","Independiente Rivadavia",2024-10-20
+"134","ARG","Tigre","Boca Juniors",2024-10-20
+"135","ARG","Lanus","Independiente",2024-10-20
+"136","ARG","Union","Huracan",2024-10-20
+"137","ARG","San Lorenzo","Barracas Central",2024-10-20
+"138","ARG","Racing Club","Defensa Justicia",2024-10-20
+"139","ARG","Godoy Cruz","Newells OB",2024-10-20
+"140","ARG","River Plate","Velez Sarsfield",2024-10-20
+"141","ARG","Independiente","Godoy Cruz",2024-10-27
+"142","ARG","Boca Juniors","Deportivo Riestra",2024-10-27
+"143","ARG","Velez Sarsfield","Belgrano",2024-10-27
+"144","ARG","Barracas Central","Estudiantes",2024-10-27
+"145","ARG","Banfield","Racing Club",2024-10-27
+"146","ARG","Newells OB","Sarmiento",2024-10-27
+"147","ARG","Gimnasia–LP","Union",2024-10-27
+"148","ARG","Huracan","Central Cordoba",2024-10-27
+"149","ARG","Platense","Arg Juniors",2024-10-27
+"150","ARG","Instituto","Rosario Central",2024-10-27
+"151","ARG","Talleres","Tigre",2024-10-27
+"152","ARG","Independiente Rivadavia","San Lorenzo",2024-10-27
+"153","ARG","Atletico Tucuman","Lanus",2024-10-27
+"154","ARG","Defensa Justicia","River Plate",2024-10-27
+"155","ARG","Independiente Rivadavia","Godoy Cruz",2024-05-18
+"156","ARG","River Plate","Belgrano",2024-05-18
+"157","ARG","Defensa Justicia","Gimnasia–LP",2024-05-18
+"158","ARG","Instituto","Union",2024-05-18
+"159","ARG","Barracas Central","Sarmiento",2024-05-19
+"160","ARG","Platense","Independiente",2024-05-19
+"161","ARG","Talleres","Atletico Tucuman",2024-05-19
+"162","ARG","Banfield","Huracan",2024-05-19
+"163","ARG","Central Cordoba","Boca Juniors",2024-05-19
+"164","ARG","Estudiantes","Deportivo Riestra",2024-05-20
+"165","ARG","San Lorenzo","Lanus",2024-05-20
+"166","ARG","Rosario Central","Tigre",2024-05-20
+"167","ARG","Racing Club","Arg Juniors",2024-05-20
+"168","ARG","Velez Sarsfield","Newells OB",2024-05-21
+"169","ARG","Sarmiento","Independiente",2024-11-03
+"170","ARG","Estudiantes","Independiente Rivadavia",2024-11-03
+"171","ARG","Racing Club","Instituto",2024-11-03
+"172","ARG","Union","Newells OB",2024-11-03
+"173","ARG","Arg Juniors","Velez Sarsfield",2024-11-03
+"174","ARG","Deportivo Riestra","Talleres",2024-11-03
+"175","ARG","Tigre","Platense",2024-11-03
+"176","ARG","Rosario Central","Barracas Central",2024-11-03
+"177","ARG","Lanus","Boca Juniors",2024-11-03
+"178","ARG","Central Cordoba","San Lorenzo",2024-11-03
+"179","ARG","Belgrano","Defensa Justicia",2024-11-03
+"180","ARG","Godoy Cruz","Atletico Tucuman",2024-11-03
+"181","ARG","River Plate","Banfield",2024-11-03
+"182","ARG","Huracan","Gimnasia–LP",2024-11-03
+"183","ARG","Newells OB","Huracan",2024-11-06
+"184","ARG","Defensa Justicia","Arg Juniors",2024-11-06
+"185","ARG","Atletico Tucuman","Sarmiento",2024-11-06
+"186","ARG","Instituto","River Plate",2024-11-06
+"187","ARG","Platense","Deportivo Riestra",2024-11-06
+"188","ARG","Banfield","Belgrano",2024-11-06
+"189","ARG","San Lorenzo","Estudiantes",2024-11-06
+"190","ARG","Boca Juniors","Godoy Cruz",2024-11-06
+"191","ARG","Talleres","Lanus",2024-11-06
+"192","ARG","Velez Sarsfield","Tigre",2024-11-06
+"193","ARG","Independiente","Union",2024-11-06
+"194","ARG","Independiente Rivadavia","Rosario Central",2024-11-06
+"195","ARG","Barracas Central","Racing Club",2024-11-06
+"196","ARG","Gimnasia–LP","Central Cordoba",2024-11-06
+"197","ARG","Belgrano","Instituto",2024-11-10
+"198","ARG","Godoy Cruz","Talleres",2024-11-10
+"199","ARG","Racing Club","Independiente Rivadavia",2024-11-10
+"200","ARG","Deportivo Riestra","Velez Sarsfield",2024-11-10
+"201","ARG","Tigre","Defensa Justicia",2024-11-10
+"202","ARG","Rosario Central","San Lorenzo",2024-11-10
+"203","ARG","River Plate","Barracas Central",2024-11-10
+"204","ARG","Huracan","Independiente",2024-11-10
+"205","ARG","Arg Juniors","Banfield",2024-11-10
+"206","ARG","Gimnasia–LP","Newells OB",2024-11-10
+"207","ARG","Sarmiento","Boca Juniors",2024-11-10
+"208","ARG","Central Cordoba","Estudiantes",2024-11-10
+"209","ARG","Union","Atletico Tucuman",2024-11-10
+"210","ARG","Lanus","Platense",2024-11-10
+"211","ARG","Boca Juniors","Union",2024-11-20
+"212","ARG","Velez Sarsfield","Lanus",2024-11-20
+"213","ARG","Defensa Justicia","Deportivo Riestra",2024-11-20
+"214","ARG","Independiente","Gimnasia–LP",2024-11-20
+"215","ARG","Talleres","Sarmiento",2024-11-20
+"216","ARG","Atletico Tucuman","Huracan",2024-11-20
+"217","ARG","Newells OB","Central Cordoba",2024-11-20
+"218","ARG","Instituto","Arg Juniors",2024-11-20
+"219","ARG","Platense","Godoy Cruz",2024-11-20
+"220","ARG","San Lorenzo","Racing Club",2024-11-20
+"221","ARG","Banfield","Tigre",2024-11-20
+"222","ARG","Independiente Rivadavia","River Plate",2024-11-20
+"223","ARG","Estudiantes","Rosario Central",2024-11-20
+"224","ARG","Barracas Central","Belgrano",2024-11-20
+"225","ARG","Godoy Cruz","Velez Sarsfield",2024-11-24
+"226","ARG","Central Cordoba","Rosario Central",2024-11-24
+"227","ARG","Belgrano","Independiente Rivadavia",2024-11-24
+"228","ARG","Huracan","Boca Juniors",2024-11-24
+"229","ARG","Tigre","Instituto",2024-11-24
+"230","ARG","River Plate","San Lorenzo",2024-11-24
+"231","ARG","Newells OB","Independiente",2024-11-24
+"232","ARG","Arg Juniors","Barracas Central",2024-11-24
+"233","ARG","Deportivo Riestra","Banfield",2024-11-24
+"234","ARG","Lanus","Defensa Justicia",2024-11-24
+"235","ARG","Gimnasia–LP","Atletico Tucuman",2024-11-24
+"236","ARG","Union","Talleres",2024-11-24
+"237","ARG","Sarmiento","Platense",2024-11-24
+"238","ARG","Racing Club","Estudiantes",2024-11-24
+"239","ARG","Rosario Central","Racing Club",2024-12-01
+"240","ARG","Defensa Justicia","Godoy Cruz",2024-12-01
+"241","ARG","Independiente","Central Cordoba",2024-12-01
+"242","ARG","San Lorenzo","Belgrano",2024-12-01
+"243","ARG","Estudiantes","River Plate",2024-12-01
+"244","ARG","Platense","Union",2024-12-01
+"245","ARG","Atletico Tucuman","Newells OB",2024-12-01
+"246","ARG","Instituto","Deportivo Riestra",2024-12-01
+"247","ARG","Boca Juniors","Gimnasia–LP",2024-12-01
+"248","ARG","Banfield","Lanus",2024-12-01
+"249","ARG","Independiente Rivadavia","Arg Juniors",2024-12-01
+"250","ARG","Velez Sarsfield","Sarmiento",2024-12-01
+"251","ARG","Talleres","Huracan",2024-12-01
+"252","ARG","Barracas Central","Tigre",2024-12-01
+"253","ARG","Union","Velez Sarsfield",2024-12-08
+"254","ARG","Arg Juniors","San Lorenzo",2024-12-08
+"255","ARG","Belgrano","Estudiantes",2024-12-08
+"256","ARG","Independiente","Atletico Tucuman",2024-12-08
+"257","ARG","Newells OB","Boca Juniors",2024-12-08
+"258","ARG","Sarmiento","Defensa Justicia",2024-12-08
+"259","ARG","Godoy Cruz","Banfield",2024-12-08
+"260","ARG","Lanus","Instituto",2024-12-08
+"261","ARG","River Plate","Rosario Central",2024-12-08
+"262","ARG","Huracan","Platense",2024-12-08
+"263","ARG","Deportivo Riestra","Barracas Central",2024-12-08
+"264","ARG","Gimnasia–LP","Talleres",2024-12-08
+"265","ARG","Central Cordoba","Racing Club",2024-12-08
+"266","ARG","Tigre","Independiente Rivadavia",2024-12-08
+"267","ARG","Talleres","Newells OB",2024-12-15
+"268","ARG","Barracas Central","Lanus",2024-12-15
+"269","ARG","Defensa Justicia","Union",2024-12-15
+"270","ARG","Independiente Rivadavia","Deportivo Riestra",2024-12-15
+"271","ARG","Atletico Tucuman","Central Cordoba",2024-12-15
+"272","ARG","Racing Club","River Plate",2024-12-15
+"273","ARG","Velez Sarsfield","Huracan",2024-12-15
+"274","ARG","San Lorenzo","Tigre",2024-12-15
+"275","ARG","Platense","Gimnasia–LP",2024-12-15
+"276","ARG","Rosario Central","Belgrano",2024-12-15
+"277","ARG","Banfield","Sarmiento",2024-12-15
+"278","ARG","Estudiantes","Arg Juniors",2024-12-15
+"279","ARG","Boca Juniors","Independiente",2024-12-15
+"280","ARG","Instituto","Godoy Cruz",2024-12-15
+"281","ARG","Deportivo Riestra","Rosario Central",2024-05-24
+"282","ARG","Tigre","Racing Club",2024-05-24
+"283","ARG","Belgrano","Central Cordoba",2024-05-24
+"284","ARG","Lanus","Estudiantes",2024-05-24
+"285","ARG","Arg Juniors","River Plate",2024-05-25
+"286","ARG","Godoy Cruz","San Lorenzo",2024-05-25
+"287","ARG","Newells OB","Defensa Justicia",2024-05-25
+"288","ARG","Boca Juniors","Talleres",2024-05-25
+"289","ARG","Huracan","Instituto",2024-05-26
+"290","ARG","Sarmiento","Independiente Rivadavia",2024-05-26
+"291","ARG","Gimnasia–LP","Banfield",2024-05-26
+"292","ARG","Independiente","Velez Sarsfield",2024-05-26
+"293","ARG","Union","Barracas Central",2024-05-27
+"294","ARG","Atletico Tucuman","Platense",2024-05-27
+"295","ARG","Racing Club","Deportivo Riestra",2024-06-01
+"296","ARG","Belgrano","Arg Juniors",2024-06-01
+"297","ARG","Velez Sarsfield","Atletico Tucuman",2024-06-01
+"298","ARG","Platense","Boca Juniors",2024-06-02
+"299","ARG","Rosario Central","Lanus",2024-06-02
+"300","ARG","Central Cordoba","Talleres",2024-06-02
+"301","ARG","Instituto","Gimnasia–LP",2024-06-02
+"302","ARG","River Plate","Tigre",2024-06-02
+"303","ARG","San Lorenzo","Sarmiento",2024-06-03
+"304","ARG","Defensa Justicia","Independiente",2024-06-03
+"305","ARG","Estudiantes","Godoy Cruz",2024-06-03
+"306","ARG","Barracas Central","Huracan",2024-06-04
+"307","ARG","Banfield","Newells OB",2024-06-04
+"308","ARG","Independiente Rivadavia","Union",2024-06-04
+"309","ARG","Lanus","Racing Club",2024-06-12
+"310","ARG","Godoy Cruz","Rosario Central",2024-06-12
+"311","ARG","Atletico Tucuman","Defensa Justicia",2024-06-12
+"312","ARG","Independiente","Banfield",2024-06-12
+"313","ARG","Union","San Lorenzo",2024-06-12
+"314","ARG","Huracan","Independiente Rivadavia",2024-06-12
+"315","ARG","Deportivo Riestra","River Plate",2024-06-12
+"316","ARG","Arg Juniors","Central Cordoba",2024-06-12
+"317","ARG","Tigre","Belgrano",2024-06-12
+"318","ARG","Talleres","Platense",2024-06-12
+"319","ARG","Boca Juniors","Velez Sarsfield",2024-06-12
+"320","ARG","Newells OB","Instituto",2024-06-12
+"321","ARG","Gimnasia–LP","Barracas Central",2024-06-12
+"322","ARG","Sarmiento","Estudiantes",2024-06-12
+"323","ARG","Arg Juniors","Tigre",2024-07-21
+"324","ARG","Independiente Rivadavia","Gimnasia–LP",2024-07-21
+"325","ARG","Central Cordoba","Platense",2024-07-21
+"326","ARG","Velez Sarsfield","Talleres",2024-07-21
+"327","ARG","Defensa Justicia","Boca Juniors",2024-07-21
+"328","ARG","San Lorenzo","Huracan",2024-07-21
+"329","ARG","Rosario Central","Sarmiento",2024-07-21
+"330","ARG","River Plate","Lanus",2024-07-21
+"331","ARG","Belgrano","Deportivo Riestra",2024-07-21
+"332","ARG","Barracas Central","Newells OB",2024-07-21
+"333","ARG","Racing Club","Godoy Cruz",2024-07-21
+"334","ARG","Banfield","Atletico Tucuman",2024-07-21
+"335","ARG","Instituto","Independiente",2024-07-21
+"336","ARG","Estudiantes","Union",2024-07-21
+"337","ARG","Talleres","Defensa Justicia",2024-07-24
+"338","ARG","Newells OB","Independiente Rivadavia",2024-07-24
+"339","ARG","Independiente","Barracas Central",2024-07-24
+"340","ARG","Godoy Cruz","River Plate",2024-07-24
+"341","ARG","Gimnasia–LP","San Lorenzo",2024-07-24
+"342","ARG","Tigre","Central Cordoba",2024-07-24
+"343","ARG","Atletico Tucuman","Instituto",2024-07-24
+"344","ARG","Platense","Velez Sarsfield",2024-07-24
+"345","ARG","Sarmiento","Racing Club",2024-07-24
+"346","ARG","Boca Juniors","Banfield",2024-07-24
+"347","ARG","Deportivo Riestra","Arg Juniors",2024-07-24
+"348","ARG","Huracan","Estudiantes",2024-07-24
+"349","ARG","Lanus","Belgrano",2024-07-24
+"350","ARG","Union","Rosario Central",2024-07-24
+"351","ARG","Estudiantes","Gimnasia–LP",2024-07-28
+"352","ARG","Rosario Central","Huracan",2024-07-28
+"353","ARG","San Lorenzo","Newells OB",2024-07-28
+"354","ARG","Defensa Justicia","Platense",2024-07-28
+"355","ARG","River Plate","Sarmiento",2024-07-28
+"356","ARG","Banfield","Talleres",2024-07-28
+"357","ARG","Independiente Rivadavia","Independiente",2024-07-28
+"358","ARG","Belgrano","Godoy Cruz",2024-07-28
+"359","ARG","Barracas Central","Atletico Tucuman",2024-07-28
+"360","ARG","Tigre","Deportivo Riestra",2024-07-28
+"361","ARG","Arg Juniors","Lanus",2024-07-28
+"362","ARG","Central Cordoba","Velez Sarsfield",2024-07-28
+"363","ARG","Racing Club","Union",2024-07-28
+"364","ARG","Instituto","Boca Juniors",2024-07-28
+"365","ARG","Sarmiento","Belgrano",2024-08-04
+"366","ARG","Gimnasia–LP","Rosario Central",2024-08-04
+"367","ARG","Lanus","Tigre",2024-08-04
+"368","ARG","Newells OB","Estudiantes",2024-08-04
+"369","ARG","Union","River Plate",2024-08-04
+"370","ARG","Independiente","San Lorenzo",2024-08-04
+"371","ARG","Talleres","Instituto",2024-08-04
+"372","ARG","Platense","Banfield",2024-08-04
+"373","ARG","Velez Sarsfield","Defensa Justicia",2024-08-04
+"374","ARG","Boca Juniors","Barracas Central",2024-08-04
+"375","ARG","Huracan","Racing Club",2024-08-04
+"376","ARG","Atletico Tucuman","Independiente Rivadavia",2024-08-04
+"377","ARG","Godoy Cruz","Arg Juniors",2024-08-04
+"378","ARG","Deportivo Riestra","Central Cordoba",2024-08-04
