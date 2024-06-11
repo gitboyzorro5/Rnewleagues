@@ -21,7 +21,6 @@ arg_df_picks <- 1
 # sc2_df_picks <- 1
 # sc3_df_picks <- 1
 #t1_df_picks  <- 1
-View(final_doublefixture_arg)
 
 #############################################################
 myfixturesmls <- subset(myfixtures,Div == "MLS")
