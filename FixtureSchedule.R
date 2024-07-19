@@ -9,21 +9,21 @@ library('mgsub')
 unlink('myfixtures.csv')
 #read the data
 
-# arg_match_fixtures <- readxl::read_excel("arg_match_results.xlsx")
-# arg_match_fixtures <- arg_match_fixtures[,c(-1)]
+# bra_match_fixtures <- readxl::read_excel("bra_match_results.xlsx")
+# bra_match_fixtures <- bra_match_fixtures[,c(-1)]
 #
-# arg_match_fixtures <- arg_match_fixtures[,c(1,10,13,8)]
+# bra_match_fixtures <- bra_match_fixtures[,c(1,10,13,8)]
 #
-# colnames(arg_match_fixtures)[1] <- "Div"
-# colnames(arg_match_fixtures)[2] <- "HomeTeam"
-# colnames(arg_match_fixtures)[3] <- "AwayTeam"
-# arg_match_fixtures$Div <- "ARG"
-# arg_match_fixtures$Date <- ymd(arg_match_fixtures$Date)
-# arg_match_fixtures$HomeTeam <- mgsub(arg_match_fixtures$HomeTeam,c("Atlé Tucumán","Cen. Córdoba–SdE","Defensa y Just","Huracán","Lanús","Newell's OB","Unión","Vélez Sarsfield"),c("Atletico Tucuman","Central Cordoba","Defensa Justicia","Huracan","Lanus","Newells OB","Union","Velez Sarsfield"))
-# arg_match_fixtures$AwayTeam <- mgsub(arg_match_fixtures$AwayTeam,c("Atlé Tucumán","Cen. Córdoba–SdE","Defensa y Just","Huracán","Lanús","Newell's OB","Unión","Vélez Sarsfield"),c("Atletico Tucuman","Central Cordoba","Defensa Justicia","Huracan","Lanus","Newells OB","Union","Velez Sarsfield"))
-# arg_match_fixtures$HomeTeam <- mgsub(arg_match_fixtures$HomeTeam,c("Argentinos Juniors","Atlético Tucumán","Central Córdoba \\(SdE\\)","Defensa y Justicia","Estudiantes \\(LP\\)","Gimnasia y Esgrima \\(LP\\)","Huracán","Lanús","Newell's Old Boys","Unión","Vélez Sarsfield"),c("Arg Juniors","Atletico Tucuman","Central Cordoba","Defensa Justicia","Estudiantes","Gimnasia–LP","Huracan","Lanus","Newells OB","Union","Velez Sarsfield"))
-# arg_match_fixtures$AwayTeam <- mgsub(arg_match_fixtures$AwayTeam,c("Argentinos Juniors","Atlético Tucumán","Central Córdoba \\(SdE\\)","Defensa y Justicia","Estudiantes \\(LP\\)","Gimnasia y Esgrima \\(LP\\)","Huracán","Lanús","Newell's Old Boys","Unión","Vélez Sarsfield"),c("Arg Juniors","Atletico Tucuman","Central Cordoba","Defensa Justicia","Estudiantes","Gimnasia–LP","Huracan","Lanus","Newells OB","Union","Velez Sarsfield"))
-# write.csv(arg_match_fixtures,'FIXTURES/ARGFIXTURES.csv')
+# colnames(bra_match_fixtures)[1] <- "Div"
+# colnames(bra_match_fixtures)[2] <- "HomeTeam"
+# colnames(bra_match_fixtures)[3] <- "AwayTeam"
+# bra_match_fixtures$Div <- "BRA"
+# bra_match_fixtures$Date <- ymd(bra_match_fixtures$Date)
+# bra_match_fixtures$HomeTeam <- mgsub(bra_match_fixtures$HomeTeam,c("Atlético Mineiro","Botafogo \\(RJ\\)","Criciúma","Cuiabá","Grêmio","São Paulo","Vitória"),c("Atletico Mineiro","Botafogo RJ","Criciuma","Cuiaba","Gremio","Sao Paulo","Vitoria"))
+# bra_match_fixtures$AwayTeam <- mgsub(bra_match_fixtures$AwayTeam,c("Atlético Mineiro","Botafogo \\(RJ\\)","Criciúma","Cuiabá","Grêmio","São Paulo","Vitória"),c("Atletico Mineiro","Botafogo RJ","Criciuma","Cuiaba","Gremio","Sao Paulo","Vitoria"))
+# bra_match_fixtures$HomeTeam <- mgsub(bra_match_fixtures$HomeTeam,c("Atlético Mineiro","Botafogo \\(RJ\\)","Criciúma","Cuiabá","Grêmio","São Paulo","Vitória"),c("Atletico Mineiro","Botafogo RJ","Criciuma","Cuiaba","Gremio","Sao Paulo","Vitoria"))
+# bra_match_fixtures$AwayTeam <- mgsub(bra_match_fixtures$AwayTeam,c("Atlético Mineiro","Botafogo \\(RJ\\)","Criciúma","Cuiabá","Grêmio","São Paulo","Vitória"),c("Atletico Mineiro","Botafogo RJ","Criciuma","Cuiaba","Gremio","Sao Paulo","Vitoria"))
+# write.csv(bra_match_fixtures,'FIXTURES/BRAFIXTURES.csv')
 #
 
 
@@ -31,7 +31,8 @@ MLS_schedule2024 <- read.csv('FIXTURES/MLSFIXTURES.csv')
 MLS_schedule2024 <- MLS_schedule2024[,c(-1)]
 ARG_schedule2024 <- read.csv('FIXTURES/ARGFIXTURES.csv')
 ARG_schedule2024 <- ARG_schedule2024[,c(-1)]
-
+BRA_schedule2024 <- read.csv('FIXTURES/BRAFIXTURES.csv')
+BRA_schedule2024 <- BRA_schedule2024[,c(-1)]
 # D2_schedule2024 <- read.csv('FIXTURES/D2_schedule2024.csv')
 # E0_schedule2024 <- read.csv('FIXTURES/E0_schedule2024.csv')
 # E1_schedule2024 <- read.csv('FIXTURES/E1_schedule2024.csv')
@@ -57,6 +58,7 @@ ARG_schedule2024 <- ARG_schedule2024[,c(-1)]
 #parse the dates
 MLS_schedule2024$Date <- ymd(MLS_schedule2024$Date)
 ARG_schedule2024$Date <- ymd(ARG_schedule2024$Date)
+BRA_schedule2024$Date <- ymd(BRA_schedule2024$Date)
 # D2_schedule2024$Date <- dmy(D2_schedule2024$Date)
 # E0_schedule2024$Date <- dmy(E0_schedule2024$Date)
 # E1_schedule2024$Date <- dmy(E1_schedule2024$Date)
@@ -82,6 +84,7 @@ ARG_schedule2024$Date <- ymd(ARG_schedule2024$Date)
 #insert divisions
 MLS_schedule2024$Div <- "MLS"
 ARG_schedule2024$Div <- "ARG"
+BRA_schedule2024$Div <- "BRA"
 # D2_schedule2024$Div <- "D2"
 # E0_schedule2024$Div <- "E0"
 # E1_schedule2024$Div <- "E1"
@@ -104,9 +107,9 @@ ARG_schedule2024$Div <- "ARG"
 # T1_schedule2024$Div <- "T1"
 #bind the fixtures
 
-all_schedule2024 <- rbind(MLS_schedule2024,ARG_schedule2024)
+all_schedule2024 <- rbind(MLS_schedule2024,ARG_schedule2024,BRA_schedule2024)
 
 
-myfixtures <- all_schedule2024[all_schedule2024$Date >= '2024-06-08' & all_schedule2024$Date <= '2024-06-10',]
+myfixtures <- all_schedule2024[all_schedule2024$Date >= '2024-07-18' & all_schedule2024$Date <= '2024-07-21',]
 write.csv(myfixtures,'myfixtures.csv')
 View(myfixtures)

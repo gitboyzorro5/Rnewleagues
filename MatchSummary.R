@@ -305,7 +305,156 @@ ARG_spread$MatchPerfomance <- ARG_spread$TG *15 + ARG_spread$TY *5 + ARG_spread$
 
 unlink('ARG_SPREAD.xlsx')
 write.xlsx(ARG_spread,'ARG_SPREAD.xlsx')
+##########################################################################################################################################
+##########################################################################################################################################
+#BRA
+bra_summary <- readxl::read_excel('bra_match_summary.xlsx')
+bra_summary <- bra_summary[,c(-1)]
 
+bra_summary$Home_Team <- mgsub(bra_summary$Home_Team,c("Athletico Paranaense","Atlético Goianiense","Atlético Mineiro","Botafogo \\(RJ\\)","Criciúma","Cuiabá","Grêmio","São Paulo","Vitória"),c("Ath Paranaense","Atl Goianiense","Atletico Mineiro","Botafogo RJ","Criciuma","Cuiaba","Gremio","Sao Paulo","Vitoria"))
+bra_summary$Away_Team <- mgsub(bra_summary$Away_Team,c("Athletico Paranaense","Atlético Goianiense","Atlético Mineiro","Botafogo \\(RJ\\)","Criciúma","Cuiabá","Grêmio","São Paulo","Vitória"),c("Ath Paranaense","Atl Goianiense","Atletico Mineiro","Botafogo RJ","Criciuma","Cuiaba","Gremio","Sao Paulo","Vitoria"))
+bra_summary$Home_Team <- mgsub(bra_summary$Home_Team,c("Athletico Paranaense","Atlético Goianiense","Atlético Mineiro","Botafogo \\(RJ\\)","Criciúma","Cuiabá","Grêmio","São Paulo","Vitória"),c("Ath Paranaense","Atl Goianiense","Atletico Mineiro","Botafogo RJ","Criciuma","Cuiaba","Gremio","Sao Paulo","Vitoria"))
+bra_summary$Away_Team <- mgsub(bra_summary$Away_Team,c("Athletico Paranaense","Atlético Goianiense","Atlético Mineiro","Botafogo \\(RJ\\)","Criciúma","Cuiabá","Grêmio","São Paulo","Vitória"),c("Ath Paranaense","Atl Goianiense","Atletico Mineiro","Botafogo RJ","Criciuma","Cuiaba","Gremio","Sao Paulo","Vitoria"))
+
+bra_summary$matchid <- paste(bra_summary$Match_Date,bra_summary$Home_Team,bra_summary$Away_Team,sep = "-")
+
+
+BRA_spread <- subset(allteamsnewleagues2024,Div =="BRA")
+BRA_spread$matchid <- paste(BRA_spread$Date,BRA_spread$HomeTeam,BRA_spread$AwayTeam,sep = "-")
+
+BRA_spread$n <- BRA_spread$TG
+
+library('sqldf')
+require('RH2')
+
+
+Total_Goalmins <- c()
+Total_Goalmins <- sqldf("SELECT bra_summary.matchid,SUM(Event_Time) AS Total_Goalmins FROM bra_summary INNER JOIN BRA_spread ON bra_summary.matchid = BRA_spread.matchid WHERE bra_summary.Event_Type = 'Goal' GROUP BY bra_summary.matchid")
+BRA_spread <- dplyr::left_join(BRA_spread,Total_Goalmins)
+BRA_spread <- BRA_spread %>% replace(is.na(.),0)
+#Bookings
+BRA_spread$Bookings <- (BRA_spread$HY *10 + BRA_spread$HR *25) + (BRA_spread$AY*10 + BRA_spread$AR*25)
+#CrossBookings
+BRA_spread$Crossbookings <- (BRA_spread$HY *10 + BRA_spread$HR *25)*(BRA_spread$AY*10 + BRA_spread$AR*25)
+#GoalsXbookings
+BRA_spread$GoalsXbookings <- (BRA_spread$Bookings)*(BRA_spread$TG)
+#CornersXbookings
+BRA_spread$CornersXbookings <- (BRA_spread$TC)*(BRA_spread$Bookings)
+#GoalsXCorners
+BRA_spread$GoalsXcorners <- (BRA_spread$TG)*(BRA_spread$TC)
+#TGMxCorners
+BRA_spread$TGMXcorners <- (BRA_spread$Total_Goalmins)*(BRA_spread$TC)
+#GoalsXcornersXbookings
+BRA_spread$GoalsXcornerXbookings <- (BRA_spread$TG)*(BRA_spread$TC)*(BRA_spread$Bookings)
+
+#first half
+FH_HYC <- c()
+FH_HYC <- sqldf("SELECT bra_summary.matchid,COUNT(*) AS FH_HYC FROM bra_summary WHERE bra_summary.Event_Type = 'Yellow Card' AND bra_summary.Event_Half = '1' AND bra_summary.Home_Away = 'Home' GROUP BY bra_summary.matchid ")
+BRA_spread <- dplyr::left_join(BRA_spread,FH_HYC)
+BRA_spread <- BRA_spread %>% replace(is.na(.),0)
+
+FH_AYC <- c()
+FH_AYC <- sqldf("SELECT bra_summary.matchid,COUNT(*) AS FH_AYC FROM bra_summary WHERE bra_summary.Event_Type = 'Yellow Card' AND bra_summary.Event_Half = '1' AND bra_summary.Home_Away = 'Away' GROUP BY bra_summary.matchid ")
+BRA_spread <- dplyr::left_join(BRA_spread,FH_AYC)
+BRA_spread <- BRA_spread %>% replace(is.na(.),0)
+
+FH_HRC <- c()
+FH_HRC <- sqldf("SELECT bra_summary.matchid,COUNT(*) AS FH_HRC FROM bra_summary WHERE bra_summary.Event_Type = 'Red Card' AND bra_summary.Event_Half = '1' AND bra_summary.Home_Away = 'Home' GROUP BY bra_summary.matchid ")
+BRA_spread <- dplyr::left_join(BRA_spread,FH_HRC)
+BRA_spread <- BRA_spread %>% replace(is.na(.),0)
+
+FH_ARC <- c()
+FH_ARC <- sqldf("SELECT bra_summary.matchid,COUNT(*) AS FH_ARC FROM bra_summary WHERE bra_summary.Event_Type = 'Red Card' AND bra_summary.Event_Half = '1' AND bra_summary.Home_Away = 'Away' GROUP BY bra_summary.matchid ")
+BRA_spread <- dplyr::left_join(BRA_spread,FH_ARC)
+BRA_spread <- BRA_spread %>% replace(is.na(.),0)
+
+#second half
+SH_HYC <- c()
+SH_HYC <- sqldf("SELECT bra_summary.matchid,COUNT(*) AS SH_HYC FROM bra_summary WHERE bra_summary.Event_Type = 'Yellow Card' AND bra_summary.Event_Half = '2' AND bra_summary.Home_Away = 'Home' GROUP BY bra_summary.matchid ")
+BRA_spread <- dplyr::left_join(BRA_spread,SH_HYC)
+BRA_spread <- BRA_spread %>% replace(is.na(.),0)
+
+SH_AYC <- c()
+SH_AYC <- sqldf("SELECT bra_summary.matchid,COUNT(*) AS SH_AYC FROM bra_summary WHERE bra_summary.Event_Type = 'Yellow Card' AND bra_summary.Event_Half = '2' AND bra_summary.Home_Away = 'Away' GROUP BY bra_summary.matchid ")
+BRA_spread <- dplyr::left_join(BRA_spread,SH_AYC)
+BRA_spread <- BRA_spread %>% replace(is.na(.),0)
+
+SH_HRC <- c()
+SH_HRC <- sqldf("SELECT bra_summary.matchid,COUNT(*) AS SH_HRC FROM bra_summary WHERE bra_summary.Event_Type = 'Red Card' AND bra_summary.Event_Half = '2' AND bra_summary.Home_Away = 'Home' GROUP BY bra_summary.matchid ")
+BRA_spread <- dplyr::left_join(BRA_spread,SH_HRC)
+BRA_spread <- BRA_spread %>% replace(is.na(.),0)
+
+SH_ARC <- c()
+SH_ARC <- sqldf("SELECT bra_summary.matchid,COUNT(*) AS SH_ARC FROM bra_summary WHERE bra_summary.Event_Type = 'Red Card' AND bra_summary.Event_Half = '2' AND bra_summary.Home_Away = 'Away' GROUP BY bra_summary.matchid ")
+BRA_spread <- dplyr::left_join(BRA_spread,SH_ARC)
+BRA_spread <- BRA_spread %>% replace(is.na(.),0)
+
+#firsthalf
+BRA_spread$FH_HomeBookings <- BRA_spread$FH_HYC *10 + BRA_spread$FH_HRC *25
+
+BRA_spread$FH_AwayBookings <- BRA_spread$FH_AYC *10 + BRA_spread$FH_ARC *25
+
+BRA_spread$FH_TotalBookings <- BRA_spread$FH_HomeBookings + BRA_spread$FH_AwayBookings
+
+#second half
+BRA_spread$SH_HomeBookings <- BRA_spread$SH_HYC *10 + BRA_spread$SH_HRC *25
+
+BRA_spread$SH_AwayBookings <- BRA_spread$SH_AYC *10 + BRA_spread$SH_ARC *25
+
+BRA_spread$SH_TotalBookings <- BRA_spread$SH_HomeBookings + BRA_spread$SH_AwayBookings
+
+
+BRA_spread$MultiBookings <- BRA_spread$FH_TotalBookings * BRA_spread$SH_TotalBookings
+
+
+
+Home_YCmins <- c()
+Home_YCmins <- sqldf("SELECT bra_summary.matchid,SUM(Event_time) AS Home_YCmins FROM bra_summary WHERE bra_summary.Event_Type = 'Yellow Card' AND bra_summary.Home_Away = 'Home' GROUP BY bra_summary.matchid ")
+BRA_spread <- dplyr::left_join(BRA_spread,Home_YCmins)
+BRA_spread <- BRA_spread %>% replace(is.na(.),0)
+
+Home_RCmins <- c()
+Home_RCmins <- sqldf("SELECT bra_summary.matchid,SUM(Event_time)*2 AS Home_RCmins FROM bra_summary WHERE bra_summary.Event_Type = 'Red Card' AND bra_summary.Home_Away = 'Home' GROUP BY bra_summary.matchid ")
+BRA_spread <- dplyr::left_join(BRA_spread,Home_RCmins)
+BRA_spread <- BRA_spread %>% replace(is.na(.),0)
+
+Away_YCmins <- c()
+Away_YCmins <- sqldf("SELECT bra_summary.matchid,SUM(Event_time) AS Away_YCmins FROM bra_summary WHERE bra_summary.Event_Type = 'Yellow Card' AND bra_summary.Home_Away = 'Away' GROUP BY bra_summary.matchid ")
+BRA_spread <- dplyr::left_join(BRA_spread,Away_YCmins)
+BRA_spread <- BRA_spread %>% replace(is.na(.),0)
+
+Away_RCmins <- c()
+Away_RCmins <- sqldf("SELECT bra_summary.matchid,SUM(Event_time)*2 AS Away_RCmins FROM bra_summary WHERE bra_summary.Event_Type = 'Red Card' AND bra_summary.Home_Away = 'Away' GROUP BY bra_summary.matchid ")
+BRA_spread <- dplyr::left_join(BRA_spread,Away_RCmins)
+BRA_spread <- BRA_spread %>% replace(is.na(.),0)
+
+BRA_spread$Home_TotalCardmins <- BRA_spread$Home_YCmins + BRA_spread$Home_RCmins
+BRA_spread$Away_TotalCardmins <- BRA_spread$Away_YCmins + BRA_spread$Away_RCmins
+BRA_spread$match_TotalCardmins <- BRA_spread$Home_TotalCardmins + BRA_spread$Away_TotalCardmins
+
+Home_first_YCTime <- c()
+Home_first_YCTime <- sqldf("SELECT bra_summary.matchid,MIN(bra_summary.Event_Time) AS Home_first_YCTime FROM bra_summary WHERE bra_summary.Event_Type = 'Yellow Card' AND bra_summary.Home_Away = 'Home' GROUP BY bra_summary.matchid ")
+BRA_spread <- dplyr::left_join(BRA_spread,Home_first_YCTime)
+BRA_spread <- BRA_spread %>% replace(is.na(.),0)
+
+Away_first_YCTime <- c()
+Away_first_YCTime <- sqldf("SELECT bra_summary.matchid,MIN(bra_summary.Event_Time) AS Away_first_YCTime FROM bra_summary WHERE bra_summary.Event_Type = 'Yellow Card' AND bra_summary.Home_Away = 'Away' GROUP BY bra_summary.matchid ")
+BRA_spread <- dplyr::left_join(BRA_spread,Away_first_YCTime)
+BRA_spread <- BRA_spread %>% replace(is.na(.),0)
+
+BRA_spread$match_First_YCTime <- pmin(BRA_spread$Home_first_YCTime,BRA_spread$Away_first_YCTime)
+
+#count number of penalties in a match
+Penalty <- c()
+Penalty <- sqldf("SELECT bra_summary.matchid,COUNT(*) AS Penalty FROM bra_summary WHERE bra_summary.Event_Type = 'Penalty' GROUP BY bra_summary.matchid ")
+BRA_spread <- dplyr::left_join(BRA_spread,Penalty)
+BRA_spread <- BRA_spread %>% replace(is.na(.),0)
+#calculate match performance
+BRA_spread$MatchPerfomance <- BRA_spread$TG *15 + BRA_spread$TY *5 + BRA_spread$TR *15 + BRA_spread$TC *3 + BRA_spread$Penalty *10
+
+
+unlink('BRA_SPREAD.xlsx')
+write.xlsx(BRA_spread,'BRA_SPREAD.xlsx')
 
 
 ####################################################################################################
@@ -319,8 +468,10 @@ write.xlsx(MLS_refereestats,'MLS_refereestats.xlsx')
 ARG_refereestats <- sqldf("SELECT Referee,COUNT(*),SUM(Bookings),AVG(Bookings),SUM(CrossBookings),AVG(CrossBookings),SUM(MultiBookings),AVG(MultiBookings),AVG(Home_first_YCTime),AVG(Away_first_YCTime),AVG(Match_first_YCTime) FROM ARG_spread GROUP BY Referee ORDER BY COUNT(*) DESC")
 unlink('ARG_refereestats.xlsx')
 write.xlsx(ARG_refereestats,'ARG_refereestats.xlsx')
-
-
+#############################################################
+BRA_refereestats <- sqldf("SELECT Referee,COUNT(*),SUM(Bookings),AVG(Bookings),SUM(CrossBookings),AVG(CrossBookings),SUM(MultiBookings),AVG(MultiBookings),AVG(Home_first_YCTime),AVG(Away_first_YCTime),AVG(Match_first_YCTime) FROM BRA_spread GROUP BY Referee ORDER BY COUNT(*) DESC")
+unlink('BRA_refereestats.xlsx')
+write.xlsx(BRA_refereestats,'BRA_refereestats.xlsx')
 
 
 

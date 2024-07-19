@@ -10,26 +10,32 @@ options(java.parameters = "-Xmx4g")
 
 ###MLS
 mls_match_results <- fb_match_results(country = "USA", gender = "M", season_end_year = 2024, tier="1st")
+unlink('mls_match_results.xlsx')
 write.xlsx(mls_match_results,"mls_match_results.xlsx")
 mls_urls <- fb_match_urls(country = "USA", gender = "M", season_end_year = 2024, tier="1st")
+unlink('mls_urls.xlsx')
 write.xlsx(mls_urls,"mls_urls.xlsx")
 
 mls_match_sumary <- fb_match_summary(match_url = mls_urls)
+unlink('mls_match_summary.xlsx')
 write.xlsx(mls_match_sumary,"mls_match_summary.xlsx")
 
 mls_match_shots <- fb_advanced_match_stats(match_url = mls_urls,
                                            stat_type = "summary" , team_or_player = "team")
 
+unlink('mls_shots.xlsx')
 write.xlsx(mls_match_shots,"mls_shots.xlsx")
 
 mls_match_corners <- fb_advanced_match_stats(match_url = mls_urls,
                                              stat_type = "passing_types" , team_or_player = "team")
 
+unlink('mls_corners.xlsx')
 write.xlsx(mls_match_corners,"mls_corners.xlsx")
 
 mls_match_fouls <- fb_advanced_match_stats(match_url = mls_urls,
                                            stat_type = "misc" , team_or_player = "team")
 
+unlink('mls_fouls.xlsx')
 write.xlsx(mls_match_fouls,"mls_fouls.xlsx")
 
 ################################################################################################################
@@ -186,28 +192,36 @@ unlink('LEAGUESCSV/MLS.csv')
 write.csv(MLS,'LEAGUESCSV/MLS.csv')
 ####################################################################################################################################################################################
 ####################################################################################################################################################################################
-###ARG
+##########
+#ARG     #
+##########
 arg_match_results <- fb_match_results(country = "ARG", gender = "M", season_end_year = 2024, tier="1st")
+unlink('arg_match_results.xlsx')
 write.xlsx(arg_match_results,"arg_match_results.xlsx")
 arg_urls <- fb_match_urls(country = "ARG", gender = "M", season_end_year = 2024, tier="1st")
+unlink('arg_urls.xlsx')
 write.xlsx(arg_urls,"arg_urls.xlsx")
 
 arg_match_sumary <- fb_match_summary(match_url = arg_urls)
+unlink('arg_match_summary.xlsx')
 write.xlsx(arg_match_sumary,"arg_match_summary.xlsx")
 
 arg_match_shots <- fb_advanced_match_stats(match_url = arg_urls,
                                            stat_type = "summary" , team_or_player = "team")
 
+unlink('arg_shots.xlsx')
 write.xlsx(arg_match_shots,"arg_shots.xlsx")
 
 arg_match_corners <- fb_advanced_match_stats(match_url = arg_urls,
                                              stat_type = "passing_types" , team_or_player = "team")
 
+unlink('arg_corners.xlsx')
 write.xlsx(arg_match_corners,"arg_corners.xlsx")
 
 arg_match_fouls <- fb_advanced_match_stats(match_url = arg_urls,
                                            stat_type = "misc" , team_or_player = "team")
 
+unlink('arg_fouls.xlsx')
 write.xlsx(arg_match_fouls,"arg_fouls.xlsx")
 
 ################################################################################################################
@@ -363,8 +377,376 @@ ARG <- ARG %>% dplyr::relocate(22,.after = 19)
 #write csv
 unlink('LEAGUESCSV/ARG.csv')
 write.csv(ARG,'LEAGUESCSV/ARG.csv')
+#################################################################################################################################################################################
+#################################################################################################################################################################################
+##########
+#BRA     #
+##########
+bra_match_results <- fb_match_results(country = "BRA", gender = "M", season_end_year = 2024, tier="1st")
+unlink('bra_match_results.xlsx')
+write.xlsx(bra_match_results,"bra_match_results.xlsx")
+bra_urls <- fb_match_urls(country = "BRA", gender = "M", season_end_year = 2024, tier="1st")
+unlink('bra_urls.xlsx')
+write.xlsx(bra_urls,"bra_urls.xlsx")
 
-View(ARG)
+bra_match_sumary <- fb_match_summary(match_url = bra_urls)
+unlink('bra_match_summary.xlsx')
+write.xlsx(bra_match_sumary,"bra_match_summary.xlsx")
+
+bra_match_shots <- fb_advanced_match_stats(match_url = bra_urls,
+                                           stat_type = "summary" , team_or_player = "team")
+
+unlink('bra_shots.xlsx')
+write.xlsx(bra_match_shots,"bra_shots.xlsx")
+
+bra_match_corners <- fb_advanced_match_stats(match_url = bra_urls,
+                                             stat_type = "passing_types" , team_or_player = "team")
+
+unlink('bra_corners.xlsx')
+write.xlsx(bra_match_corners,"bra_corners.xlsx")
+
+bra_match_fouls <- fb_advanced_match_stats(match_url = bra_urls,
+                                           stat_type = "misc" , team_or_player = "team")
+
+unlink('bra_fouls.xlsx')
+write.xlsx(bra_match_fouls,"bra_fouls.xlsx")
+
+################################################################################################################
+BRA <- bra_match_results
+colnames(BRA)[1] <- "Div"
+BRA$Div <- "BRA"
+BRA <- BRA %>% dplyr::relocate(8,.after = 1)
+colnames(BRA)[10] <- "HomeTeam"
+colnames(BRA)[13] <- "AwayTeam"
+BRA <- BRA %>% dplyr::relocate(10,.after = 2)
+BRA <- BRA %>% dplyr::relocate(13,.after = 3)
 
 
+BRA$HomeTeam <- mgsub(BRA$HomeTeam,c("Atlético Mineiro","Botafogo \\(RJ\\)","Criciúma","Cuiabá","Grêmio","São Paulo","Vitória"),c("Atletico Mineiro","Botafogo RJ","Criciuma","Cuiaba","Gremio","Sao Paulo","Vitoria"))
+BRA$AwayTeam <- mgsub(BRA$AwayTeam,c("Atlético Mineiro","Botafogo \\(RJ\\)","Criciúma","Cuiabá","Grêmio","São Paulo","Vitória"),c("Atletico Mineiro","Botafogo RJ","Criciuma","Cuiaba","Gremio","Sao Paulo","Vitoria"))
+
+colnames(BRA)[12] <- "FTHG"
+colnames(BRA)[14] <- "FTAG"
+
+BRA <- BRA %>% dplyr::relocate(12,.after = 4)
+BRA <- BRA %>% dplyr::relocate(14,.after = 5)
+
+BRA$FTR <- with(BRA,
+                ifelse(FTHG > FTAG ,FTR <- "H" , ifelse(FTAG > FTHG,FTR <- "A", FTR <- "D"))
+)
+
+BRA <- BRA %>% dplyr::relocate(21,.after = 6)
+
+BRA <- BRA[,c(1,2,3,4,5,6,7,15,16,19)]
+
+BRA$matchid <- paste(BRA$Date,BRA$HomeTeam,BRA$AwayTeam, sep = "-")
+
+#shots
+#read bra_match_shots
+bra_match_shots <- readxl::read_excel("bra_shots.xlsx")
+bra_match_shots <- bra_match_shots[,c(-1)]
+bra_match_shots$Home_Team <- mgsub(bra_match_shots$Home_Team,c("Athletico Paranaense","Atlético Goianiense","Atlético Mineiro","Botafogo \\(RJ\\)","Criciúma","Cuiabá","Grêmio","São Paulo","Vitória"),c("Ath Paranaense","Atl Goianiense","Atletico Mineiro","Botafogo RJ","Criciuma","Cuiaba","Gremio","Sao Paulo","Vitoria"))
+bra_match_shots$Away_Team <- mgsub(bra_match_shots$Away_Team,c("Athletico Paranaense","Atlético Goianiense","Atlético Mineiro","Botafogo \\(RJ\\)","Criciúma","Cuiabá","Grêmio","São Paulo","Vitória"),c("Ath Paranaense","Atl Goianiense","Atletico Mineiro","Botafogo RJ","Criciuma","Cuiaba","Gremio","Sao Paulo","Vitoria"))
+bra_match_shots$Team <- mgsub(bra_match_shots$Team,c("Athletico Paranaense","Atlético Goianiense","Atlético Mineiro","Botafogo \\(RJ\\)","Criciúma","Cuiabá","Grêmio","São Paulo","Vitória"),c("Ath Paranaense","Atl Goianiense","Atletico Mineiro","Botafogo RJ","Criciuma","Cuiaba","Gremio","Sao Paulo","Vitoria"))
+
+bra_match_shots$matchid <- paste(bra_match_shots$Match_Date,bra_match_shots$Home_Team,bra_match_shots$Away_Team,sep = "-")
+#remove all NAs
+BRA <- na.omit(BRA)
+
+library('sqldf')
+require('RH2')
+####################################
+#Home yellowcards
+####################################
+HY <- c()
+HY <- sqldf("SELECT bra_match_shots.CrdY AS HY,bra_match_shots.matchid FROM bra_match_shots INNER JOIN BRA ON BRA.matchid = bra_match_shots.matchid WHERE bra_match_shots.Home_Team = BRA.HomeTeam  AND bra_match_shots.Home_Away = 'Home'")
+BRA <- dplyr::left_join(BRA,HY)
+
+BRA <- BRA %>% dplyr::relocate(12,.after = 9)
+colnames(BRA)[10] <- "HY"
+#away yellow cards
+
+AY <- c()
+AY <- sqldf("SELECT bra_match_shots.CrdY AS AY,bra_match_shots.matchid FROM bra_match_shots INNER JOIN BRA ON BRA.matchid = bra_match_shots.matchid WHERE bra_match_shots.Away_Team = BRA.AwayTeam  AND bra_match_shots.Home_Away = 'Away'")
+BRA <- dplyr::left_join(BRA,AY)
+
+BRA <- BRA %>% dplyr::relocate(13,.after = 10)
+colnames(BRA)[11] <- "AY"
+
+#########################################################################################################################################################################
+#red cards
+###########################################################################################################################################################################
+#
+HR <- c()
+HR <- sqldf("SELECT bra_match_shots.CrdR AS HR,bra_match_shots.matchid FROM bra_match_shots INNER JOIN BRA ON BRA.matchid = bra_match_shots.matchid WHERE bra_match_shots.Home_Team = BRA.HomeTeam  AND bra_match_shots.Home_Away = 'Home'")
+BRA <- dplyr::left_join(BRA,HR)
+
+BRA <- BRA %>% dplyr::relocate(14,.after = 11)
+colnames(BRA)[12] <- "HR"
+#away red cards
+
+AR <- c()
+AR <- sqldf("SELECT bra_match_shots.CrdR AS AR,bra_match_shots.matchid FROM bra_match_shots INNER JOIN BRA ON BRA.matchid = bra_match_shots.matchid WHERE bra_match_shots.Away_Team = BRA.AwayTeam  AND bra_match_shots.Home_Away = 'Away'")
+BRA <- dplyr::left_join(BRA,AR)
+
+BRA <- BRA %>% dplyr::relocate(15,.after = 12)
+colnames(BRA)[13] <- "AR"
+
+##################################################
+#shots on target
+HST <- c()
+HST <- sqldf("SELECT bra_match_shots.SoT AS HST,bra_match_shots.matchid FROM bra_match_shots INNER JOIN BRA ON BRA.matchid = bra_match_shots.matchid WHERE bra_match_shots.Home_Team = BRA.HomeTeam  AND bra_match_shots.Home_Away = 'Home'")
+BRA <- dplyr::left_join(BRA,HST)
+
+BRA <- BRA %>% dplyr::relocate(16,.after = 13)
+colnames(BRA)[14] <- "HST"
+
+
+AST <- c()
+AST <- sqldf("SELECT bra_match_shots.SoT AS AST,bra_match_shots.matchid FROM bra_match_shots INNER JOIN BRA ON BRA.matchid = bra_match_shots.matchid WHERE bra_match_shots.Away_Team = BRA.AwayTeam  AND bra_match_shots.Home_Away = 'Away'")
+BRA <- dplyr::left_join(BRA,AST)
+
+BRA <- BRA %>% dplyr::relocate(17,.after = 14)
+colnames(BRA)[15] <- "AST"
+
+###################################################################################################
+#corners
+
+bra_match_corners <- readxl::read_excel("bra_corners.xlsx")
+bra_match_corners <- bra_match_corners[,c(-1)]
+bra_match_corners$Home_Team <- mgsub(bra_match_corners$Home_Team,c("Athletico Paranaense","Atlético Goianiense","Atlético Mineiro","Botafogo \\(RJ\\)","Criciúma","Cuiabá","Grêmio","São Paulo","Vitória"),c("Ath Paranaense","Atl Goianiense","Atletico Mineiro","Botafogo RJ","Criciuma","Cuiaba","Gremio","Sao Paulo","Vitoria"))
+bra_match_corners$Away_Team <- mgsub(bra_match_corners$Away_Team,c("Athletico Paranaense","Atlético Goianiense","Atlético Mineiro","Botafogo \\(RJ\\)","Criciúma","Cuiabá","Grêmio","São Paulo","Vitória"),c("Ath Paranaense","Atl Goianiense","Atletico Mineiro","Botafogo RJ","Criciuma","Cuiaba","Gremio","Sao Paulo","Vitoria"))
+bra_match_corners$Team <- mgsub(bra_match_corners$Team,c("Athletico Paranaense","Atlético Goianiense","Atlético Mineiro","Botafogo \\(RJ\\)","Criciúma","Cuiabá","Grêmio","São Paulo","Vitória"),c("Ath Paranaense","Atl Goianiense","Atletico Mineiro","Botafogo RJ","Criciuma","Cuiaba","Gremio","Sao Paulo","Vitoria"))
+
+bra_match_corners$matchid <- paste(bra_match_corners$Match_Date,bra_match_corners$Home_Team,bra_match_corners$Away_Team,sep = "-")
+
+HC <- c()
+HC <- sqldf("SELECT bra_match_corners.Ck_Pass_Types AS HC,bra_match_corners.matchid FROM bra_match_corners INNER JOIN BRA ON BRA.matchid = bra_match_corners.matchid WHERE bra_match_corners.Home_Team = BRA.HomeTeam  AND bra_match_corners.Home_Away = 'Home'")
+BRA <- dplyr::left_join(BRA,HC)
+
+BRA <- BRA %>% dplyr::relocate(18,.after = 15)
+colnames(BRA)[16] <- "HCO"
+
+AC <- c()
+AC <- sqldf("SELECT bra_match_corners.Ck_Pass_Types AS AC,bra_match_corners.matchid FROM bra_match_corners INNER JOIN BRA ON BRA.matchid = bra_match_corners.matchid WHERE bra_match_corners.Away_Team = BRA.AwayTeam  AND bra_match_corners.Home_Away = 'Away'")
+BRA <- dplyr::left_join(BRA,AC)
+BRA <- BRA %>% dplyr::relocate(19,.after = 16)
+colnames(BRA)[17] <- "ACO"
+#####################################################################################################
+#Fouls
+#####################################################################################################
+bra_match_fouls <- readxl::read_excel("bra_fouls.xlsx")
+bra_match_fouls <- bra_match_fouls[,c(-1)]
+bra_match_fouls$Home_Team <- mgsub(bra_match_fouls$Home_Team,c("Athletico Paranaense","Atlético Goianiense","Atlético Mineiro","Botafogo \\(RJ\\)","Criciúma","Cuiabá","Grêmio","São Paulo","Vitória"),c("Ath Paranaense","Atl Goianiense","Atletico Mineiro","Botafogo RJ","Criciuma","Cuiaba","Gremio","Sao Paulo","Vitoria"))
+bra_match_fouls$Away_Team <- mgsub(bra_match_fouls$Away_Team,c("Athletico Paranaense","Atlético Goianiense","Atlético Mineiro","Botafogo \\(RJ\\)","Criciúma","Cuiabá","Grêmio","São Paulo","Vitória"),c("Ath Paranaense","Atl Goianiense","Atletico Mineiro","Botafogo RJ","Criciuma","Cuiaba","Gremio","Sao Paulo","Vitoria"))
+bra_match_fouls$Team <- mgsub(bra_match_fouls$Team,c("Athletico Paranaense","Atlético Goianiense","Atlético Mineiro","Botafogo \\(RJ\\)","Criciúma","Cuiabá","Grêmio","São Paulo","Vitória"),c("Ath Paranaense","Atl Goianiense","Atletico Mineiro","Botafogo RJ","Criciuma","Cuiaba","Gremio","Sao Paulo","Vitoria"))
+
+bra_match_fouls$matchid <- paste(bra_match_fouls$Match_Date,bra_match_fouls$Home_Team,bra_match_fouls$Away_Team,sep = "-")
+
+HF <- c()
+HF <- sqldf("SELECT bra_match_fouls.Fls AS HF,bra_match_fouls.matchid FROM bra_match_fouls INNER JOIN BRA ON BRA.matchid = bra_match_fouls.matchid WHERE bra_match_fouls.Home_Team = BRA.HomeTeam  AND bra_match_fouls.Home_Away = 'Home'")
+BRA <- dplyr::left_join(BRA,HF)
+
+BRA <- BRA %>% dplyr::relocate(20,.after = 17)
+colnames(BRA)[18] <- "HF"
+
+AF <- c()
+AF <- sqldf("SELECT bra_match_fouls.Fls AS AF,bra_match_fouls.matchid FROM bra_match_fouls INNER JOIN BRA ON BRA.matchid = bra_match_fouls.matchid WHERE bra_match_fouls.Away_Team = BRA.AwayTeam  AND bra_match_fouls.Home_Away = 'Away'")
+BRA <- dplyr::left_join(BRA,AF)
+colnames(BRA)
+BRA <- BRA %>% dplyr::relocate(21,.after = 18)
+colnames(BRA)[19] <- "AF"
+##################################
+BRA$CS <- paste(BRA$FTHG,BRA$FTAG,sep = "-")
+colnames(BRA)
+BRA <- BRA %>% dplyr::relocate(22,.after = 19)
+###########################
+#write csv
+unlink('LEAGUESCSV/BRA.csv')
+write.csv(BRA,'LEAGUESCSV/BRA.csv')
+#################################################################################################################################################
+#################
+#MEX            #
+#################
+mex_match_results <- fb_match_results(country = "MEX", gender = "M", season_end_year = 2024, tier="1st")
+unlink('mex_match_results.xlsx')
+write.xlsx(mex_match_results,"mex_match_results.xlsx")
+mex_urls <- fb_match_urls(country = "MEX", gender = "M", season_end_year = 2024, tier="1st")
+unlink('mex_urls.xlsx')
+write.xlsx(mex_urls,"mex_urls.xlsx")
+
+mex_match_sumary <- fb_match_summary(match_url = mex_urls)
+unlink('mex_match_summary.xlsx')
+write.xlsx(mex_match_sumary,"mex_match_summary.xlsx")
+
+mex_match_shots <- fb_advanced_match_stats(match_url = mex_urls,
+                                           stat_type = "summary" , team_or_player = "team")
+
+unlink('mex_shots.xlsx')
+write.xlsx(mex_match_shots,"mex_shots.xlsx")
+
+mex_match_corners <- fb_advanced_match_stats(match_url = mex_urls,
+                                             stat_type = "passing_types" , team_or_player = "team")
+
+unlink('mex_corners.xlsx')
+write.xlsx(mex_match_corners,"mex_corners.xlsx")
+
+mex_match_fouls <- fb_advanced_match_stats(match_url = mex_urls,
+                                           stat_type = "misc" , team_or_player = "team")
+
+unlink('mex_fouls.xlsx')
+write.xlsx(mex_match_fouls,"mex_fouls.xlsx")
+
+################################################################################################################
+MEX <- mex_match_results
+colnames(MEX)[1] <- "Div"
+MEX$Div <- "MEX"
+MEX <- MEX %>% dplyr::relocate(8,.after = 1)
+colnames(MEX)[10] <- "HomeTeam"
+colnames(MEX)[13] <- "AwayTeam"
+MEX <- MEX %>% dplyr::relocate(10,.after = 2)
+MEX <- MEX %>% dplyr::relocate(13,.after = 3)
+
+MEX$HomeTeam <- mgsub(MEX$HomeTeam,c("Vancouver W'caps","CF Montréal"),c("Vancouver Wcaps","CF Montreal"))
+MEX$AwayTeam <- mgsub(MEX$AwayTeam,c("Vancouver W'caps","CF Montréal"),c("Vancouver Wcaps","CF Montreal"))
+
+colnames(MEX)[12] <- "FTHG"
+colnames(MEX)[14] <- "FTAG"
+
+MEX <- MEX %>% dplyr::relocate(12,.after = 4)
+MEX <- MEX %>% dplyr::relocate(14,.after = 5)
+
+MEX$FTR <- with(MEX,
+                ifelse(FTHG > FTAG ,FTR <- "H" , ifelse(FTAG > FTHG,FTR <- "A", FTR <- "D"))
+)
+
+MEX <- MEX %>% dplyr::relocate(21,.after = 6)
+
+MEX <- MEX[,c(1,2,3,4,5,6,7,15,16,19)]
+
+MEX$matchid <- paste(MEX$Date,MEX$HomeTeam,MEX$AwayTeam, sep = "-")
+sort(unique(MEX$HomeTeam))
+#shots
+#read mex_match_shots
+mex_match_shots <- readxl::read_excel("mex_shots.xlsx")
+mex_match_shots <- mex_match_shots[,c(-1)]
+mex_match_shots$Home_Team <- mgsub(mex_match_shots$Home_Team,c("Vancouver Whitecaps FC","CF Montréal","Austin FC","Charlotte FC","Chicago Fire","Colorado Rapids","Columbus Crew","Houston Dynamo","Los Angeles FC","Minnesota United","Nashville SC","New England Revolution","New York Red Bulls","New York City FC","Philadelphia Union","Real Salt Lake","San Jose Earthquakes","Seattle Sounders FC","Sporting Kansas City","St. Louis City","Vancouver Whitecaps FC","Atlanta United"),c("Vancouver Wcaps","CF Montreal","Austin","Charlotte","Fire","Rapids","Crew","Dynamo FC","LAFC","Minnesota Utd","Nashville","NE Revolution","NY Red Bulls","NYCFC","Philadelphia","RSL","SJ Earthquakes","Seattle","Sporting KC","St. Louis","Vancouver Wcaps","Atlanta Utd"))
+mex_match_shots$Away_Team <- mgsub(mex_match_shots$Away_Team,c("Vancouver Whitecaps FC","CF Montréal","Austin FC","Charlotte FC","Chicago Fire","Colorado Rapids","Columbus Crew","Houston Dynamo","Los Angeles FC","Minnesota United","Nashville SC","New England Revolution","New York Red Bulls","New York City FC","Philadelphia Union","Real Salt Lake","San Jose Earthquakes","Seattle Sounders FC","Sporting Kansas City","St. Louis City","Vancouver Whitecaps FC","Atlanta United"),c("Vancouver Wcaps","CF Montreal","Austin","Charlotte","Fire","Rapids","Crew","Dynamo FC","LAFC","Minnesota Utd","Nashville","NE Revolution","NY Red Bulls","NYCFC","Philadelphia","RSL","SJ Earthquakes","Seattle","Sporting KC","St. Louis","Vancouver Wcaps","Atlanta Utd"))
+mex_match_shots$Team <- mgsub(mex_match_shots$Team,c("Vancouver Whitecaps FC","CF Montréal","Austin FC","Charlotte FC","Chicago Fire","Colorado Rapids","Columbus Crew","Houston Dynamo","Los Angeles FC","Minnesota United","Nashville SC","New England Revolution","New York Red Bulls","New York City FC","Philadelphia Union","Real Salt Lake","San Jose Earthquakes","Seattle Sounders FC","Sporting Kansas City","St. Louis City","Vancouver Whitecaps FC","Atlanta United"),c("Vancouver Wcaps","CF Montreal","Austin","Charlotte","Fire","Rapids","Crew","Dynamo FC","LAFC","Minnesota Utd","Nashville","NE Revolution","NY Red Bulls","NYCFC","Philadelphia","RSL","SJ Earthquakes","Seattle","Sporting KC","St. Louis","Vancouver Wcaps","Atlanta Utd"))
+
+mex_match_shots$matchid <- paste(mex_match_shots$Match_Date,mex_match_shots$Home_Team,mex_match_shots$Away_Team,sep = "-")
+#remove all NAs
+MEX <- na.omit(MEX)
+
+library('sqldf')
+require('RH2')
+####################################
+#Home yellowcards
+####################################
+HY <- c()
+HY <- sqldf("SELECT mex_match_shots.CrdY AS HY,mex_match_shots.matchid FROM mex_match_shots INNER JOIN MEX ON MEX.matchid = mex_match_shots.matchid WHERE mex_match_shots.Home_Team = MEX.HomeTeam  AND mex_match_shots.Home_Away = 'Home'")
+MEX <- dplyr::left_join(MEX,HY)
+
+MEX <- MEX %>% dplyr::relocate(12,.after = 9)
+colnames(MEX)[10] <- "HY"
+#away yellow cards
+
+AY <- c()
+AY <- sqldf("SELECT mex_match_shots.CrdY AS AY,mex_match_shots.matchid FROM mex_match_shots INNER JOIN MEX ON MEX.matchid = mex_match_shots.matchid WHERE mex_match_shots.Away_Team = MEX.AwayTeam  AND mex_match_shots.Home_Away = 'Away'")
+MEX <- dplyr::left_join(MEX,AY)
+
+MEX <- MEX %>% dplyr::relocate(13,.after = 10)
+colnames(MEX)[11] <- "AY"
+
+#########################################################################################################################################################################
+#red cards
+###########################################################################################################################################################################
+#
+HR <- c()
+HR <- sqldf("SELECT mex_match_shots.CrdR AS HR,mex_match_shots.matchid FROM mex_match_shots INNER JOIN MEX ON MEX.matchid = mex_match_shots.matchid WHERE mex_match_shots.Home_Team = MEX.HomeTeam  AND mex_match_shots.Home_Away = 'Home'")
+MEX <- dplyr::left_join(MEX,HR)
+
+MEX <- MEX %>% dplyr::relocate(14,.after = 11)
+colnames(MEX)[12] <- "HR"
+#away red cards
+
+AR <- c()
+AR <- sqldf("SELECT mex_match_shots.CrdR AS AR,mex_match_shots.matchid FROM mex_match_shots INNER JOIN MEX ON MEX.matchid = mex_match_shots.matchid WHERE mex_match_shots.Away_Team = MEX.AwayTeam  AND mex_match_shots.Home_Away = 'Away'")
+MEX <- dplyr::left_join(MEX,AR)
+colnames(MEX)
+MEX <- MEX %>% dplyr::relocate(15,.after = 12)
+colnames(MEX)[13] <- "AR"
+
+##################################################
+#shots on target
+HST <- c()
+HST <- sqldf("SELECT mex_match_shots.SoT AS HST,mex_match_shots.matchid FROM mex_match_shots INNER JOIN MEX ON MEX.matchid = mex_match_shots.matchid WHERE mex_match_shots.Home_Team = MEX.HomeTeam  AND mex_match_shots.Home_Away = 'Home'")
+MEX <- dplyr::left_join(MEX,HST)
+
+MEX <- MEX %>% dplyr::relocate(16,.after = 13)
+colnames(MEX)[14] <- "HST"
+
+
+AST <- c()
+AST <- sqldf("SELECT mex_match_shots.SoT AS AST,mex_match_shots.matchid FROM mex_match_shots INNER JOIN MEX ON MEX.matchid = mex_match_shots.matchid WHERE mex_match_shots.Away_Team = MEX.AwayTeam  AND mex_match_shots.Home_Away = 'Away'")
+MEX <- dplyr::left_join(MEX,AST)
+
+MEX <- MEX %>% dplyr::relocate(17,.after = 14)
+colnames(MEX)[15] <- "AST"
+
+###################################################################################################
+#corners
+
+mex_match_corners <- readxl::read_excel("mex_corners.xlsx")
+mex_match_corners <- mex_match_corners[,c(-1)]
+mex_match_corners$Home_Team <- mgsub(mex_match_corners$Home_Team,c("Vancouver Whitecaps FC","CF Montréal","Austin FC","Charlotte FC","Chicago Fire","Colorado Rapids","Columbus Crew","Houston Dynamo","Los Angeles FC","Minnesota United","Nashville SC","New England Revolution","New York Red Bulls","New York City FC","Philadelphia Union","Real Salt Lake","San Jose Earthquakes","Seattle Sounders FC","Sporting Kansas City","St. Louis City","Vancouver Whitecaps FC","Atlanta United"),c("Vancouver Wcaps","CF Montreal","Austin","Charlotte","Fire","Rapids","Crew","Dynamo FC","LAFC","Minnesota Utd","Nashville","NE Revolution","NY Red Bulls","NYCFC","Philadelphia","RSL","SJ Earthquakes","Seattle","Sporting KC","St. Louis","Vancouver Wcaps","Atlanta Utd"))
+mex_match_corners$Away_Team <- mgsub(mex_match_corners$Away_Team,c("Vancouver Whitecaps FC","CF Montréal","Austin FC","Charlotte FC","Chicago Fire","Colorado Rapids","Columbus Crew","Houston Dynamo","Los Angeles FC","Minnesota United","Nashville SC","New England Revolution","New York Red Bulls","New York City FC","Philadelphia Union","Real Salt Lake","San Jose Earthquakes","Seattle Sounders FC","Sporting Kansas City","St. Louis City","Vancouver Whitecaps FC","Atlanta United"),c("Vancouver Wcaps","CF Montreal","Austin","Charlotte","Fire","Rapids","Crew","Dynamo FC","LAFC","Minnesota Utd","Nashville","NE Revolution","NY Red Bulls","NYCFC","Philadelphia","RSL","SJ Earthquakes","Seattle","Sporting KC","St. Louis","Vancouver Wcaps","Atlanta Utd"))
+mex_match_corners$Team <- mgsub(mex_match_corners$Team,c("Vancouver Whitecaps FC","CF Montréal","Austin FC","Charlotte FC","Chicago Fire","Colorado Rapids","Columbus Crew","Houston Dynamo","Los Angeles FC","Minnesota United","Nashville SC","New England Revolution","New York Red Bulls","New York City FC","Philadelphia Union","Real Salt Lake","San Jose Earthquakes","Seattle Sounders FC","Sporting Kansas City","St. Louis City","Vancouver Whitecaps FC","Atlanta United"),c("Vancouver Wcaps","CF Montreal","Austin","Charlotte","Fire","Rapids","Crew","Dynamo FC","LAFC","Minnesota Utd","Nashville","NE Revolution","NY Red Bulls","NYCFC","Philadelphia","RSL","SJ Earthquakes","Seattle","Sporting KC","St. Louis","Vancouver Wcaps","Atlanta Utd"))
+
+mex_match_corners$matchid <- paste(mex_match_corners$Match_Date,mex_match_corners$Home_Team,mex_match_corners$Away_Team,sep = "-")
+
+HC <- c()
+HC <- sqldf("SELECT mex_match_corners.Ck_Pass_Types AS HC,mex_match_corners.matchid FROM mex_match_corners INNER JOIN MEX ON MEX.matchid = mex_match_corners.matchid WHERE mex_match_corners.Home_Team = MEX.HomeTeam  AND mex_match_corners.Home_Away = 'Home'")
+MEX <- dplyr::left_join(MEX,HC)
+
+MEX <- MEX %>% dplyr::relocate(18,.after = 15)
+colnames(MEX)[16] <- "HCO"
+
+AC <- c()
+AC <- sqldf("SELECT mex_match_corners.Ck_Pass_Types AS AC,mex_match_corners.matchid FROM mex_match_corners INNER JOIN MEX ON MEX.matchid = mex_match_corners.matchid WHERE mex_match_corners.Away_Team = MEX.AwayTeam  AND mex_match_corners.Home_Away = 'Away'")
+MEX <- dplyr::left_join(MEX,AC)
+MEX <- MEX %>% dplyr::relocate(19,.after = 16)
+colnames(MEX)[17] <- "ACO"
+#####################################################################################################
+#Fouls
+#####################################################################################################
+mex_match_fouls <- readxl::read_excel("mex_fouls.xlsx")
+mex_match_fouls <- mex_match_fouls[,c(-1)]
+mex_match_fouls$Home_Team <- mgsub(mex_match_fouls$Home_Team,c("Vancouver Whitecaps FC","CF Montréal","Austin FC","Charlotte FC","Chicago Fire","Colorado Rapids","Columbus Crew","Houston Dynamo","Los Angeles FC","Minnesota United","Nashville SC","New England Revolution","New York Red Bulls","New York City FC","Philadelphia Union","Real Salt Lake","San Jose Earthquakes","Seattle Sounders FC","Sporting Kansas City","St. Louis City","Vancouver Whitecaps FC","Atlanta United"),c("Vancouver Wcaps","CF Montreal","Austin","Charlotte","Fire","Rapids","Crew","Dynamo FC","LAFC","Minnesota Utd","Nashville","NE Revolution","NY Red Bulls","NYCFC","Philadelphia","RSL","SJ Earthquakes","Seattle","Sporting KC","St. Louis","Vancouver Wcaps","Atlanta Utd"))
+mex_match_fouls$Away_Team <- mgsub(mex_match_fouls$Away_Team,c("Vancouver Whitecaps FC","CF Montréal","Austin FC","Charlotte FC","Chicago Fire","Colorado Rapids","Columbus Crew","Houston Dynamo","Los Angeles FC","Minnesota United","Nashville SC","New England Revolution","New York Red Bulls","New York City FC","Philadelphia Union","Real Salt Lake","San Jose Earthquakes","Seattle Sounders FC","Sporting Kansas City","St. Louis City","Vancouver Whitecaps FC","Atlanta United"),c("Vancouver Wcaps","CF Montreal","Austin","Charlotte","Fire","Rapids","Crew","Dynamo FC","LAFC","Minnesota Utd","Nashville","NE Revolution","NY Red Bulls","NYCFC","Philadelphia","RSL","SJ Earthquakes","Seattle","Sporting KC","St. Louis","Vancouver Wcaps","Atlanta Utd"))
+mex_match_fouls$Team <- mgsub(mex_match_fouls$Team,c("Vancouver Whitecaps FC","CF Montréal","Austin FC","Charlotte FC","Chicago Fire","Colorado Rapids","Columbus Crew","Houston Dynamo","Los Angeles FC","Minnesota United","Nashville SC","New England Revolution","New York Red Bulls","New York City FC","Philadelphia Union","Real Salt Lake","San Jose Earthquakes","Seattle Sounders FC","Sporting Kansas City","St. Louis City","Vancouver Whitecaps FC","Atlanta United"),c("Vancouver Wcaps","CF Montreal","Austin","Charlotte","Fire","Rapids","Crew","Dynamo FC","LAFC","Minnesota Utd","Nashville","NE Revolution","NY Red Bulls","NYCFC","Philadelphia","RSL","SJ Earthquakes","Seattle","Sporting KC","St. Louis","Vancouver Wcaps","Atlanta Utd"))
+
+mex_match_fouls$matchid <- paste(mex_match_fouls$Match_Date,mex_match_fouls$Home_Team,mex_match_fouls$Away_Team,sep = "-")
+
+HF <- c()
+HF <- sqldf("SELECT mex_match_fouls.Fls AS HF,mex_match_fouls.matchid FROM mex_match_fouls INNER JOIN MEX ON MEX.matchid = mex_match_fouls.matchid WHERE mex_match_fouls.Home_Team = MEX.HomeTeam  AND mex_match_fouls.Home_Away = 'Home'")
+MEX <- dplyr::left_join(MEX,HF)
+
+MEX <- MEX %>% dplyr::relocate(20,.after = 17)
+colnames(MEX)[18] <- "HF"
+
+AF <- c()
+AF <- sqldf("SELECT mex_match_fouls.Fls AS AF,mex_match_fouls.matchid FROM mex_match_fouls INNER JOIN MEX ON MEX.matchid = mex_match_fouls.matchid WHERE mex_match_fouls.Away_Team = MEX.AwayTeam  AND mex_match_fouls.Home_Away = 'Away'")
+MEX <- dplyr::left_join(MEX,AF)
+colnames(MEX)
+MEX <- MEX %>% dplyr::relocate(21,.after = 18)
+colnames(MEX)[19] <- "AF"
+##################################
+MEX$CS <- paste(MEX$FTHG,MEX$FTAG,sep = "-")
+colnames(MEX)
+MEX <- MEX %>% dplyr::relocate(22,.after = 19)
+###########################
+#write csv
+unlink('LEAGUESCSV/MEX.csv')
+write.csv(MEX,'LEAGUESCSV/MEX.csv')
 

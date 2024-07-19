@@ -174,89 +174,89 @@ colnames(ARG_allclone)[70] <- "all_Xgoals"
 
 ARG_allclone$matchid <- paste(ARG_allclone$Hometeam,ARG_allclone$Awayteam,sep = "-")
 ###########################################################################################################################################################################
-# D2_fixtures_clone_final <- D2_fixtures_clone[,-c(8,9,10,27)]
-# D2_fixtures_clone_final[,'sep'] <- ''
-#
-# d2_dmprediction <-  d2_picks[,c(4,5,6,7,8)]
-# d2_dmprediction[,'sep2'] <- ''
-#
-# d2_avgyellow <- d2_picks[,c(9,10)]
-# d2_avgyellow[,'sep3'] <- ''
-#
-# d2_avgcorners <- d2_picks[,c(11,12)]
-# d2_avgcorners[,'sep4'] <- ''
-#
-# d2_goals <- D2_fixtures[,c(10,11)]
-# d2_goals$d2_xGH <- round(d2_goals$d2_xGH, digits = 2)
-# d2_goals$d2_xGA <- round(d2_goals$d2_xGA, digits = 2)
-# d2_goals$d2_TxG <- d2_goals$d2_xGH + d2_goals$d2_xGA
-# d2_goals[,'sep5'] <- ''
-#
-# d2_shots <- D2_fixtures_sot[,c(10,11)]
-# d2_shots$d2_xHST <- round(d2_shots$d2_xHST, digits = 2)
-# d2_shots$d2_xAST <- round(d2_shots$d2_xAST, digits = 2)
-# d2_shots$TxSOT <- d2_shots$d2_xHST + d2_shots$d2_xAST
-# d2_shots[,'sep6'] <- ''
-#
-# d2_fouls <- D2_fixtures_fo[,c(10,11)]
-# d2_fouls$d2_xHF <- round(d2_fouls$d2_xHF, digits = 2)
-# d2_fouls$d2_xAF <- round(d2_fouls$d2_xAF, digits = 2)
-# d2_fouls$d2_TxF <- d2_fouls$d2_xHF + d2_fouls$d2_xAF
-#
-# d2_ycpf <- d2_picks[,c(15,16)]
-# d2_fouls <- cbind(d2_fouls,d2_ycpf)
-# d2_fouls$HYCPF <- as.numeric(d2_fouls$HYCPF)
-# d2_fouls$AYCPF <- as.numeric(d2_fouls$AYCPF)
-# d2_fouls$x_hyc <- (d2_fouls$d2_xHF) * (d2_fouls$HYCPF)
-# d2_fouls$x_ayc <- (d2_fouls$d2_xAF) * (d2_fouls$AYCPF)
-# d2_fouls$x_TYC <- round((d2_fouls$x_hyc + d2_fouls$x_ayc),digits = 2)
-# d2_fouls[,'sep7'] <- ''
-#
-# d2_bookings <- D2_fixtures_yc[,c(10,11)]
-# d2_bookings$d2_xHYC <- round(d2_bookings$d2_xHYC, digits = 2)
-# d2_bookings$d2_xAYC <- round(d2_bookings$d2_xAYC, digits = 2)
-# d2_bookings$d2_TYcards <- d2_bookings$d2_xHYC + d2_bookings$d2_xAYC
-# d2_bookings[,'sep8'] <- ''
-#
-# d2_corners <- D2_fixtures_co[,c(10,11)]
-# d2_corners$d2_xHCOC <- round(d2_corners$d2_xHCOC, digits = 2)
-# d2_corners$d2_xACOC <- round(d2_corners$d2_xACOC, digits = 2)
-# d2_corners$d2_TCOs <- d2_corners$d2_xHCOC + d2_corners$d2_xACOC
-# d2_corners[,'sep9'] <- ''
-#
-# d2_shotsconversion <- d2_picks[,c(13,14)]
-# d2_shotsconversion <- cbind(d2_shotsconversion,d2_shots)
-# d2_shotsconversion$HXSC <- as.numeric(d2_shotsconversion$HXSC)
-# d2_shotsconversion$AXSC <- as.numeric(d2_shotsconversion$AXSC)
-# d2_shotsconversion$d2_hXgoals <- round((d2_shotsconversion$HXSC * d2_shotsconversion$d2_xHST), digits = 2)
-# d2_shotsconversion$d2_aXgoals <- round((d2_shotsconversion$AXSC * d2_shotsconversion$d2_xAST), digits = 2)
-# d2_shotsconversion$Xgoals <- d2_shotsconversion$d2_hXgoals + d2_shotsconversion$d2_aXgoals
-#
-# D2_allclone <- cbind(D2_fixtures_clone_final,d2_dmprediction,d2_avgyellow,d2_avgcorners,d2_goals,d2_shots,d2_fouls,d2_bookings,d2_corners,d2_shotsconversion)
-# #change column names
-# colnames(D2_allclone)[37] <- "all_xGH"
-# colnames(D2_allclone)[38] <- "all_xGA"
-# colnames(D2_allclone)[39] <- "all_TxG"
-# colnames(D2_allclone)[41] <- "all_xHST"
-# colnames(D2_allclone)[42] <- "all_xAST"
-# colnames(D2_allclone)[45] <- "all_xHF"
-# colnames(D2_allclone)[46] <- "all_xAH"
-# colnames(D2_allclone)[47] <- "all_TxF"
-# colnames(D2_allclone)[54] <- "all_xHYC"
-# colnames(D2_allclone)[55] <- "all_xAYC"
-# colnames(D2_allclone)[56] <- "all_TYcards"
-# colnames(D2_allclone)[58] <- "all_xHCOC"
-# colnames(D2_allclone)[59] <- "all_xACOC"
-# colnames(D2_allclone)[60] <- "all_TCOs"
-# colnames(D2_allclone)[64] <- "all_HST"
-# colnames(D2_allclone)[65] <- "all_AST"
-# colnames(D2_allclone)[66] <- "all_TxSOT"
-# colnames(D2_allclone)[67] <- "all_sep6"
-# colnames(D2_allclone)[68] <- "all_hXgoals"
-# colnames(D2_allclone)[69] <- "all_aXgoals"
-# colnames(D2_allclone)[70] <- "all_Xgoals"
-#
-# D2_allclone$matchid <- paste(D2_allclone$Hometeam,D2_allclone$Awayteam,sep = "-")
+BRA_fixtures_clone_final <- BRA_fixtures_clone[,-c(8,9,10,27)]
+BRA_fixtures_clone_final[,'sep'] <- ''
+
+bra_dmprediction <-  bra_picks[,c(4,5,6,7,8)]
+bra_dmprediction[,'sep2'] <- ''
+
+bra_avgyellow <- bra_picks[,c(9,10)]
+bra_avgyellow[,'sep3'] <- ''
+
+bra_avgcorners <- bra_picks[,c(11,12)]
+bra_avgcorners[,'sep4'] <- ''
+
+bra_goals <- BRA_fixtures[,c(10,11)]
+bra_goals$bra_xGH <- round(bra_goals$bra_xGH, digits = 2)
+bra_goals$bra_xGA <- round(bra_goals$bra_xGA, digits = 2)
+bra_goals$bra_TxG <- bra_goals$bra_xGH + bra_goals$bra_xGA
+bra_goals[,'sep5'] <- ''
+
+bra_shots <- BRA_fixtures_sot[,c(10,11)]
+bra_shots$bra_xHST <- round(bra_shots$bra_xHST, digits = 2)
+bra_shots$bra_xAST <- round(bra_shots$bra_xAST, digits = 2)
+bra_shots$TxSOT <- bra_shots$bra_xHST + bra_shots$bra_xAST
+bra_shots[,'sep6'] <- ''
+
+bra_fouls <- BRA_fixtures_fo[,c(10,11)]
+bra_fouls$bra_xHF <- round(bra_fouls$bra_xHF, digits = 2)
+bra_fouls$bra_xAF <- round(bra_fouls$bra_xAF, digits = 2)
+bra_fouls$bra_TxF <- bra_fouls$bra_xHF + bra_fouls$bra_xAF
+
+bra_ycpf <- bra_picks[,c(15,16)]
+bra_fouls <- cbind(bra_fouls,bra_ycpf)
+bra_fouls$HYCPF <- as.numeric(bra_fouls$HYCPF)
+bra_fouls$AYCPF <- as.numeric(bra_fouls$AYCPF)
+bra_fouls$x_hyc <- (bra_fouls$bra_xHF) * (bra_fouls$HYCPF)
+bra_fouls$x_ayc <- (bra_fouls$bra_xAF) * (bra_fouls$AYCPF)
+bra_fouls$x_TYC <- round((bra_fouls$x_hyc + bra_fouls$x_ayc),digits = 2)
+bra_fouls[,'sep7'] <- ''
+
+bra_bookings <- BRA_fixtures_yc[,c(10,11)]
+bra_bookings$bra_xHYC <- round(bra_bookings$bra_xHYC, digits = 2)
+bra_bookings$bra_xAYC <- round(bra_bookings$bra_xAYC, digits = 2)
+bra_bookings$bra_TYcards <- bra_bookings$bra_xHYC + bra_bookings$bra_xAYC
+bra_bookings[,'sep8'] <- ''
+
+bra_corners <- BRA_fixtures_co[,c(10,11)]
+bra_corners$bra_xHCOC <- round(bra_corners$bra_xHCOC, digits = 2)
+bra_corners$bra_xACOC <- round(bra_corners$bra_xACOC, digits = 2)
+bra_corners$bra_TCOs <- bra_corners$bra_xHCOC + bra_corners$bra_xACOC
+bra_corners[,'sep9'] <- ''
+
+bra_shotsconversion <- bra_picks[,c(13,14)]
+bra_shotsconversion <- cbind(bra_shotsconversion,bra_shots)
+bra_shotsconversion$HXSC <- as.numeric(bra_shotsconversion$HXSC)
+bra_shotsconversion$AXSC <- as.numeric(bra_shotsconversion$AXSC)
+bra_shotsconversion$bra_hXgoals <- round((bra_shotsconversion$HXSC * bra_shotsconversion$bra_xHST), digits = 2)
+bra_shotsconversion$bra_aXgoals <- round((bra_shotsconversion$AXSC * bra_shotsconversion$bra_xAST), digits = 2)
+bra_shotsconversion$Xgoals <- bra_shotsconversion$bra_hXgoals + bra_shotsconversion$bra_aXgoals
+
+BRA_allclone <- cbind(BRA_fixtures_clone_final,bra_dmprediction,bra_avgyellow,bra_avgcorners,bra_goals,bra_shots,bra_fouls,bra_bookings,bra_corners,bra_shotsconversion)
+#change column names
+colnames(BRA_allclone)[37] <- "all_xGH"
+colnames(BRA_allclone)[38] <- "all_xGA"
+colnames(BRA_allclone)[39] <- "all_TxG"
+colnames(BRA_allclone)[41] <- "all_xHST"
+colnames(BRA_allclone)[42] <- "all_xAST"
+colnames(BRA_allclone)[45] <- "all_xHF"
+colnames(BRA_allclone)[46] <- "all_xAH"
+colnames(BRA_allclone)[47] <- "all_TxF"
+colnames(BRA_allclone)[54] <- "all_xHYC"
+colnames(BRA_allclone)[55] <- "all_xAYC"
+colnames(BRA_allclone)[56] <- "all_TYcards"
+colnames(BRA_allclone)[58] <- "all_xHCOC"
+colnames(BRA_allclone)[59] <- "all_xACOC"
+colnames(BRA_allclone)[60] <- "all_TCOs"
+colnames(BRA_allclone)[64] <- "all_HST"
+colnames(BRA_allclone)[65] <- "all_AST"
+colnames(BRA_allclone)[66] <- "all_TxSOT"
+colnames(BRA_allclone)[67] <- "all_sep6"
+colnames(BRA_allclone)[68] <- "all_hXgoals"
+colnames(BRA_allclone)[69] <- "all_aXgoals"
+colnames(BRA_allclone)[70] <- "all_Xgoals"
+
+BRA_allclone$matchid <- paste(BRA_allclone$Hometeam,BRA_allclone$Awayteam,sep = "-")
 # ##########################################################################################################################################################################
 # E0_fixtures_clone_final <- E0_fixtures_clone[,-c(8,9,10,27)]
 # E0_fixtures_clone_final[,'sep'] <- ''
@@ -1855,7 +1855,7 @@ ARG_allclone$matchid <- paste(ARG_allclone$Hometeam,ARG_allclone$Awayteam,sep = 
 # T1_allclone$matchid <- paste(T1_allclone$Hometeam,T1_allclone$Awayteam,sep = "-")
 ####################################################################################################################################
 
-alldivisions_clonedevents <- rbind(MLS_allclone,ARG_allclone)
+alldivisions_clonedevents <- rbind(MLS_allclone,ARG_allclone,BRA_allclone)
 
 picks_fixtures_cloned <- read.csv('myfixtures.csv')
 picks_fixtures_cloned <- picks_fixtures_cloned[,c(-1)]

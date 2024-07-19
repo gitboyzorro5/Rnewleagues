@@ -14,116 +14,116 @@
 "13","MLS",2024-02-25,"FC Cincinnati","Toronto FC",0,0,"D",0.9,0.5,1,4,0,0,5,3,8,3,14,16,"0-0",0,11,30,"8-3","N","N","N",5,0,"Jonathan Weiner","2024-02-25-FC Cincinnati-Toronto FC",1
 "14","MLS",2024-02-25,"Nashville","NY Red Bulls",0,0,"D",0.1,1.4,3,0,0,0,3,5,3,5,13,15,"0-0",0,8,28,"3-5","N","N","N",3,0,"Cristian Campo","2024-02-25-Nashville-NY Red Bulls",1
 "15","MLS",2024-02-25,"LA Galaxy","Inter Miami",1,1,"D",3.2,0.6,2,3,1,0,8,5,3,6,14,19,"1-1",2,9,33,"3-6","Y","N","N",5,1,"Gabriele Ciampi","2024-02-25-LA Galaxy-Inter Miami",1
-"99","MLS",2024-03-02,"RSL","LAFC",3,0,"H",2.3,0.7,3,3,1,0,6,6,4,8,16,18,"3-0",3,12,34,"4-8","Y","Y","N",6,1,"Aleksandar Zhelyazkov","2024-03-02-RSL-LAFC",2
-"100","MLS",2024-03-02,"Minnesota Utd","Crew",1,1,"D",0.8,1.4,1,0,0,0,4,6,5,3,17,4,"1-1",2,8,21,"5-3","Y","N","N",1,0,"Amin Hadzic","2024-03-02-Minnesota Utd-Crew",2
-"101","MLS",2024-03-02,"Inter Miami","Orlando City",5,0,"H",2.8,0.8,3,1,0,0,5,3,1,5,18,12,"5-0",5,6,30,"1-5","Y","Y","Y",4,0,"Jaime Herrera","2024-03-02-Inter Miami-Orlando City",2
-"102","MLS",2024-03-02,"Vancouver Wcaps","Charlotte",1,1,"D",1,1.3,2,2,0,0,5,5,5,5,7,11,"1-1",2,10,18,"5-5","Y","N","N",4,0,"Scott Bowman","2024-03-02-Vancouver Wcaps-Charlotte",2
-"103","MLS",2024-03-02,"Dynamo FC","NY Red Bulls",1,2,"A",1.2,1,4,2,0,0,5,5,4,7,13,13,"1-2",3,11,26,"4-7","Y","Y","N",6,0,"Lorenzo Hernandez","2024-03-02-Dynamo FC-NY Red Bulls",2
-"104","MLS",2024-03-02,"St. Louis","NYCFC",2,0,"H",0.8,0.5,5,3,0,1,3,1,5,3,21,13,"2-0",2,8,34,"5-3","Y","N","N",8,1,"Erick Lezama","2024-03-02-St. Louis-NYCFC",2
-"105","MLS",2024-03-02,"FC Dallas","CF Montreal",1,2,"A",0.9,1.5,2,2,0,0,7,6,4,4,18,6,"1-2",3,8,24,"4-4","Y","Y","N",4,0,"Kyle Johnston","2024-03-02-FC Dallas-CF Montreal",2
-"106","MLS",2024-03-02,"Sporting KC","Philadelphia",1,1,"D",0.9,0.5,1,2,0,0,7,2,7,2,9,13,"1-1",2,9,22,"7-2","Y","N","N",3,0,"Rafael Bonilla","2024-03-02-Sporting KC-Philadelphia",2
-"107","MLS",2024-03-02,"Fire","FC Cincinnati",1,2,"A",1,0.9,3,3,0,0,0,5,3,9,16,12,"1-2",3,12,28,"3-9","Y","Y","N",6,0,"Mario Maric","2024-03-02-Fire-FC Cincinnati",2
-"108","MLS",2024-03-02,"SJ Earthquakes","LA Galaxy",1,3,"A",0.8,1.6,2,2,0,0,3,6,10,2,18,8,"1-3",4,12,26,"10-2","Y","Y","Y",4,0,"Cristian Campo Hernández","2024-03-02-SJ Earthquakes-LA Galaxy",2
-"109","MLS",2024-03-02,"Seattle","Austin",0,0,"D",1.2,0,3,5,0,0,3,1,9,0,14,18,"0-0",0,9,32,"9-0","N","N","N",8,0,"Rafael Martinez","2024-03-02-Seattle-Austin",2
-"110","MLS",2024-03-02,"Rapids","Nashville",1,1,"D",0.6,1.5,1,0,0,0,2,1,1,3,16,7,"1-1",2,4,23,"1-3","Y","N","N",1,0,"Esteban Rosano","2024-03-02-Rapids-Nashville",2
-"111","MLS",2024-03-02,"Portland Timbers","D.C. United",2,2,"D",0.8,2,3,2,0,0,3,7,4,8,15,15,"2-2",4,12,30,"4-8","Y","Y","Y",5,0,"Trevor Wiseman","2024-03-02-Portland Timbers-D.C. United",2
-"112","MLS",2024-03-03,"NE Revolution","Toronto FC",0,1,"A",1.8,0.7,0,4,0,0,6,2,11,0,11,16,"0-1",1,11,27,"11-0","N","N","N",4,0,"Wesley Costa","2024-03-03-NE Revolution-Toronto FC",2
-"113","MLS",2024-03-09,"Toronto FC","Charlotte",1,0,"H",0.5,0.9,2,4,0,0,3,3,6,7,12,13,"1-0",1,13,25,"6-7","N","N","N",6,0,"Chris Grabas","2024-03-09-Toronto FC-Charlotte",2
-"114","MLS",2024-03-09,"NYCFC","Portland Timbers",1,2,"A",1.3,0.9,1,2,0,0,6,3,7,6,26,15,"1-2",3,13,41,"7-6","Y","Y","N",3,0,"Esteban Rosano","2024-03-09-NYCFC-Portland Timbers",3
-"115","MLS",2024-03-09,"Atlanta Utd","NE Revolution",4,1,"H",3.2,0.7,0,1,0,0,7,5,3,3,15,9,"4-1",5,6,24,"3-3","Y","Y","Y",1,0,"Rafael Martinez","2024-03-09-Atlanta Utd-NE Revolution",3
-"116","MLS",2024-03-09,"NY Red Bulls","FC Dallas",2,1,"H",2,0.7,1,2,0,0,8,2,2,1,16,14,"2-1",3,3,30,"2-1","Y","Y","N",3,0,"Amin Hadzic","2024-03-09-NY Red Bulls-FC Dallas",3
-"117","MLS",2024-03-09,"Orlando City","Minnesota Utd",2,3,"A",4.1,1.4,1,6,0,0,6,4,8,4,7,14,"2-3",5,12,21,"8-4","Y","Y","Y",7,0,"Wilmer Pino Mercado","2024-03-09-Orlando City-Minnesota Utd",3
-"118","MLS",2024-03-09,"Crew","Fire",2,1,"H",1.3,1.9,1,2,0,0,10,2,6,5,11,10,"2-1",3,11,21,"6-5","Y","Y","N",3,0,"Richonne Clark","2024-03-09-Crew-Fire",3
-"119","MLS",2024-03-09,"SJ Earthquakes","Vancouver Wcaps",0,2,"A",0.6,0.7,4,1,0,0,2,3,8,6,14,15,"0-2",2,14,29,"8-6","Y","N","N",5,0,"Christopher Calderón","2024-03-09-SJ Earthquakes-Vancouver Wcaps",3
-"120","MLS",2024-03-09,"Austin","St. Louis",2,2,"D",1,2,1,3,0,0,2,6,5,12,17,14,"2-2",4,17,31,"5-12","Y","Y","Y",4,0,"Guilherme Ceretta de Lima","2024-03-09-Austin-St. Louis",3
-"121","MLS",2024-03-09,"RSL","Rapids",1,2,"A",1.3,1.6,3,1,0,0,4,5,3,0,15,12,"1-2",3,3,27,"3-0","Y","Y","N",4,0,"Atahan Yaya","2024-03-09-RSL-Rapids",3
-"122","MLS",2024-03-09,"LAFC","Sporting KC",0,0,"D",1.5,0.6,2,4,0,0,6,6,6,8,19,10,"0-0",0,14,29,"6-8","N","N","N",6,0,"Lorenzo Hernandez","2024-03-09-LAFC-Sporting KC",3
-"123","MLS",2024-03-10,"Nashville","LA Galaxy",2,2,"D",1.3,1.9,2,2,0,0,3,7,3,9,15,7,"2-2",4,12,22,"3-9","Y","Y","Y",4,0,"Wesley Costa","2024-03-10-Nashville-LA Galaxy",3
-"124","MLS",2024-03-10,"FC Cincinnati","D.C. United",0,0,"D",1.7,0.5,1,4,0,0,7,4,5,9,12,13,"0-0",0,14,25,"5-9","N","N","N",5,0,"Cristian Campo Hernández","2024-03-10-FC Cincinnati-D.C. United",3
-"125","MLS",2024-03-10,"Inter Miami","CF Montreal",2,3,"A",2.7,2,5,2,0,0,4,4,3,3,15,9,"2-3",5,6,24,"3-3","Y","Y","Y",7,0,"Aleksandar Zhelyazkov","2024-03-10-Inter Miami-CF Montreal",3
-"127","MLS",2024-03-16,"Seattle","Rapids",1,1,"D",1.1,2.3,4,2,2,0,2,7,6,4,15,15,"1-1",2,10,30,"6-4","Y","N","N",6,2,"Trevor Wiseman","2024-03-16-Seattle-Rapids",3
-"128","MLS",2024-03-16,"Fire","CF Montreal",4,3,"H",2.2,3,3,2,0,1,9,2,9,1,14,17,"4-3",7,10,31,"9-1","Y","Y","Y",5,1,"DeShun Beard","2024-03-16-Fire-CF Montreal",3
-"129","MLS",2024-03-16,"D.C. United","Inter Miami",1,3,"A",1.4,2.3,5,3,1,0,7,7,8,5,19,12,"1-3",4,13,31,"8-5","Y","Y","Y",8,1,"Lorenzo Hernandez","2024-03-16-D.C. United-Inter Miami",3
-"130","MLS",2024-03-16,"NYCFC","Toronto FC",2,1,"H",1.4,1.3,4,5,1,0,9,1,6,4,15,22,"2-1",3,10,37,"6-4","Y","Y","N",9,1,"Muhammad Hassan","2024-03-16-NYCFC-Toronto FC",4
-"131","MLS",2024-03-16,"Crew","NY Red Bulls",3,0,"H",2,0.3,2,4,0,1,3,2,7,1,13,15,"3-0",3,8,28,"7-1","Y","Y","N",6,1,"Andrew Musashe","2024-03-16-Crew-NY Red Bulls",4
-"132","MLS",2024-03-16,"Dynamo FC","Portland Timbers",1,0,"H",1.1,1.5,3,2,0,0,3,4,3,4,16,11,"1-0",1,7,27,"3-4","N","N","N",5,0,"Erick Lezama","2024-03-16-Dynamo FC-Portland Timbers",4
-"133","MLS",2024-03-16,"FC Dallas","Vancouver Wcaps",1,3,"A",1,1.2,0,1,0,0,3,3,3,2,13,10,"1-3",4,5,23,"3-2","Y","Y","Y",1,0,"Jonathan Weiner","2024-03-16-FC Dallas-Vancouver Wcaps",4
-"134","MLS",2024-03-16,"Minnesota Utd","LAFC",2,0,"H",0.8,1.6,2,2,0,0,3,2,3,7,15,17,"2-0",2,10,32,"3-7","Y","N","N",4,0,"Kyle Johnston","2024-03-16-Minnesota Utd-LAFC",4
-"135","MLS",2024-03-16,"Sporting KC","SJ Earthquakes",2,1,"H",1,1.3,3,2,0,0,3,6,3,5,12,16,"2-1",3,8,28,"3-5","Y","Y","N",5,0,"Amin Hadzic","2024-03-16-Sporting KC-SJ Earthquakes",4
-"136","MLS",2024-03-16,"LA Galaxy","St. Louis",3,3,"D",2.5,2.1,3,4,1,0,8,5,4,3,13,21,"3-3",6,7,34,"4-3","Y","Y","Y",7,1,"Atahan Yaya","2024-03-16-LA Galaxy-St. Louis",4
-"137","MLS",2024-03-16,"Nashville","Charlotte",2,1,"H",1.1,1.3,1,3,0,0,2,4,4,3,9,14,"2-1",3,7,23,"4-3","Y","Y","N",4,0,"Esteban Rosano","2024-03-16-Nashville-Charlotte",4
-"138","MLS",2024-03-16,"Austin","Philadelphia",2,2,"D",1.2,2.4,3,6,0,0,2,5,5,5,12,19,"2-2",4,10,31,"5-5","Y","Y","Y",9,0,"Wesley Costa","2024-03-16-Austin-Philadelphia",4
-"139","MLS",2024-03-17,"NE Revolution","FC Cincinnati",1,2,"A",1.2,1,4,5,0,0,7,5,7,3,12,13,"1-2",3,10,25,"7-3","Y","Y","N",9,0,"Richonne Clark","2024-03-17-NE Revolution-FC Cincinnati",4
-"140","MLS",2024-03-17,"Atlanta Utd","Orlando City",2,0,"H",0.8,0.5,5,1,0,0,7,3,5,8,16,7,"2-0",2,13,23,"5-8","Y","N","N",6,0,"Cristian Campo Hernández","2024-03-17-Atlanta Utd-Orlando City",4
-"141","MLS",2024-03-23,"NY Red Bulls","Inter Miami",4,0,"H",1.2,0.3,0,3,0,0,6,2,6,3,16,5,"4-0",4,9,21,"6-3","Y","Y","Y",3,0,"Rafael Martinez","2024-03-23-NY Red Bulls-Inter Miami",4
-"142","MLS",2024-03-23,"NE Revolution","Fire",1,1,"D",1.5,0.9,4,4,0,0,4,2,5,3,22,13,"1-1",2,8,35,"5-3","Y","N","N",8,0,"Kyle Johnston","2024-03-23-NE Revolution-Fire",4
-"143","MLS",2024-03-23,"Vancouver Wcaps","RSL",1,2,"A",0.6,0.9,0,3,0,0,3,5,1,4,8,10,"1-2",3,5,18,"1-4","Y","Y","N",3,0,"Chris Grabas","2024-03-23-Vancouver Wcaps-RSL",4
-"144","MLS",2024-03-23,"Charlotte","Crew",2,0,"H",1.7,0.9,6,3,0,1,5,0,3,2,27,13,"2-0",2,5,40,"3-2","Y","N","N",9,1,"Christopher Calderón","2024-03-23-Charlotte-Crew",4
-"145","MLS",2024-03-23,"Orlando City","Austin",2,0,"H",1.9,0.2,1,0,0,0,8,1,6,0,13,9,"2-0",2,6,22,"6-0","Y","N","N",1,0,"Esteban Rosano","2024-03-23-Orlando City-Austin",5
-"146","MLS",2024-03-23,"Toronto FC","Atlanta Utd",2,0,"H",2.4,0.4,1,0,0,0,9,3,7,7,14,8,"2-0",2,14,22,"7-7","Y","N","N",1,0,"Scott Bowman","2024-03-23-Toronto FC-Atlanta Utd",5
-"147","MLS",2024-03-23,"FC Cincinnati","NYCFC",1,0,"H",1.5,0.5,1,1,0,0,6,4,5,4,13,16,"1-0",1,9,29,"5-4","N","N","N",2,0,"Rafael Bonilla","2024-03-23-FC Cincinnati-NYCFC",5
-"148","MLS",2024-03-23,"Portland Timbers","Philadelphia",1,3,"A",1.8,1.9,1,3,0,0,6,7,4,5,13,19,"1-3",4,9,32,"4-5","Y","Y","Y",4,0,"Cristian Campo Hernández","2024-03-23-Portland Timbers-Philadelphia",5
-"149","MLS",2024-03-23,"Sporting KC","LA Galaxy",2,3,"A",2.5,1.9,2,1,0,0,9,7,6,11,12,10,"2-3",5,17,22,"6-11","Y","Y","Y",3,0,"Aleksandar Zhelyazkov","2024-03-23-Sporting KC-LA Galaxy",5
-"150","MLS",2024-03-23,"Rapids","Dynamo FC",0,1,"A",0.7,0.8,1,1,0,0,3,2,6,0,15,9,"0-1",1,6,24,"6-0","N","N","N",2,0,"Mario Maric","2024-03-23-Rapids-Dynamo FC",5
-"151","MLS",2024-03-23,"St. Louis","D.C. United",2,2,"D",2,1.9,4,4,0,0,4,3,6,0,15,21,"2-2",4,6,36,"6-0","Y","Y","Y",8,0,"Amin Hadzic","2024-03-23-St. Louis-D.C. United",5
-"152","MLS",2024-03-23,"SJ Earthquakes","Seattle",3,2,"H",2.2,1.4,2,2,0,0,7,5,2,8,19,17,"3-2",5,10,36,"2-8","Y","Y","Y",4,0,"Gabriele Ciampi","2024-03-23-SJ Earthquakes-Seattle",5
-"153","MLS",2024-03-23,"LAFC","Nashville",5,0,"H",4.8,0.5,4,2,0,1,10,2,7,3,19,6,"5-0",5,10,25,"7-3","Y","Y","Y",6,1,"Erick Lezama","2024-03-23-LAFC-Nashville",5
-"154","MLS",2024-03-30,"Rapids","LAFC",3,2,"H",1.6,1.1,3,4,0,1,5,8,8,4,10,12,"3-2",5,12,22,"8-4","Y","Y","Y",7,1,"Armando Villarreal","2024-03-30-Rapids-LAFC",5
-"155","MLS",2024-03-30,"Philadelphia","Minnesota Utd",2,0,"H",2.1,0.6,2,1,0,0,4,5,8,3,8,12,"2-0",2,11,20,"8-3","Y","N","N",3,0,"Serhii Boiko","2024-03-30-Philadelphia-Minnesota Utd",5
-"156","MLS",2024-03-30,"Toronto FC","Sporting KC",1,3,"A",1.4,1.2,2,2,0,0,2,9,5,4,10,13,"1-3",4,9,23,"5-4","Y","Y","Y",4,0,"Guido Gonzalez Jr.","2024-03-30-Toronto FC-Sporting KC",5
-"157","MLS",2024-03-30,"Inter Miami","NYCFC",1,1,"D",2.2,1.1,4,2,0,0,6,3,7,2,13,14,"1-1",2,9,27,"7-2","Y","N","N",6,0,"Filip Dujic","2024-03-30-Inter Miami-NYCFC",5
-"158","MLS",2024-03-30,"Orlando City","NY Red Bulls",1,1,"D",0.7,1.8,1,3,0,0,3,1,7,2,8,14,"1-1",2,9,22,"7-2","Y","N","N",4,0,"Victor Rivas","2024-03-30-Orlando City-NY Red Bulls",5
-"159","MLS",2024-03-30,"D.C. United","CF Montreal",1,0,"H",2.1,0.8,2,3,0,0,5,1,9,8,9,14,"1-0",1,17,23,"9-8","N","N","N",5,0,"Ramy Touchan","2024-03-30-D.C. United-CF Montreal",5
-"160","MLS",2024-03-30,"Charlotte","FC Cincinnati",1,1,"D",2.3,1.6,2,3,0,0,2,5,3,5,6,14,"1-1",2,8,20,"3-5","Y","N","N",5,0,"Rubiel Vazquez","2024-03-30-Charlotte-FC Cincinnati",6
-"161","MLS",2024-03-30,"Dynamo FC","SJ Earthquakes",2,1,"H",0.8,0.2,2,5,0,2,8,2,10,1,13,11,"2-1",3,11,24,"10-1","Y","Y","N",7,2,"Ismir Pekmic","2024-03-30-Dynamo FC-SJ Earthquakes",6
-"162","MLS",2024-03-30,"Vancouver Wcaps","Portland Timbers",3,2,"H",2.4,1.1,2,0,0,0,4,4,1,0,13,6,"3-2",5,1,19,"1-0","Y","Y","Y",2,0,"Allen Chapman","2024-03-30-Vancouver Wcaps-Portland Timbers",6
-"163","MLS",2024-03-30,"Nashville","Crew",2,2,"D",1.7,1.4,3,1,0,0,5,4,4,4,16,9,"2-2",4,8,25,"4-4","Y","Y","Y",4,0,"Jon Freemon","2024-03-30-Nashville-Crew",6
-"164","MLS",2024-03-30,"Austin","FC Dallas",2,1,"H",1.5,0.7,3,2,0,0,3,4,4,2,14,14,"2-1",3,6,28,"4-2","Y","Y","N",5,0,"Rosendo Mendoza","2024-03-30-Austin-FC Dallas",6
-"165","MLS",2024-03-30,"RSL","St. Louis",3,1,"H",1.8,0.5,1,2,0,0,3,2,11,4,8,15,"3-1",4,15,23,"11-4","Y","Y","Y",3,0,"Drew Fischer","2024-03-30-RSL-St. Louis",6
-"166","MLS",2024-03-30,"LA Galaxy","Seattle",1,0,"H",0.8,1.7,0,3,0,0,2,2,4,6,11,7,"1-0",1,10,18,"4-6","N","N","N",3,0,"Ismail Elfath","2024-03-30-LA Galaxy-Seattle",6
-"167","MLS",2024-03-31,"Atlanta Utd","Fire",3,0,"H",2.7,0.7,2,1,0,1,7,3,3,4,8,5,"3-0",3,7,13,"3-4","Y","Y","N",3,1,"Lukasz Szpala","2024-03-31-Atlanta Utd-Fire",6
-"168","MLS",2024-04-06,"Vancouver Wcaps","Toronto FC",4,0,"H",2.5,0.7,2,5,0,0,6,3,5,5,11,18,"4-0",4,10,29,"5-5","Y","Y","Y",7,0,"Ramy Touchan","2024-04-06-Vancouver Wcaps-Toronto FC",6
-"169","MLS",2024-04-06,"LAFC","LA Galaxy",2,1,"H",3.6,1,4,0,0,0,8,4,6,4,20,7,"2-1",3,10,27,"6-4","Y","Y","N",4,0,"Jon Freemon","2024-04-06-LAFC-LA Galaxy",6
-"170","MLS",2024-04-06,"Crew","D.C. United",1,1,"D",0.6,1.9,1,2,1,0,4,3,2,3,7,19,"1-1",2,5,26,"2-3","Y","N","N",3,1,"Pierre-Luc Lauziere","2024-04-06-Crew-D.C. United",6
-"171","MLS",2024-04-06,"Inter Miami","Rapids",2,2,"D",1,1.2,3,2,0,0,7,3,6,6,13,13,"2-2",4,12,26,"6-6","Y","Y","Y",5,0,"Ted Unkel","2024-04-06-Inter Miami-Rapids",6
-"172","MLS",2024-04-06,"NYCFC","Atlanta Utd",1,1,"D",2.4,1.9,3,1,0,0,2,6,7,5,13,11,"1-1",2,12,24,"7-5","Y","N","N",4,0,"Rosendo Mendoza","2024-04-06-NYCFC-Atlanta Utd",6
-"173","MLS",2024-04-06,"FC Cincinnati","NY Red Bulls",1,2,"A",0.7,1.2,3,2,0,0,4,4,8,8,19,16,"1-2",3,16,35,"8-8","Y","Y","N",5,0,"Drew Fischer","2024-04-06-FC Cincinnati-NY Red Bulls",6
-"174","MLS",2024-04-06,"NE Revolution","Charlotte",1,0,"H",1.1,0.6,2,2,0,0,3,2,4,6,9,11,"1-0",1,10,20,"4-6","N","N","N",4,0,"Serhii Boiko","2024-04-06-NE Revolution-Charlotte",6
-"175","MLS",2024-04-06,"Nashville","Philadelphia",1,2,"A",1.7,1.9,1,0,0,0,5,5,8,5,10,9,"1-2",3,13,19,"8-5","Y","Y","N",1,0,"Victor Rivas","2024-04-06-Nashville-Philadelphia",7
-"176","MLS",2024-04-06,"Fire","Dynamo FC",2,1,"H",1.4,1,1,1,0,0,5,4,5,6,14,12,"2-1",3,11,26,"5-6","Y","Y","N",2,0,"Malik Badawi","2024-04-06-Fire-Dynamo FC",7
-"177","MLS",2024-04-06,"Seattle","CF Montreal",5,0,"H",3.6,0.5,1,5,0,1,10,2,5,3,9,19,"5-0",5,8,28,"5-3","Y","Y","Y",6,1,"Filip Dujic","2024-04-06-Seattle-CF Montreal",7
-"178","MLS",2024-04-06,"Austin","SJ Earthquakes",4,3,"H",1.9,2.7,3,3,0,0,5,8,10,3,11,12,"4-3",7,13,23,"10-3","Y","Y","Y",6,0,"Lukasz Szpala","2024-04-06-Austin-SJ Earthquakes",7
-"179","MLS",2024-04-06,"Minnesota Utd","RSL",1,1,"D",1.9,1,3,3,1,0,7,5,7,6,13,11,"1-1",2,13,24,"7-6","Y","N","N",6,1,"Mark Allatin","2024-04-06-Minnesota Utd-RSL",7
-"180","MLS",2024-04-06,"St. Louis","FC Dallas",0,0,"D",1.9,1.3,3,1,0,0,7,4,9,2,14,10,"0-0",0,11,24,"9-2","N","N","N",4,0,"Marcos de Oliveira","2024-04-06-St. Louis-FC Dallas",7
-"181","MLS",2024-04-07,"Sporting KC","Portland Timbers",3,3,"D",2.6,2.1,3,2,0,0,6,7,7,1,16,20,"3-3",6,8,36,"7-1","Y","Y","Y",5,0,"Armando Villarreal","2024-04-07-Sporting KC-Portland Timbers",7
-"182","MLS",2024-04-13,"Portland Timbers","LAFC",2,2,"D",1.4,1.7,2,6,1,0,4,4,4,4,12,22,"2-2",4,8,34,"4-4","Y","Y","Y",8,1,"Rubiel Vazquez","2024-04-13-Portland Timbers-LAFC",7
-"183","MLS",2024-04-13,"CF Montreal","FC Cincinnati",2,1,"H",1.1,1,3,3,0,0,4,4,5,4,14,11,"2-1",3,9,25,"5-4","Y","Y","N",6,0,"Lukasz Szpala","2024-04-13-CF Montreal-FC Cincinnati",7
-"184","MLS",2024-04-13,"NYCFC","NE Revolution",2,0,"H",2.5,0.4,2,3,0,0,6,6,4,6,18,13,"2-0",2,10,31,"4-6","Y","N","N",5,0,"Pierre-Luc Lauziere","2024-04-13-NYCFC-NE Revolution",7
-"185","MLS",2024-04-13,"NY Red Bulls","Fire",0,0,"D",1.4,0.6,0,2,1,0,5,3,4,4,5,7,"0-0",0,8,12,"4-4","N","N","N",2,1,"Boiko Serhii","2024-04-13-NY Red Bulls-Fire",7
-"186","MLS",2024-04-13,"Charlotte","Toronto FC",3,2,"H",1,1.8,2,4,0,1,5,5,4,6,8,13,"3-2",5,10,21,"4-6","Y","Y","Y",6,1,"Allen Chapman","2024-04-13-Charlotte-Toronto FC",7
-"187","MLS",2024-04-13,"D.C. United","Orlando City",2,3,"A",1.5,1.8,6,3,0,0,7,4,7,4,19,14,"2-3",5,11,33,"7-4","Y","Y","Y",9,0,"Guido Gonzalez Jr.","2024-04-13-D.C. United-Orlando City",7
-"188","MLS",2024-04-13,"RSL","Crew",0,0,"D",1.8,0.6,6,3,0,0,8,4,6,3,22,10,"0-0",0,9,32,"6-3","N","N","N",9,0,"Ramy Touchan","2024-04-13-RSL-Crew",7
-"189","MLS",2024-04-13,"FC Dallas","Seattle",0,0,"D",0.8,1,2,0,0,0,2,2,4,3,12,12,"0-0",0,7,24,"4-3","N","N","N",2,0,"Alexis Da Silva","2024-04-13-FC Dallas-Seattle",7
-"190","MLS",2024-04-13,"Vancouver Wcaps","LA Galaxy",1,3,"A",2.4,2.5,4,2,0,0,7,5,10,7,8,8,"1-3",4,17,16,"10-7","Y","Y","Y",6,0,"Ismir Pekmic","2024-04-13-Vancouver Wcaps-LA Galaxy",8
-"191","MLS",2024-04-13,"SJ Earthquakes","Rapids",0,3,"A",2.2,1.8,3,1,0,0,6,2,10,7,11,4,"0-3",3,17,15,"10-7","Y","Y","N",4,0,"Malik Badawi","2024-04-13-SJ Earthquakes-Rapids",8
-"192","MLS",2024-04-13,"Sporting KC","Inter Miami",2,3,"A",0.6,0.9,3,2,0,0,3,5,5,1,14,9,"2-3",5,6,23,"5-1","Y","Y","Y",5,0,"Victor Rivas","2024-04-13-Sporting KC-Inter Miami",8
-"193","MLS",2024-04-13,"Minnesota Utd","Dynamo FC",1,2,"A",2.3,0.4,1,4,0,0,6,2,7,5,10,11,"1-2",3,12,21,"7-5","Y","Y","N",5,0,"Filip Dujic","2024-04-13-Minnesota Utd-Dynamo FC",8
-"194","MLS",2024-04-14,"Atlanta Utd","Philadelphia",2,2,"D",1.6,1.1,2,6,0,0,6,4,7,5,11,8,"2-2",4,12,19,"7-5","Y","Y","Y",8,0,"Jon Freemon","2024-04-14-Atlanta Utd-Philadelphia",8
-"195","MLS",2024-04-14,"St. Louis","Austin",1,0,"H",1.5,0.3,2,2,0,0,4,0,5,6,18,14,"1-0",1,11,32,"5-6","N","N","N",4,0,"Ted Unkel","2024-04-14-St. Louis-Austin",8
-"196","MLS",2024-04-20,"Atlanta Utd","FC Cincinnati",1,2,"A",1.9,2,1,3,0,0,4,3,9,4,12,9,"1-2",3,13,21,"9-4","Y","Y","N",4,0,"Armando Villarreal","2024-04-20-Atlanta Utd-FC Cincinnati",8
-"197","MLS",2024-04-20,"CF Montreal","Orlando City",2,2,"D",1.5,1.5,4,2,0,0,4,1,1,8,12,8,"2-2",4,9,20,"1-8","Y","Y","Y",6,0,"Jon Freemon","2024-04-20-CF Montreal-Orlando City",8
-"198","MLS",2024-04-20,"Crew","Portland Timbers",2,2,"D",1.5,0.6,1,1,0,0,4,4,6,1,10,14,"2-2",4,7,24,"6-1","Y","Y","Y",2,0,"Ted Unkel","2024-04-20-Crew-Portland Timbers",8
-"199","MLS",2024-04-20,"NYCFC","D.C. United",2,0,"H",3,0.6,1,2,0,0,8,1,7,4,11,14,"2-0",2,11,25,"7-4","Y","N","N",3,0,"Malik Badawi","2024-04-20-NYCFC-D.C. United",8
-"200","MLS",2024-04-20,"Toronto FC","NE Revolution",1,0,"H",1.5,1.5,3,2,0,0,7,5,0,8,11,15,"1-0",1,8,26,"0-8","N","N","N",5,0,"Mark Allatin","2024-04-20-Toronto FC-NE Revolution",8
-"201","MLS",2024-04-20,"Inter Miami","Nashville",3,1,"H",2.6,2.4,2,1,0,0,5,4,4,6,14,12,"3-1",4,10,26,"4-6","Y","Y","Y",3,0,"Ismail Elfath","2024-04-20-Inter Miami-Nashville",8
-"202","MLS",2024-04-20,"Dynamo FC","Austin",0,1,"A",1.5,0.8,4,2,0,0,6,4,2,1,16,11,"0-1",1,3,27,"2-1","N","N","N",6,0,"Rubiel Vazquez","2024-04-20-Dynamo FC-Austin",8
-"203","MLS",2024-04-20,"Fire","RSL",0,4,"A",1.2,1.8,1,1,0,0,5,7,5,5,15,13,"0-4",4,10,28,"5-5","Y","Y","Y",2,0,"Marcos de Oliveira","2024-04-20-Fire-RSL",8
-"204","MLS",2024-04-20,"Rapids","FC Dallas",2,1,"H",1.8,1,0,3,0,0,4,3,3,8,14,13,"2-1",3,11,27,"3-8","Y","Y","N",3,0,"Ricardo Fierro","2024-04-20-Rapids-FC Dallas",8
-"205","MLS",2024-04-20,"Seattle","Vancouver Wcaps",0,2,"A",0.6,2,1,3,2,0,1,4,6,3,8,12,"0-2",2,9,20,"6-3","Y","N","N",4,2,"Ramy Touchan","2024-04-20-Seattle-Vancouver Wcaps",9
-"206","MLS",2024-04-20,"Sporting KC","St. Louis",3,3,"D",1.3,1.9,3,2,0,0,4,7,2,6,15,21,"3-3",6,8,36,"2-6","Y","Y","Y",5,0,"Allen Chapman","2024-04-20-Sporting KC-St. Louis",9
-"207","MLS",2024-04-20,"LAFC","NY Red Bulls",2,2,"D",1.5,1,0,2,0,0,5,2,9,5,11,13,"2-2",4,14,24,"9-5","Y","Y","Y",2,0,"Guido Gonzalez Jr.","2024-04-20-LAFC-NY Red Bulls",9
-"208","MLS",2024-04-21,"LA Galaxy","SJ Earthquakes",4,3,"H",2.4,1.8,2,4,1,0,6,6,3,5,11,21,"4-3",7,8,32,"3-5","Y","Y","Y",6,1,"Rosendo Mendoza","2024-04-21-LA Galaxy-SJ Earthquakes",9
-"209","MLS",2024-04-21,"Charlotte","Minnesota Utd",0,3,"A",0.9,1.7,1,1,0,0,1,5,11,5,8,16,"0-3",3,16,24,"11-5","Y","Y","N",2,0,"Pierre-Luc Lauziere","2024-04-21-Charlotte-Minnesota Utd",9
+"142","MLS",2024-03-02,"RSL","LAFC",3,0,"H",2.3,0.7,3,3,1,0,6,6,4,8,16,18,"3-0",3,12,34,"4-8","Y","Y","N",6,1,"Aleksandar Zhelyazkov","2024-03-02-RSL-LAFC",2
+"143","MLS",2024-03-02,"Minnesota Utd","Crew",1,1,"D",0.8,1.4,1,0,0,0,4,6,5,3,17,4,"1-1",2,8,21,"5-3","Y","N","N",1,0,"Amin Hadzic","2024-03-02-Minnesota Utd-Crew",2
+"144","MLS",2024-03-02,"Inter Miami","Orlando City",5,0,"H",2.8,0.8,3,1,0,0,5,3,1,5,18,12,"5-0",5,6,30,"1-5","Y","Y","Y",4,0,"Jaime Herrera","2024-03-02-Inter Miami-Orlando City",2
+"145","MLS",2024-03-02,"Vancouver Wcaps","Charlotte",1,1,"D",1,1.3,2,2,0,0,5,5,5,5,7,11,"1-1",2,10,18,"5-5","Y","N","N",4,0,"Scott Bowman","2024-03-02-Vancouver Wcaps-Charlotte",2
+"146","MLS",2024-03-02,"Dynamo FC","NY Red Bulls",1,2,"A",1.2,1,4,2,0,0,5,5,4,7,13,13,"1-2",3,11,26,"4-7","Y","Y","N",6,0,"Lorenzo Hernandez","2024-03-02-Dynamo FC-NY Red Bulls",2
+"147","MLS",2024-03-02,"St. Louis","NYCFC",2,0,"H",0.8,0.5,5,3,0,1,3,1,5,3,21,13,"2-0",2,8,34,"5-3","Y","N","N",8,1,"Erick Lezama","2024-03-02-St. Louis-NYCFC",2
+"148","MLS",2024-03-02,"FC Dallas","CF Montreal",1,2,"A",0.9,1.5,2,2,0,0,7,6,4,4,18,6,"1-2",3,8,24,"4-4","Y","Y","N",4,0,"Kyle Johnston","2024-03-02-FC Dallas-CF Montreal",2
+"149","MLS",2024-03-02,"Sporting KC","Philadelphia",1,1,"D",0.9,0.5,1,2,0,0,7,2,7,2,9,13,"1-1",2,9,22,"7-2","Y","N","N",3,0,"Rafael Bonilla","2024-03-02-Sporting KC-Philadelphia",2
+"150","MLS",2024-03-02,"Fire","FC Cincinnati",1,2,"A",1,0.9,3,3,0,0,0,5,3,9,16,12,"1-2",3,12,28,"3-9","Y","Y","N",6,0,"Mario Maric","2024-03-02-Fire-FC Cincinnati",2
+"151","MLS",2024-03-02,"SJ Earthquakes","LA Galaxy",1,3,"A",0.8,1.6,2,2,0,0,3,6,10,2,18,8,"1-3",4,12,26,"10-2","Y","Y","Y",4,0,"Cristian Campo Hernández","2024-03-02-SJ Earthquakes-LA Galaxy",2
+"152","MLS",2024-03-02,"Seattle","Austin",0,0,"D",1.2,0,3,5,0,0,3,1,9,0,14,18,"0-0",0,9,32,"9-0","N","N","N",8,0,"Rafael Martinez","2024-03-02-Seattle-Austin",2
+"153","MLS",2024-03-02,"Rapids","Nashville",1,1,"D",0.6,1.5,1,0,0,0,2,1,1,3,16,7,"1-1",2,4,23,"1-3","Y","N","N",1,0,"Esteban Rosano","2024-03-02-Rapids-Nashville",2
+"154","MLS",2024-03-02,"Portland Timbers","D.C. United",2,2,"D",0.8,2,3,2,0,0,3,7,4,8,15,15,"2-2",4,12,30,"4-8","Y","Y","Y",5,0,"Trevor Wiseman","2024-03-02-Portland Timbers-D.C. United",2
+"155","MLS",2024-03-03,"NE Revolution","Toronto FC",0,1,"A",1.8,0.7,0,4,0,0,6,2,11,0,11,16,"0-1",1,11,27,"11-0","N","N","N",4,0,"Wesley Costa","2024-03-03-NE Revolution-Toronto FC",2
+"237","MLS",2024-03-09,"Toronto FC","Charlotte",1,0,"H",0.5,0.9,2,4,0,0,3,3,6,7,12,13,"1-0",1,13,25,"6-7","N","N","N",6,0,"Chris Grabas","2024-03-09-Toronto FC-Charlotte",2
+"238","MLS",2024-03-09,"NYCFC","Portland Timbers",1,2,"A",1.3,0.9,1,2,0,0,6,3,7,6,26,15,"1-2",3,13,41,"7-6","Y","Y","N",3,0,"Esteban Rosano","2024-03-09-NYCFC-Portland Timbers",3
+"239","MLS",2024-03-09,"Atlanta Utd","NE Revolution",4,1,"H",3.2,0.7,0,1,0,0,7,5,3,3,15,9,"4-1",5,6,24,"3-3","Y","Y","Y",1,0,"Rafael Martinez","2024-03-09-Atlanta Utd-NE Revolution",3
+"240","MLS",2024-03-09,"NY Red Bulls","FC Dallas",2,1,"H",2,0.7,1,2,0,0,8,2,2,1,16,14,"2-1",3,3,30,"2-1","Y","Y","N",3,0,"Amin Hadzic","2024-03-09-NY Red Bulls-FC Dallas",3
+"241","MLS",2024-03-09,"Orlando City","Minnesota Utd",2,3,"A",4.1,1.4,1,6,0,0,6,4,8,4,7,14,"2-3",5,12,21,"8-4","Y","Y","Y",7,0,"Wilmer Pino Mercado","2024-03-09-Orlando City-Minnesota Utd",3
+"242","MLS",2024-03-09,"Crew","Fire",2,1,"H",1.3,1.9,1,2,0,0,10,2,6,5,11,10,"2-1",3,11,21,"6-5","Y","Y","N",3,0,"Richonne Clark","2024-03-09-Crew-Fire",3
+"243","MLS",2024-03-09,"SJ Earthquakes","Vancouver Wcaps",0,2,"A",0.6,0.7,4,1,0,0,2,3,8,6,14,15,"0-2",2,14,29,"8-6","Y","N","N",5,0,"Christopher Calderón","2024-03-09-SJ Earthquakes-Vancouver Wcaps",3
+"244","MLS",2024-03-09,"Austin","St. Louis",2,2,"D",1,2,1,3,0,0,2,6,5,12,17,14,"2-2",4,17,31,"5-12","Y","Y","Y",4,0,"Guilherme Ceretta de Lima","2024-03-09-Austin-St. Louis",3
+"245","MLS",2024-03-09,"RSL","Rapids",1,2,"A",1.3,1.6,3,1,0,0,4,5,3,0,15,12,"1-2",3,3,27,"3-0","Y","Y","N",4,0,"Atahan Yaya","2024-03-09-RSL-Rapids",3
+"246","MLS",2024-03-09,"LAFC","Sporting KC",0,0,"D",1.5,0.6,2,4,0,0,6,6,6,8,19,10,"0-0",0,14,29,"6-8","N","N","N",6,0,"Lorenzo Hernandez","2024-03-09-LAFC-Sporting KC",3
+"247","MLS",2024-03-10,"Nashville","LA Galaxy",2,2,"D",1.3,1.9,2,2,0,0,3,7,3,9,15,7,"2-2",4,12,22,"3-9","Y","Y","Y",4,0,"Wesley Costa","2024-03-10-Nashville-LA Galaxy",3
+"248","MLS",2024-03-10,"FC Cincinnati","D.C. United",0,0,"D",1.7,0.5,1,4,0,0,7,4,5,9,12,13,"0-0",0,14,25,"5-9","N","N","N",5,0,"Cristian Campo Hernández","2024-03-10-FC Cincinnati-D.C. United",3
+"249","MLS",2024-03-10,"Inter Miami","CF Montreal",2,3,"A",2.7,2,5,2,0,0,4,4,3,3,15,9,"2-3",5,6,24,"3-3","Y","Y","Y",7,0,"Aleksandar Zhelyazkov","2024-03-10-Inter Miami-CF Montreal",3
+"251","MLS",2024-03-16,"Seattle","Rapids",1,1,"D",1.1,2.3,4,2,2,0,2,7,6,4,15,15,"1-1",2,10,30,"6-4","Y","N","N",6,2,"Trevor Wiseman","2024-03-16-Seattle-Rapids",3
+"252","MLS",2024-03-16,"Fire","CF Montreal",4,3,"H",2.2,3,3,2,0,1,9,2,9,1,14,17,"4-3",7,10,31,"9-1","Y","Y","Y",5,1,"DeShun Beard","2024-03-16-Fire-CF Montreal",3
+"253","MLS",2024-03-16,"D.C. United","Inter Miami",1,3,"A",1.4,2.3,5,3,1,0,7,7,8,5,19,12,"1-3",4,13,31,"8-5","Y","Y","Y",8,1,"Lorenzo Hernandez","2024-03-16-D.C. United-Inter Miami",3
+"254","MLS",2024-03-16,"NYCFC","Toronto FC",2,1,"H",1.4,1.3,4,5,1,0,9,1,6,4,15,22,"2-1",3,10,37,"6-4","Y","Y","N",9,1,"Muhammad Hassan","2024-03-16-NYCFC-Toronto FC",4
+"255","MLS",2024-03-16,"Crew","NY Red Bulls",3,0,"H",2,0.3,2,4,0,1,3,2,7,1,13,15,"3-0",3,8,28,"7-1","Y","Y","N",6,1,"Andrew Musashe","2024-03-16-Crew-NY Red Bulls",4
+"256","MLS",2024-03-16,"Dynamo FC","Portland Timbers",1,0,"H",1.1,1.5,3,2,0,0,3,4,3,4,16,11,"1-0",1,7,27,"3-4","N","N","N",5,0,"Erick Lezama","2024-03-16-Dynamo FC-Portland Timbers",4
+"257","MLS",2024-03-16,"FC Dallas","Vancouver Wcaps",1,3,"A",1,1.2,0,1,0,0,3,3,3,2,13,10,"1-3",4,5,23,"3-2","Y","Y","Y",1,0,"Jonathan Weiner","2024-03-16-FC Dallas-Vancouver Wcaps",4
+"258","MLS",2024-03-16,"Minnesota Utd","LAFC",2,0,"H",0.8,1.6,2,2,0,0,3,2,3,7,15,17,"2-0",2,10,32,"3-7","Y","N","N",4,0,"Kyle Johnston","2024-03-16-Minnesota Utd-LAFC",4
+"259","MLS",2024-03-16,"Sporting KC","SJ Earthquakes",2,1,"H",1,1.3,3,2,0,0,3,6,3,5,12,16,"2-1",3,8,28,"3-5","Y","Y","N",5,0,"Amin Hadzic","2024-03-16-Sporting KC-SJ Earthquakes",4
+"260","MLS",2024-03-16,"LA Galaxy","St. Louis",3,3,"D",2.5,2.1,3,4,1,0,8,5,4,3,13,21,"3-3",6,7,34,"4-3","Y","Y","Y",7,1,"Atahan Yaya","2024-03-16-LA Galaxy-St. Louis",4
+"261","MLS",2024-03-16,"Nashville","Charlotte",2,1,"H",1.1,1.3,1,3,0,0,2,4,4,3,9,14,"2-1",3,7,23,"4-3","Y","Y","N",4,0,"Esteban Rosano","2024-03-16-Nashville-Charlotte",4
+"262","MLS",2024-03-16,"Austin","Philadelphia",2,2,"D",1.2,2.4,3,6,0,0,2,5,5,5,12,19,"2-2",4,10,31,"5-5","Y","Y","Y",9,0,"Wesley Costa","2024-03-16-Austin-Philadelphia",4
+"263","MLS",2024-03-17,"NE Revolution","FC Cincinnati",1,2,"A",1.2,1,4,5,0,0,7,5,7,3,12,13,"1-2",3,10,25,"7-3","Y","Y","N",9,0,"Richonne Clark","2024-03-17-NE Revolution-FC Cincinnati",4
+"264","MLS",2024-03-17,"Atlanta Utd","Orlando City",2,0,"H",0.8,0.5,5,1,0,0,7,3,5,8,16,7,"2-0",2,13,23,"5-8","Y","N","N",6,0,"Cristian Campo Hernández","2024-03-17-Atlanta Utd-Orlando City",4
+"265","MLS",2024-03-23,"NY Red Bulls","Inter Miami",4,0,"H",1.2,0.3,0,3,0,0,6,2,6,3,16,5,"4-0",4,9,21,"6-3","Y","Y","Y",3,0,"Rafael Martinez","2024-03-23-NY Red Bulls-Inter Miami",4
+"266","MLS",2024-03-23,"NE Revolution","Fire",1,1,"D",1.5,0.9,4,4,0,0,4,2,5,3,22,13,"1-1",2,8,35,"5-3","Y","N","N",8,0,"Kyle Johnston","2024-03-23-NE Revolution-Fire",4
+"267","MLS",2024-03-23,"Vancouver Wcaps","RSL",1,2,"A",0.6,0.9,0,3,0,0,3,5,1,4,8,10,"1-2",3,5,18,"1-4","Y","Y","N",3,0,"Chris Grabas","2024-03-23-Vancouver Wcaps-RSL",4
+"268","MLS",2024-03-23,"Charlotte","Crew",2,0,"H",1.7,0.9,6,3,0,1,5,0,3,2,27,13,"2-0",2,5,40,"3-2","Y","N","N",9,1,"Christopher Calderón","2024-03-23-Charlotte-Crew",4
+"269","MLS",2024-03-23,"Orlando City","Austin",2,0,"H",1.9,0.2,1,0,0,0,8,1,6,0,13,9,"2-0",2,6,22,"6-0","Y","N","N",1,0,"Esteban Rosano","2024-03-23-Orlando City-Austin",5
+"270","MLS",2024-03-23,"Toronto FC","Atlanta Utd",2,0,"H",2.4,0.4,1,0,0,0,9,3,7,7,14,8,"2-0",2,14,22,"7-7","Y","N","N",1,0,"Scott Bowman","2024-03-23-Toronto FC-Atlanta Utd",5
+"271","MLS",2024-03-23,"FC Cincinnati","NYCFC",1,0,"H",1.5,0.5,1,1,0,0,6,4,5,4,13,16,"1-0",1,9,29,"5-4","N","N","N",2,0,"Rafael Bonilla","2024-03-23-FC Cincinnati-NYCFC",5
+"272","MLS",2024-03-23,"Portland Timbers","Philadelphia",1,3,"A",1.8,1.9,1,3,0,0,6,7,4,5,13,19,"1-3",4,9,32,"4-5","Y","Y","Y",4,0,"Cristian Campo Hernández","2024-03-23-Portland Timbers-Philadelphia",5
+"273","MLS",2024-03-23,"Sporting KC","LA Galaxy",2,3,"A",2.5,1.9,2,1,0,0,9,7,6,11,12,10,"2-3",5,17,22,"6-11","Y","Y","Y",3,0,"Aleksandar Zhelyazkov","2024-03-23-Sporting KC-LA Galaxy",5
+"274","MLS",2024-03-23,"Rapids","Dynamo FC",0,1,"A",0.7,0.8,1,1,0,0,3,2,6,0,15,9,"0-1",1,6,24,"6-0","N","N","N",2,0,"Mario Maric","2024-03-23-Rapids-Dynamo FC",5
+"275","MLS",2024-03-23,"St. Louis","D.C. United",2,2,"D",2,1.9,4,4,0,0,4,3,6,0,15,21,"2-2",4,6,36,"6-0","Y","Y","Y",8,0,"Amin Hadzic","2024-03-23-St. Louis-D.C. United",5
+"276","MLS",2024-03-23,"SJ Earthquakes","Seattle",3,2,"H",2.2,1.4,2,2,0,0,7,5,2,8,19,17,"3-2",5,10,36,"2-8","Y","Y","Y",4,0,"Gabriele Ciampi","2024-03-23-SJ Earthquakes-Seattle",5
+"277","MLS",2024-03-23,"LAFC","Nashville",5,0,"H",4.8,0.5,4,2,0,1,10,2,7,3,19,6,"5-0",5,10,25,"7-3","Y","Y","Y",6,1,"Erick Lezama","2024-03-23-LAFC-Nashville",5
+"278","MLS",2024-03-30,"Rapids","LAFC",3,2,"H",1.6,1.1,3,4,0,1,5,8,8,4,10,12,"3-2",5,12,22,"8-4","Y","Y","Y",7,1,"Armando Villarreal","2024-03-30-Rapids-LAFC",5
+"279","MLS",2024-03-30,"Philadelphia","Minnesota Utd",2,0,"H",2.1,0.6,2,1,0,0,4,5,8,3,8,12,"2-0",2,11,20,"8-3","Y","N","N",3,0,"Serhii Boiko","2024-03-30-Philadelphia-Minnesota Utd",5
+"280","MLS",2024-03-30,"Toronto FC","Sporting KC",1,3,"A",1.4,1.2,2,2,0,0,2,9,5,4,10,13,"1-3",4,9,23,"5-4","Y","Y","Y",4,0,"Guido Gonzalez Jr.","2024-03-30-Toronto FC-Sporting KC",5
+"281","MLS",2024-03-30,"Inter Miami","NYCFC",1,1,"D",2.2,1.1,4,2,0,0,6,3,7,2,13,14,"1-1",2,9,27,"7-2","Y","N","N",6,0,"Filip Dujic","2024-03-30-Inter Miami-NYCFC",5
+"282","MLS",2024-03-30,"Orlando City","NY Red Bulls",1,1,"D",0.7,1.8,1,3,0,0,3,1,7,2,8,14,"1-1",2,9,22,"7-2","Y","N","N",4,0,"Victor Rivas","2024-03-30-Orlando City-NY Red Bulls",5
+"283","MLS",2024-03-30,"D.C. United","CF Montreal",1,0,"H",2.1,0.8,2,3,0,0,5,1,9,8,9,14,"1-0",1,17,23,"9-8","N","N","N",5,0,"Ramy Touchan","2024-03-30-D.C. United-CF Montreal",5
+"284","MLS",2024-03-30,"Charlotte","FC Cincinnati",1,1,"D",2.3,1.6,2,3,0,0,2,5,3,5,6,14,"1-1",2,8,20,"3-5","Y","N","N",5,0,"Rubiel Vazquez","2024-03-30-Charlotte-FC Cincinnati",6
+"285","MLS",2024-03-30,"Dynamo FC","SJ Earthquakes",2,1,"H",0.8,0.2,2,5,0,2,8,2,10,1,13,11,"2-1",3,11,24,"10-1","Y","Y","N",7,2,"Ismir Pekmic","2024-03-30-Dynamo FC-SJ Earthquakes",6
+"286","MLS",2024-03-30,"Vancouver Wcaps","Portland Timbers",3,2,"H",2.4,1.1,2,0,0,0,4,4,1,0,13,6,"3-2",5,1,19,"1-0","Y","Y","Y",2,0,"Allen Chapman","2024-03-30-Vancouver Wcaps-Portland Timbers",6
+"287","MLS",2024-03-30,"Nashville","Crew",2,2,"D",1.7,1.4,3,1,0,0,5,4,4,4,16,9,"2-2",4,8,25,"4-4","Y","Y","Y",4,0,"Jon Freemon","2024-03-30-Nashville-Crew",6
+"288","MLS",2024-03-30,"Austin","FC Dallas",2,1,"H",1.5,0.7,3,2,0,0,3,4,4,2,14,14,"2-1",3,6,28,"4-2","Y","Y","N",5,0,"Rosendo Mendoza","2024-03-30-Austin-FC Dallas",6
+"289","MLS",2024-03-30,"RSL","St. Louis",3,1,"H",1.8,0.5,1,2,0,0,3,2,11,4,8,15,"3-1",4,15,23,"11-4","Y","Y","Y",3,0,"Drew Fischer","2024-03-30-RSL-St. Louis",6
+"290","MLS",2024-03-30,"LA Galaxy","Seattle",1,0,"H",0.8,1.7,0,3,0,0,2,2,4,6,11,7,"1-0",1,10,18,"4-6","N","N","N",3,0,"Ismail Elfath","2024-03-30-LA Galaxy-Seattle",6
+"291","MLS",2024-03-31,"Atlanta Utd","Fire",3,0,"H",2.7,0.7,2,1,0,1,7,3,3,4,8,5,"3-0",3,7,13,"3-4","Y","Y","N",3,1,"Lukasz Szpala","2024-03-31-Atlanta Utd-Fire",6
+"292","MLS",2024-04-06,"Vancouver Wcaps","Toronto FC",4,0,"H",2.5,0.7,2,5,0,0,6,3,5,5,11,18,"4-0",4,10,29,"5-5","Y","Y","Y",7,0,"Ramy Touchan","2024-04-06-Vancouver Wcaps-Toronto FC",6
+"293","MLS",2024-04-06,"LAFC","LA Galaxy",2,1,"H",3.6,1,4,0,0,0,8,4,6,4,20,7,"2-1",3,10,27,"6-4","Y","Y","N",4,0,"Jon Freemon","2024-04-06-LAFC-LA Galaxy",6
+"294","MLS",2024-04-06,"Crew","D.C. United",1,1,"D",0.6,1.9,1,2,1,0,4,3,2,3,7,19,"1-1",2,5,26,"2-3","Y","N","N",3,1,"Pierre-Luc Lauziere","2024-04-06-Crew-D.C. United",6
+"295","MLS",2024-04-06,"Inter Miami","Rapids",2,2,"D",1,1.2,3,2,0,0,7,3,6,6,13,13,"2-2",4,12,26,"6-6","Y","Y","Y",5,0,"Ted Unkel","2024-04-06-Inter Miami-Rapids",6
+"296","MLS",2024-04-06,"NYCFC","Atlanta Utd",1,1,"D",2.4,1.9,3,1,0,0,2,6,7,5,13,11,"1-1",2,12,24,"7-5","Y","N","N",4,0,"Rosendo Mendoza","2024-04-06-NYCFC-Atlanta Utd",6
+"297","MLS",2024-04-06,"FC Cincinnati","NY Red Bulls",1,2,"A",0.7,1.2,3,2,0,0,4,4,8,8,19,16,"1-2",3,16,35,"8-8","Y","Y","N",5,0,"Drew Fischer","2024-04-06-FC Cincinnati-NY Red Bulls",6
+"298","MLS",2024-04-06,"NE Revolution","Charlotte",1,0,"H",1.1,0.6,2,2,0,0,3,2,4,6,9,11,"1-0",1,10,20,"4-6","N","N","N",4,0,"Serhii Boiko","2024-04-06-NE Revolution-Charlotte",6
+"299","MLS",2024-04-06,"Nashville","Philadelphia",1,2,"A",1.7,1.9,1,0,0,0,5,5,8,5,10,9,"1-2",3,13,19,"8-5","Y","Y","N",1,0,"Victor Rivas","2024-04-06-Nashville-Philadelphia",7
+"300","MLS",2024-04-06,"Fire","Dynamo FC",2,1,"H",1.4,1,1,1,0,0,5,4,5,6,14,12,"2-1",3,11,26,"5-6","Y","Y","N",2,0,"Malik Badawi","2024-04-06-Fire-Dynamo FC",7
+"301","MLS",2024-04-06,"Seattle","CF Montreal",5,0,"H",3.6,0.5,1,5,0,1,10,2,5,3,9,19,"5-0",5,8,28,"5-3","Y","Y","Y",6,1,"Filip Dujic","2024-04-06-Seattle-CF Montreal",7
+"302","MLS",2024-04-06,"Austin","SJ Earthquakes",4,3,"H",1.9,2.7,3,3,0,0,5,8,10,3,11,12,"4-3",7,13,23,"10-3","Y","Y","Y",6,0,"Lukasz Szpala","2024-04-06-Austin-SJ Earthquakes",7
+"303","MLS",2024-04-06,"Minnesota Utd","RSL",1,1,"D",1.9,1,3,3,1,0,7,5,7,6,13,11,"1-1",2,13,24,"7-6","Y","N","N",6,1,"Mark Allatin","2024-04-06-Minnesota Utd-RSL",7
+"304","MLS",2024-04-06,"St. Louis","FC Dallas",0,0,"D",1.9,1.3,3,1,0,0,7,4,9,2,14,10,"0-0",0,11,24,"9-2","N","N","N",4,0,"Marcos de Oliveira","2024-04-06-St. Louis-FC Dallas",7
+"305","MLS",2024-04-07,"Sporting KC","Portland Timbers",3,3,"D",2.6,2.1,3,2,0,0,6,7,7,1,16,20,"3-3",6,8,36,"7-1","Y","Y","Y",5,0,"Armando Villarreal","2024-04-07-Sporting KC-Portland Timbers",7
+"306","MLS",2024-04-13,"Portland Timbers","LAFC",2,2,"D",1.4,1.7,2,6,1,0,4,4,4,4,12,22,"2-2",4,8,34,"4-4","Y","Y","Y",8,1,"Rubiel Vazquez","2024-04-13-Portland Timbers-LAFC",7
+"307","MLS",2024-04-13,"CF Montreal","FC Cincinnati",2,1,"H",1.1,1,3,3,0,0,4,4,5,4,14,11,"2-1",3,9,25,"5-4","Y","Y","N",6,0,"Lukasz Szpala","2024-04-13-CF Montreal-FC Cincinnati",7
+"308","MLS",2024-04-13,"NYCFC","NE Revolution",2,0,"H",2.5,0.4,2,3,0,0,6,6,4,6,18,13,"2-0",2,10,31,"4-6","Y","N","N",5,0,"Pierre-Luc Lauziere","2024-04-13-NYCFC-NE Revolution",7
+"309","MLS",2024-04-13,"NY Red Bulls","Fire",0,0,"D",1.4,0.6,0,2,1,0,5,3,4,4,5,7,"0-0",0,8,12,"4-4","N","N","N",2,1,"Boiko Serhii","2024-04-13-NY Red Bulls-Fire",7
+"310","MLS",2024-04-13,"Charlotte","Toronto FC",3,2,"H",1,1.8,2,4,0,1,5,5,4,6,8,13,"3-2",5,10,21,"4-6","Y","Y","Y",6,1,"Allen Chapman","2024-04-13-Charlotte-Toronto FC",7
+"311","MLS",2024-04-13,"D.C. United","Orlando City",2,3,"A",1.5,1.8,6,3,0,0,7,4,7,4,19,14,"2-3",5,11,33,"7-4","Y","Y","Y",9,0,"Guido Gonzalez Jr.","2024-04-13-D.C. United-Orlando City",7
+"312","MLS",2024-04-13,"RSL","Crew",0,0,"D",1.8,0.6,6,3,0,0,8,4,6,3,22,10,"0-0",0,9,32,"6-3","N","N","N",9,0,"Ramy Touchan","2024-04-13-RSL-Crew",7
+"313","MLS",2024-04-13,"FC Dallas","Seattle",0,0,"D",0.8,1,2,0,0,0,2,2,4,3,12,12,"0-0",0,7,24,"4-3","N","N","N",2,0,"Alexis Da Silva","2024-04-13-FC Dallas-Seattle",7
+"314","MLS",2024-04-13,"Vancouver Wcaps","LA Galaxy",1,3,"A",2.4,2.5,4,2,0,0,7,5,10,7,8,8,"1-3",4,17,16,"10-7","Y","Y","Y",6,0,"Ismir Pekmic","2024-04-13-Vancouver Wcaps-LA Galaxy",8
+"315","MLS",2024-04-13,"SJ Earthquakes","Rapids",0,3,"A",2.2,1.8,3,1,0,0,6,2,10,7,11,4,"0-3",3,17,15,"10-7","Y","Y","N",4,0,"Malik Badawi","2024-04-13-SJ Earthquakes-Rapids",8
+"316","MLS",2024-04-13,"Sporting KC","Inter Miami",2,3,"A",0.6,0.9,3,2,0,0,3,5,5,1,14,9,"2-3",5,6,23,"5-1","Y","Y","Y",5,0,"Victor Rivas","2024-04-13-Sporting KC-Inter Miami",8
+"317","MLS",2024-04-13,"Minnesota Utd","Dynamo FC",1,2,"A",2.3,0.4,1,4,0,0,6,2,7,5,10,11,"1-2",3,12,21,"7-5","Y","Y","N",5,0,"Filip Dujic","2024-04-13-Minnesota Utd-Dynamo FC",8
+"318","MLS",2024-04-14,"Atlanta Utd","Philadelphia",2,2,"D",1.6,1.1,2,6,0,0,6,4,7,5,11,8,"2-2",4,12,19,"7-5","Y","Y","Y",8,0,"Jon Freemon","2024-04-14-Atlanta Utd-Philadelphia",8
+"319","MLS",2024-04-14,"St. Louis","Austin",1,0,"H",1.5,0.3,2,2,0,0,4,0,5,6,18,14,"1-0",1,11,32,"5-6","N","N","N",4,0,"Ted Unkel","2024-04-14-St. Louis-Austin",8
+"320","MLS",2024-04-20,"Atlanta Utd","FC Cincinnati",1,2,"A",1.9,2,1,3,0,0,4,3,9,4,12,9,"1-2",3,13,21,"9-4","Y","Y","N",4,0,"Armando Villarreal","2024-04-20-Atlanta Utd-FC Cincinnati",8
+"321","MLS",2024-04-20,"CF Montreal","Orlando City",2,2,"D",1.5,1.5,4,2,0,0,4,1,1,8,12,8,"2-2",4,9,20,"1-8","Y","Y","Y",6,0,"Jon Freemon","2024-04-20-CF Montreal-Orlando City",8
+"322","MLS",2024-04-20,"Crew","Portland Timbers",2,2,"D",1.5,0.6,1,1,0,0,4,4,6,1,10,14,"2-2",4,7,24,"6-1","Y","Y","Y",2,0,"Ted Unkel","2024-04-20-Crew-Portland Timbers",8
+"323","MLS",2024-04-20,"NYCFC","D.C. United",2,0,"H",3,0.6,1,2,0,0,8,1,7,4,11,14,"2-0",2,11,25,"7-4","Y","N","N",3,0,"Malik Badawi","2024-04-20-NYCFC-D.C. United",8
+"324","MLS",2024-04-20,"Toronto FC","NE Revolution",1,0,"H",1.5,1.5,3,2,0,0,7,5,0,8,11,15,"1-0",1,8,26,"0-8","N","N","N",5,0,"Mark Allatin","2024-04-20-Toronto FC-NE Revolution",8
+"325","MLS",2024-04-20,"Inter Miami","Nashville",3,1,"H",2.6,2.4,2,1,0,0,5,4,4,6,14,12,"3-1",4,10,26,"4-6","Y","Y","Y",3,0,"Ismail Elfath","2024-04-20-Inter Miami-Nashville",8
+"326","MLS",2024-04-20,"Dynamo FC","Austin",0,1,"A",1.5,0.8,4,2,0,0,6,4,2,1,16,11,"0-1",1,3,27,"2-1","N","N","N",6,0,"Rubiel Vazquez","2024-04-20-Dynamo FC-Austin",8
+"327","MLS",2024-04-20,"Fire","RSL",0,4,"A",1.2,1.8,1,1,0,0,5,7,5,5,15,13,"0-4",4,10,28,"5-5","Y","Y","Y",2,0,"Marcos de Oliveira","2024-04-20-Fire-RSL",8
+"328","MLS",2024-04-20,"Rapids","FC Dallas",2,1,"H",1.8,1,0,3,0,0,4,3,3,8,14,13,"2-1",3,11,27,"3-8","Y","Y","N",3,0,"Ricardo Fierro","2024-04-20-Rapids-FC Dallas",8
+"329","MLS",2024-04-20,"Seattle","Vancouver Wcaps",0,2,"A",0.6,2,1,3,2,0,1,4,6,3,8,12,"0-2",2,9,20,"6-3","Y","N","N",4,2,"Ramy Touchan","2024-04-20-Seattle-Vancouver Wcaps",9
+"330","MLS",2024-04-20,"Sporting KC","St. Louis",3,3,"D",1.3,1.9,3,2,0,0,4,7,2,6,15,21,"3-3",6,8,36,"2-6","Y","Y","Y",5,0,"Allen Chapman","2024-04-20-Sporting KC-St. Louis",9
+"331","MLS",2024-04-20,"LAFC","NY Red Bulls",2,2,"D",1.5,1,0,2,0,0,5,2,9,5,11,13,"2-2",4,14,24,"9-5","Y","Y","Y",2,0,"Guido Gonzalez Jr.","2024-04-20-LAFC-NY Red Bulls",9
+"332","MLS",2024-04-21,"LA Galaxy","SJ Earthquakes",4,3,"H",2.4,1.8,2,4,1,0,6,6,3,5,11,21,"4-3",7,8,32,"3-5","Y","Y","Y",6,1,"Rosendo Mendoza","2024-04-21-LA Galaxy-SJ Earthquakes",9
+"333","MLS",2024-04-21,"Charlotte","Minnesota Utd",0,3,"A",0.9,1.7,1,1,0,0,1,5,11,5,8,16,"0-3",3,16,24,"11-5","Y","Y","N",2,0,"Pierre-Luc Lauziere","2024-04-21-Charlotte-Minnesota Utd",9
 "16","MLS",2024-04-27,"Austin","LA Galaxy",2,0,"H",1.1,0.5,3,2,0,0,5,5,2,10,13,13,"2-0",2,12,26,"2-10","Y","N","N",5,0,"Victor Rivas","2024-04-27-Austin-LA Galaxy",9
 "17","MLS",2024-04-27,"FC Cincinnati","Rapids",2,1,"H",2.1,0.7,2,1,0,0,9,2,4,6,10,5,"2-1",3,10,15,"4-6","Y","Y","N",3,0,"Boiko Serhii","2024-04-27-FC Cincinnati-Rapids",9
 "18","MLS",2024-04-27,"Crew","CF Montreal",0,0,"D",1.5,0.6,1,4,0,0,4,2,6,3,9,17,"0-0",0,9,26,"6-3","N","N","N",5,0,"Tori Penso","2024-04-27-Crew-CF Montreal",9
@@ -137,8 +137,8 @@
 "26","MLS",2024-04-27,"LAFC","Portland Timbers",3,2,"H",1.2,0.8,4,6,0,1,10,4,8,3,17,13,"3-2",5,11,30,"8-3","Y","Y","Y",10,1,"Ismail Elfath","2024-04-27-LAFC-Portland Timbers",10
 "27","MLS",2024-04-27,"FC Dallas","Dynamo FC",2,0,"H",2.3,0.1,3,2,0,1,5,0,9,1,21,10,"2-0",2,10,31,"9-1","Y","N","N",5,1,"Lukasz Szpala","2024-04-27-FC Dallas-Dynamo FC",10
 "28","MLS",2024-04-27,"Minnesota Utd","Sporting KC",2,1,"H",2.3,1.4,2,1,0,0,5,3,5,4,16,11,"2-1",3,9,27,"5-4","Y","Y","N",3,0,"Ted Unkel","2024-04-27-Minnesota Utd-Sporting KC",10
-"29","MLS",2024-04-27,"Nashville","SJ Earthquakes",1,1,"D",0.9,1.1,1,4,0,0,5,4,7,5,7,8,"1-1",2,12,15,"7-5","Y","N","N",5,0,"Allen Chapman","2024-04-27-Nashville-SJ Earthquakes",10
-"126","MLS",2024-04-30,"Philadelphia","Seattle",2,3,"A",1.2,2.2,2,2,0,0,6,3,9,10,6,7,"2-3",5,19,13,"9-10","Y","Y","Y",4,0,"Joe Dickerson","2024-04-30-Philadelphia-Seattle",10
+"29","MLS",2024-04-27,"Nashville","SJ Earthquakes",1,1,"D",1,1.2,1,4,0,0,5,4,7,5,7,8,"1-1",2,12,15,"7-5","Y","N","N",5,0,"Allen Chapman","2024-04-27-Nashville-SJ Earthquakes",10
+"250","MLS",2024-04-30,"Philadelphia","Seattle",2,3,"A",1.2,2.2,2,2,0,0,6,3,9,10,6,7,"2-3",5,19,13,"9-10","Y","Y","Y",4,0,"Joe Dickerson","2024-04-30-Philadelphia-Seattle",10
 "30","MLS",2024-05-04,"SJ Earthquakes","LAFC",3,1,"H",1.5,1.9,2,2,0,0,3,7,4,7,14,14,"3-1",4,11,28,"4-7","Y","Y","Y",4,0,"Victor Rivas","2024-05-04-SJ Earthquakes-LAFC",10
 "31","MLS",2024-05-04,"Inter Miami","NY Red Bulls",6,2,"H",2.8,1.5,1,3,0,0,7,4,3,3,8,11,"6-2",8,6,19,"3-3","Y","Y","Y",4,0,"Tori Penso","2024-05-04-Inter Miami-NY Red Bulls",10
 "32","MLS",2024-05-04,"D.C. United","Philadelphia",2,2,"D",1.1,0.6,1,3,0,0,4,3,4,5,12,11,"2-2",4,9,23,"4-5","Y","Y","Y",4,0,"Ismir Pekmic","2024-05-04-D.C. United-Philadelphia",10
@@ -158,7 +158,7 @@
 "46","MLS",2024-05-11,"Philadelphia","Orlando City",2,3,"A",3.8,1.2,1,3,0,0,4,4,7,6,11,9,"2-3",5,13,20,"7-6","Y","Y","Y",4,0,"Tim Ford","2024-05-11-Philadelphia-Orlando City",11
 "47","MLS",2024-05-11,"Toronto FC","NYCFC",2,3,"A",1.9,2.4,4,3,1,0,11,3,6,4,18,13,"2-3",5,10,31,"6-4","Y","Y","Y",7,1,"Lukasz Szpala","2024-05-11-Toronto FC-NYCFC",11
 "48","MLS",2024-05-11,"CF Montreal","Inter Miami",2,3,"A",1.3,1.2,1,2,0,0,6,4,10,3,15,9,"2-3",5,13,24,"10-3","Y","Y","Y",3,0,"Drew Fischer","2024-05-11-CF Montreal-Inter Miami",11
-"49","MLS",2024-05-11,"NY Red Bulls","NE Revolution",4,2,"H",3.3,1.2,0,3,0,0,5,6,2,7,7,9,"4-2",6,9,16,"2-7","Y","Y","Y",3,0,"Jon Freemon","2024-05-11-NY Red Bulls-NE Revolution",11
+"49","MLS",2024-05-11,"NY Red Bulls","NE Revolution",4,2,"H",3.4,1.2,0,3,0,0,5,6,2,7,7,9,"4-2",6,9,16,"2-7","Y","Y","Y",3,0,"Jon Freemon","2024-05-11-NY Red Bulls-NE Revolution",11
 "50","MLS",2024-05-11,"St. Louis","Fire",3,1,"H",2.3,1,1,3,0,0,7,4,5,3,11,11,"3-1",4,8,22,"5-3","Y","Y","Y",4,0,"Pierre-Luc Lauziere","2024-05-11-St. Louis-Fire",11
 "51","MLS",2024-05-11,"LA Galaxy","RSL",2,2,"D",2.8,1.4,1,1,0,0,6,4,12,3,6,14,"2-2",4,15,20,"12-3","Y","Y","Y",2,0,"Rubiel Vazquez","2024-05-11-LA Galaxy-RSL",11
 "52","MLS",2024-05-11,"Sporting KC","Dynamo FC",1,2,"A",0.7,1.3,2,1,0,0,6,6,7,3,14,13,"1-2",3,10,27,"7-3","Y","Y","N",3,0,"Alexis Da Silva","2024-05-11-Sporting KC-Dynamo FC",11
@@ -187,7 +187,7 @@
 "75","MLS",2024-05-18,"NYCFC","NY Red Bulls",2,1,"H",1.2,1,1,5,0,1,5,4,5,5,10,14,"2-1",3,10,24,"5-5","Y","Y","N",6,1,"Rosendo Mendoza","2024-05-18-NYCFC-NY Red Bulls",13
 "76","MLS",2024-05-18,"Charlotte","LA Galaxy",0,0,"D",1.2,1.5,2,1,0,0,2,5,2,6,8,9,"0-0",0,8,17,"2-6","N","N","N",3,0,"Joe Dickerson","2024-05-18-Charlotte-LA Galaxy",13
 "77","MLS",2024-05-18,"NE Revolution","Philadelphia",0,3,"A",1.4,2.2,3,1,1,0,3,9,6,5,16,14,"0-3",3,11,30,"6-5","Y","Y","N",4,1,"Filip Dujic","2024-05-18-NE Revolution-Philadelphia",13
-"78","MLS",2024-05-18,"SJ Earthquakes","Orlando City",0,1,"A",0.6,1.9,2,0,0,0,3,3,6,5,7,7,"0-1",1,11,14,"6-5","N","N","N",2,0,"Malik Badawi","2024-05-18-SJ Earthquakes-Orlando City",13
+"78","MLS",2024-05-18,"SJ Earthquakes","Orlando City",0,1,"A",0.6,1.8,2,0,0,0,3,3,6,5,7,7,"0-1",1,11,14,"6-5","N","N","N",2,0,"Malik Badawi","2024-05-18-SJ Earthquakes-Orlando City",13
 "79","MLS",2024-05-18,"Austin","Sporting KC",3,2,"H",2.4,1,4,2,0,0,6,3,7,5,8,12,"3-2",5,12,20,"7-5","Y","Y","Y",6,0,"Boiko Serhii","2024-05-18-Austin-Sporting KC",13
 "80","MLS",2024-05-18,"Seattle","Vancouver Wcaps",1,1,"D",1,1,4,1,1,0,2,4,5,3,14,12,"1-1",2,8,26,"5-3","Y","N","N",5,1,"Victor Rivas","2024-05-18-Seattle-Vancouver Wcaps",13
 "81","MLS",2024-05-18,"Dynamo FC","FC Dallas",1,1,"D",0.8,0.8,2,1,0,0,8,3,6,1,14,10,"1-1",2,7,24,"6-1","Y","N","N",3,0,"Tori Penso","2024-05-18-Dynamo FC-FC Dallas",13
@@ -201,62 +201,203 @@
 "89","MLS",2024-05-25,"Atlanta Utd","LAFC",0,1,"A",1.3,0.9,2,2,1,1,5,4,5,9,12,8,"0-1",1,14,20,"5-9","N","N","N",4,2,"Boiko Serhii","2024-05-25-Atlanta Utd-LAFC",14
 "90","MLS",2024-05-25,"NE Revolution","NYCFC",0,1,"A",0.7,1.5,3,2,0,0,6,4,8,7,19,8,"0-1",1,15,27,"8-7","N","N","N",5,0,"Ted Unkel","2024-05-25-NE Revolution-NYCFC",14
 "91","MLS",2024-05-25,"Orlando City","Crew",0,2,"A",1.3,2.2,2,2,0,0,5,2,9,2,11,7,"0-2",2,11,18,"9-2","Y","N","N",4,0,"Jair Marrufo","2024-05-25-Orlando City-Crew",14
-"92","MLS",2024-05-25,"FC Dallas","RSL",3,3,"D",1.6,3.1,4,0,0,0,6,8,5,7,12,8,"3-3",6,12,20,"5-7","Y","Y","Y",4,0,"Abdou Ndiaye","2024-05-25-FC Dallas-RSL",14
+"92","MLS",2024-05-25,"FC Dallas","RSL",3,3,"D",1.6,3.1,4,0,0,0,7,8,5,7,12,8,"3-3",6,12,20,"5-7","Y","Y","Y",4,0,"Abdou Ndiaye","2024-05-25-FC Dallas-RSL",14
 "93","MLS",2024-05-25,"Portland Timbers","Sporting KC",2,1,"H",2.1,0.2,0,1,0,0,4,2,3,2,13,8,"2-1",3,5,21,"3-2","Y","Y","N",1,0,"Drew Fischer","2024-05-25-Portland Timbers-Sporting KC",14
 "94","MLS",2024-05-25,"Rapids","Minnesota Utd",3,3,"D",3.3,1.9,0,4,0,0,7,6,9,0,3,16,"3-3",6,9,19,"9-0","Y","Y","Y",4,0,"Filip Dujic","2024-05-25-Rapids-Minnesota Utd",14
 "95","MLS",2024-05-25,"SJ Earthquakes","Austin",1,1,"D",3.3,0.6,4,1,0,0,5,1,8,1,10,12,"1-1",2,9,22,"8-1","Y","N","N",5,0,"Chris Penso","2024-05-25-SJ Earthquakes-Austin",14
 "96","MLS",2024-05-25,"Vancouver Wcaps","Inter Miami",1,2,"A",2.2,1.3,3,6,0,0,1,6,9,5,8,14,"1-2",3,14,22,"9-5","Y","Y","N",9,0,"Joe Dickerson","2024-05-25-Vancouver Wcaps-Inter Miami",14
 "97","MLS",2024-05-25,"St. Louis","Seattle",1,2,"A",1.5,1.3,3,2,0,0,5,1,6,1,14,9,"1-2",3,7,23,"6-1","Y","Y","N",5,0,"Lukasz Szpala","2024-05-25-St. Louis-Seattle",14
 "98","MLS",2024-05-25,"LA Galaxy","Dynamo FC",2,1,"H",1.1,1.9,1,0,0,0,6,3,7,5,10,12,"2-1",3,12,22,"7-5","Y","Y","N",1,0,"Allen Chapman","2024-05-25-LA Galaxy-Dynamo FC",14
-"210","ARG",2024-05-10,"Sarmiento","Instituto",1,2,"A",1.1,1.2,3,4,0,0,5,3,7,3,12,10,"1-2",3,10,22,"7-3","Y","Y","N",7,0,"Sebastián Martinez","2024-05-10-Sarmiento-Instituto",1
-"211","ARG",2024-05-10,"Arg Juniors","Rosario Central",3,2,"H",1.4,0.7,1,4,0,0,8,4,6,0,10,12,"3-2",5,6,22,"6-0","Y","Y","Y",5,0,"Hernán Mastrángelo","2024-05-10-Arg Juniors-Rosario Central",1
-"212","ARG",2024-05-10,"Newells OB","Platense",2,0,"H",1.2,0.5,3,4,0,0,8,1,1,5,13,17,"2-0",2,6,30,"1-5","Y","N","N",7,0,"Andrés Merlos","2024-05-10-Newells OB-Platense",1
-"213","ARG",2024-05-11,"Huracan","Defensa Justicia",3,1,"H",1.6,0.5,1,6,0,1,5,4,6,5,13,14,"3-1",4,11,27,"6-5","Y","Y","Y",7,1,"Darío Herrera","2024-05-11-Huracan-Defensa Justicia",1
-"214","ARG",2024-05-11,"Godoy Cruz","Barracas Central",0,1,"A",1.9,0.6,0,1,0,0,5,4,7,5,15,6,"0-1",1,12,21,"7-5","N","N","N",1,0,"Silvio Trucco","2024-05-11-Godoy Cruz-Barracas Central",1
-"215","ARG",2024-05-11,"Independiente","Talleres",1,3,"A",0.4,1.3,7,4,1,0,5,5,5,5,15,14,"1-3",4,10,29,"5-5","Y","Y","Y",11,1,"Yael Falcón","2024-05-11-Independiente-Talleres",1
-"216","ARG",2024-05-11,"River Plate","Central Cordoba",3,0,"H",2.6,0.3,2,4,0,1,13,2,7,2,17,12,"3-0",3,9,29,"7-2","Y","Y","N",6,1,"Robin Fuhrmann","2024-05-11-River Plate-Central Cordoba",1
-"217","ARG",2024-05-12,"Deportivo Riestra","San Lorenzo",1,0,"H",0.5,0.3,5,4,0,0,3,0,3,4,13,12,"1-0",1,7,25,"3-4","N","N","N",9,0,"Leandro Rey Hilfer","2024-05-12-Deportivo Riestra-San Lorenzo",1
-"218","ARG",2024-05-12,"Tigre","Estudiantes",0,1,"A",0.9,0.5,2,1,0,0,2,3,8,2,11,14,"0-1",1,10,25,"8-2","N","N","N",3,0,"Carlos Gareano","2024-05-12-Tigre-Estudiantes",1
-"219","ARG",2024-05-12,"Lanus","Independiente Rivadavia",0,2,"A",0.8,0.7,1,1,1,0,2,3,6,3,10,12,"0-2",2,9,22,"6-3","Y","N","N",2,1,"Sebastían Zunino","2024-05-12-Lanus-Independiente Rivadavia",1
-"220","ARG",2024-05-12,"Belgrano","Racing Club",4,4,"D",1.4,1.8,3,2,0,0,4,8,4,9,14,10,"4-4",8,13,24,"4-9","Y","Y","Y",5,0,"Nazareno Arasa","2024-05-12-Belgrano-Racing Club",1
-"221","ARG",2024-05-12,"Atletico Tucuman","Boca Juniors",1,0,"H",1.6,0.6,3,1,0,0,5,4,3,13,12,11,"1-0",1,16,23,"3-13","N","N","N",4,0,"Pablo Echavarría","2024-05-12-Atletico Tucuman-Boca Juniors",1
-"222","ARG",2024-05-13,"Gimnasia–LP","Velez Sarsfield",3,1,"H",1.8,1.3,3,3,0,0,5,4,4,7,14,8,"3-1",4,11,22,"4-7","Y","Y","Y",6,0,"Franco Acita","2024-05-13-Gimnasia–LP-Velez Sarsfield",1
-"223","ARG",2024-05-13,"Union","Banfield",1,0,"H",1.3,0.6,2,4,0,0,6,2,5,2,10,15,"1-0",1,7,25,"5-2","N","N","N",6,0,"Fernando Espinoza","2024-05-13-Union-Banfield",1
-"224","ARG",2024-05-18,"Independiente Rivadavia","Godoy Cruz",0,0,"D",0.4,0.7,2,4,0,0,0,2,1,8,13,16,"0-0",0,9,29,"1-8","N","N","N",6,0,"Darío Herrera","2024-05-18-Independiente Rivadavia-Godoy Cruz",2
-"225","ARG",2024-05-18,"River Plate","Belgrano",3,0,"H",1.2,0.3,3,2,0,0,10,0,7,1,12,15,"3-0",3,8,27,"7-1","Y","Y","N",5,0,"Pablo Dóvalo","2024-05-18-River Plate-Belgrano",2
-"226","ARG",2024-05-18,"Defensa Justicia","Gimnasia–LP",1,1,"D",1.2,1.6,2,3,0,0,3,3,3,7,9,12,"1-1",2,10,21,"3-7","Y","N","N",5,0,"Fernando Echenique","2024-05-18-Defensa Justicia-Gimnasia–LP",2
-"227","ARG",2024-05-18,"Instituto","Union",1,1,"D",0.6,1,0,1,1,0,1,2,5,6,10,8,"1-1",2,11,18,"5-6","Y","N","N",1,1,"Sebastían Zunino","2024-05-18-Instituto-Union",2
-"228","ARG",2024-05-19,"Barracas Central","Sarmiento",1,1,"D",0.6,1.2,2,4,0,0,6,3,5,2,14,25,"1-1",2,7,39,"5-2","Y","N","N",6,0,"Yael Falcón","2024-05-19-Barracas Central-Sarmiento",2
-"229","ARG",2024-05-19,"Platense","Independiente",0,0,"D",1.2,0.3,2,5,0,0,4,4,3,1,13,13,"0-0",0,4,26,"3-1","N","N","N",7,0,"Leandro Rey Hilfer","2024-05-19-Platense-Independiente",2
-"230","ARG",2024-05-19,"Talleres","Atletico Tucuman",2,0,"H",0.5,0.9,2,4,0,0,3,4,1,9,9,15,"2-0",2,10,24,"1-9","Y","N","N",6,0,"Nazareno Arasa","2024-05-19-Talleres-Atletico Tucuman",2
-"231","ARG",2024-05-19,"Banfield","Huracan",1,1,"D",0.9,1.1,3,1,1,0,5,1,6,1,12,10,"1-1",2,7,22,"6-1","Y","N","N",4,1,"Jorge Baliño","2024-05-19-Banfield-Huracan",2
-"232","ARG",2024-05-19,"Central Cordoba","Boca Juniors",2,4,"A",1.5,2.8,3,1,0,0,2,12,2,6,14,15,"2-4",6,8,29,"2-6","Y","Y","Y",4,0,"Facundo Tello","2024-05-19-Central Cordoba-Boca Juniors",2
-"233","ARG",2024-05-20,"Estudiantes","Deportivo Riestra",2,0,"H",1.7,0.5,4,3,0,0,7,1,6,3,14,12,"2-0",2,9,26,"6-3","Y","N","N",7,0,"Fernando Espinoza","2024-05-20-Estudiantes-Deportivo Riestra",2
-"234","ARG",2024-05-20,"San Lorenzo","Lanus",1,1,"D",0.9,1.1,2,6,0,0,4,4,7,6,10,21,"1-1",2,13,31,"7-6","Y","N","N",8,0,"Pablo Echavarría","2024-05-20-San Lorenzo-Lanus",2
-"235","ARG",2024-05-20,"Rosario Central","Tigre",1,1,"D",0.9,0.4,3,1,0,0,4,3,7,2,8,10,"1-1",2,9,18,"7-2","Y","N","N",4,0,"Andrés Merlos","2024-05-20-Rosario Central-Tigre",2
-"236","ARG",2024-05-20,"Racing Club","Arg Juniors",3,0,"H",1.5,0.4,4,5,0,1,9,0,3,4,17,14,"3-0",3,7,31,"3-4","Y","Y","N",9,1,"Robin Fuhrmann","2024-05-20-Racing Club-Arg Juniors",2
-"237","ARG",2024-05-21,"Velez Sarsfield","Newells OB",1,0,"H",0.5,0.9,5,5,0,0,2,2,2,4,17,16,"1-0",1,6,33,"2-4","N","N","N",10,0,"Fernando Rapallini","2024-05-21-Velez Sarsfield-Newells OB",2
-"238","ARG",2024-05-24,"Deportivo Riestra","Rosario Central",0,2,"A",2.4,1.6,1,3,0,0,6,6,7,1,12,14,"0-2",2,8,26,"7-1","Y","N","N",4,0,"Nicolás Lamolina","2024-05-24-Deportivo Riestra-Rosario Central",3
-"239","ARG",2024-05-24,"Tigre","Racing Club",0,4,"A",0.6,2.9,4,2,0,0,4,7,1,3,13,8,"0-4",4,4,21,"1-3","Y","Y","Y",6,0,"Yael Falcón","2024-05-24-Tigre-Racing Club",3
-"240","ARG",2024-05-24,"Belgrano","Central Cordoba",2,1,"H",3.1,1.2,6,3,1,0,6,1,4,7,20,8,"2-1",3,11,28,"4-7","Y","Y","N",9,1,"Luis Lobo Medina","2024-05-24-Belgrano-Central Cordoba",3
-"241","ARG",2024-05-24,"Lanus","Estudiantes",2,1,"H",1.1,1.4,2,1,1,0,5,5,1,5,11,12,"2-1",3,6,23,"1-5","Y","Y","N",3,1,"Andrés Merlos","2024-05-24-Lanus-Estudiantes",3
-"242","ARG",2024-05-25,"Arg Juniors","River Plate",1,0,"H",0.7,0.3,3,6,0,0,4,0,3,5,12,27,"1-0",1,8,39,"3-5","N","N","N",9,0,"Leandro Rey Hilfer","2024-05-25-Arg Juniors-River Plate",3
-"243","ARG",2024-05-25,"Newells OB","Defensa Justicia",1,0,"H",0.7,0.4,1,3,0,0,4,3,5,4,12,11,"1-0",1,9,23,"5-4","N","N","N",4,0,"Pablo Echavarría","2024-05-25-Newells OB-Defensa Justicia",3
-"244","ARG",2024-05-25,"Boca Juniors","Talleres",0,0,"D",0.4,1.7,4,3,0,0,2,5,5,4,10,17,"0-0",0,9,27,"5-4","N","N","N",7,0,"Hernán Mastrángelo","2024-05-25-Boca Juniors-Talleres",3
-"245","ARG",2024-05-26,"Huracan","Instituto",1,0,"H",1,0.7,4,4,1,1,1,2,7,3,11,18,"1-0",1,10,29,"7-3","N","N","N",8,2,"Ariel Penel","2024-05-26-Huracan-Instituto",3
-"246","ARG",2024-05-26,"Sarmiento","Independiente Rivadavia",0,1,"A",0.5,0.6,3,3,1,0,2,2,5,3,16,15,"0-1",1,8,31,"5-3","N","N","N",6,1,"Facundo Tello","2024-05-26-Sarmiento-Independiente Rivadavia",3
-"247","ARG",2024-05-26,"Gimnasia–LP","Banfield",3,0,"H",2.3,0.4,1,0,0,0,9,4,3,5,11,13,"3-0",3,8,24,"3-5","Y","Y","N",1,0,"Sebastían Zunino","2024-05-26-Gimnasia–LP-Banfield",3
-"248","ARG",2024-05-26,"Independiente","Velez Sarsfield",1,1,"D",0.5,1.2,3,3,0,0,4,1,4,3,14,22,"1-1",2,7,36,"4-3","Y","N","N",6,0,"Darío Herrera","2024-05-26-Independiente-Velez Sarsfield",3
-"249","ARG",2024-05-27,"Union","Barracas Central",2,0,"H",2,0.9,4,3,0,0,8,2,5,3,14,8,"2-0",2,8,22,"5-3","Y","N","N",7,0,"Robin Fuhrmann","2024-05-27-Union-Barracas Central",3
-"250","ARG",2024-05-27,"Atletico Tucuman","Platense",1,1,"D",1.2,0.9,2,6,0,1,4,1,6,0,14,11,"1-1",2,6,25,"6-0","Y","N","N",8,1,"Silvio Trucco","2024-05-27-Atletico Tucuman-Platense",3
-"251","ARG",2024-06-01,"Racing Club","Deportivo Riestra",1,0,"H",1.6,0.2,1,1,0,0,3,2,12,6,9,11,"1-0",1,18,20,"12-6","N","N","N",2,0,"Fernando Echenique","2024-06-01-Racing Club-Deportivo Riestra",3
-"252","ARG",2024-06-01,"Belgrano","Arg Juniors",1,0,"H",0.8,1,3,4,1,0,3,2,1,9,10,14,"1-0",1,10,24,"1-9","N","N","N",7,1,"Facundo Tello","2024-06-01-Belgrano-Arg Juniors",4
-"253","ARG",2024-06-01,"Velez Sarsfield","Atletico Tucuman",1,1,"D",0.7,0.6,3,1,0,0,7,3,9,4,7,16,"1-1",2,13,23,"9-4","Y","N","N",4,0,"Nicolás Lamolina","2024-06-01-Velez Sarsfield-Atletico Tucuman",4
-"254","ARG",2024-06-02,"Platense","Boca Juniors",1,0,"H",1.8,0.3,2,7,0,1,6,4,7,6,15,12,"1-0",1,13,27,"7-6","N","N","N",9,1,"Robin Fuhrmann","2024-06-02-Platense-Boca Juniors",4
-"255","ARG",2024-06-02,"Rosario Central","Lanus",1,1,"D",0.8,0.1,3,5,0,0,5,1,6,1,15,16,"1-1",2,7,31,"6-1","Y","N","N",8,0,"Sebastián Martinez","2024-06-02-Rosario Central-Lanus",4
-"256","ARG",2024-06-02,"Central Cordoba","Talleres",2,4,"A",1.4,1.6,3,1,0,0,2,7,5,0,11,16,"2-4",6,5,27,"5-0","Y","Y","Y",4,0,"Carlos Gareano","2024-06-02-Central Cordoba-Talleres",4
-"257","ARG",2024-06-02,"Instituto","Gimnasia–LP",2,1,"H",0.5,0.5,4,2,0,0,2,4,4,3,10,11,"2-1",3,7,21,"4-3","Y","Y","N",6,0,"Hernán Mastrángelo","2024-06-02-Instituto-Gimnasia–LP",4
-"258","ARG",2024-06-02,"River Plate","Tigre",3,1,"H",2.7,1.7,3,1,0,0,7,1,6,5,13,14,"3-1",4,11,27,"6-5","Y","Y","Y",4,0,"Nazareno Arasa","2024-06-02-River Plate-Tigre",4
-"259","ARG",2024-06-03,"San Lorenzo","Sarmiento",0,1,"A",1.4,0.3,1,4,0,0,3,2,10,0,5,21,"0-1",1,10,26,"10-0","N","N","N",5,0,"Fernando Espinoza","2024-06-03-San Lorenzo-Sarmiento",4
-"260","ARG",2024-06-03,"Defensa Justicia","Independiente",0,0,"D",0.6,1,4,5,0,0,1,3,4,6,14,12,"0-0",0,10,26,"4-6","N","N","N",9,0,"Fernando Rapallini","2024-06-03-Defensa Justicia-Independiente",4
-"261","ARG",2024-06-03,"Estudiantes","Godoy Cruz",1,1,"D",1.5,0.5,3,2,0,0,9,2,5,2,7,13,"1-1",2,7,20,"5-2","Y","N","N",5,0,"Pablo Echavarría","2024-06-03-Estudiantes-Godoy Cruz",4
+"99","MLS",2024-05-29,"CF Montreal","D.C. United",4,2,"H",2.4,1.4,3,4,0,1,6,4,4,2,13,20,"4-2",6,6,33,"4-2","Y","Y","Y",7,1,"Ismail Elfath","2024-05-29-CF Montreal-D.C. United",14
+"100","MLS",2024-05-29,"NY Red Bulls","Charlotte",3,1,"H",1.4,0.6,1,4,0,0,6,4,4,3,6,13,"3-1",4,7,19,"4-3","Y","Y","Y",5,0,"Chris Penso","2024-05-29-NY Red Bulls-Charlotte",15
+"101","MLS",2024-05-29,"FC Cincinnati","Nashville",0,2,"A",1.3,1,0,0,0,0,6,3,8,4,9,8,"0-2",2,12,17,"8-4","Y","N","N",0,0,"Jair Marrufo","2024-05-29-FC Cincinnati-Nashville",15
+"102","MLS",2024-05-29,"Philadelphia","Toronto FC",0,0,"D",0.7,1.2,1,2,0,0,1,3,5,4,8,8,"0-0",0,9,16,"5-4","N","N","N",3,0,"Rubiel Vazquez","2024-05-29-Philadelphia-Toronto FC",15
+"103","MLS",2024-05-29,"Inter Miami","Atlanta Utd",1,3,"A",0.7,3.5,1,0,0,0,5,8,4,5,11,7,"1-3",4,9,18,"4-5","Y","Y","Y",1,0,"Armando Villarreal","2024-05-29-Inter Miami-Atlanta Utd",15
+"104","MLS",2024-05-29,"LA Galaxy","FC Dallas",3,1,"H",3.6,0.6,1,5,0,1,9,5,6,2,9,17,"3-1",4,8,26,"6-2","Y","Y","Y",6,1,"Filip Dujic","2024-05-29-LA Galaxy-FC Dallas",15
+"105","MLS",2024-05-29,"Seattle","RSL",1,1,"D",0.8,1.3,2,2,0,0,5,3,11,4,11,12,"1-1",2,15,23,"11-4","Y","N","N",4,0,"Boiko Serhii","2024-05-29-Seattle-RSL",15
+"106","MLS",2024-05-29,"Dynamo FC","Rapids",3,1,"H",2.3,1.7,1,1,0,0,6,9,3,6,19,15,"3-1",4,9,34,"3-6","Y","Y","Y",2,0,"Marcos de Oliveira","2024-05-29-Dynamo FC-Rapids",15
+"107","MLS",2024-05-29,"Austin","Portland Timbers",0,2,"A",2.2,1.7,5,1,0,0,2,2,3,3,12,15,"0-2",2,6,27,"3-3","Y","N","N",6,0,"Victor Rivas","2024-05-29-Austin-Portland Timbers",15
+"108","MLS",2024-05-29,"Sporting KC","Vancouver Wcaps",1,2,"A",0.8,1.8,2,1,0,0,3,2,4,4,9,12,"1-2",3,8,21,"4-4","Y","Y","N",3,0,"Rosendo Mendoza","2024-05-29-Sporting KC-Vancouver Wcaps",15
+"109","MLS",2024-05-29,"Fire","Orlando City",1,1,"D",1,0.8,3,1,0,0,3,2,6,4,14,4,"1-1",2,10,18,"6-4","Y","N","N",4,0,"Malik Badawi","2024-05-29-Fire-Orlando City",15
+"110","MLS",2024-05-29,"LAFC","Minnesota Utd",2,0,"H",2.3,0.2,0,2,0,0,4,1,7,8,11,16,"2-0",2,15,27,"7-8","Y","N","N",2,0,"Tim Ford","2024-05-29-LAFC-Minnesota Utd",15
+"111","MLS",2024-05-31,"NYCFC","SJ Earthquakes",5,1,"H",2.7,1,3,1,0,0,7,3,4,6,14,8,"5-1",6,10,22,"4-6","Y","Y","Y",4,0,"Mark Allatin","2024-05-31-NYCFC-SJ Earthquakes",15
+"112","MLS",2024-06-01,"Philadelphia","CF Montreal",2,2,"D",2.7,1.1,1,2,1,1,9,3,11,1,12,11,"2-2",4,12,23,"11-1","Y","Y","Y",3,2,"Ted Unkel","2024-06-01-Philadelphia-CF Montreal",15
+"113","MLS",2024-06-01,"D.C. United","Toronto FC",2,2,"D",2.9,0.8,0,9,0,2,7,2,10,4,12,12,"2-2",4,14,24,"10-4","Y","Y","Y",9,2,"Jon Freemon","2024-06-01-D.C. United-Toronto FC",15
+"114","MLS",2024-06-01,"Inter Miami","St. Louis",3,3,"D",2.6,1.6,1,1,0,0,10,7,9,7,6,19,"3-3",6,16,25,"9-7","Y","Y","Y",2,0,"Allen Chapman","2024-06-01-Inter Miami-St. Louis",15
+"115","MLS",2024-06-01,"NY Red Bulls","Orlando City",1,0,"H",0.8,0.4,1,1,0,0,4,1,4,5,15,9,"1-0",1,9,24,"4-5","N","N","N",2,0,"Drew Fischer","2024-06-01-NY Red Bulls-Orlando City",16
+"116","MLS",2024-06-01,"LAFC","FC Dallas",1,0,"H",1.5,0.4,1,4,0,0,9,3,8,2,6,10,"1-0",1,10,16,"8-2","N","N","N",5,0,"Lukasz Szpala","2024-06-01-LAFC-FC Dallas",16
+"117","MLS",2024-06-01,"RSL","Austin",5,1,"H",3.8,1.3,2,3,0,0,9,2,4,2,16,11,"5-1",6,6,27,"4-2","Y","Y","Y",5,0,"Alexis Da Silva","2024-06-01-RSL-Austin",16
+"118","MLS",2024-06-01,"Minnesota Utd","Sporting KC",3,1,"H",1.6,0.7,4,1,0,0,6,1,4,4,14,16,"3-1",4,8,30,"4-4","Y","Y","Y",5,0,"Joe Dickerson","2024-06-01-Minnesota Utd-Sporting KC",16
+"119","MLS",2024-06-01,"Fire","LA Galaxy",2,1,"H",1,1.5,3,2,0,0,4,3,2,5,16,6,"2-1",3,7,22,"2-5","Y","Y","N",5,0,"Marcos de Oliveira","2024-06-01-Fire-LA Galaxy",16
+"120","MLS",2024-06-01,"Portland Timbers","Dynamo FC",2,2,"D",1.7,1,4,6,0,0,3,3,7,8,19,12,"2-2",4,15,31,"7-8","Y","Y","Y",10,0,"Guido Gonzalez Jr.","2024-06-01-Portland Timbers-Dynamo FC",16
+"121","MLS",2024-06-01,"Nashville","NE Revolution",1,2,"A",3.2,0.7,1,3,0,0,3,4,8,4,12,14,"1-2",3,12,26,"8-4","Y","Y","N",4,0,"Ismail Elfath","2024-06-01-Nashville-NE Revolution",16
+"122","MLS",2024-06-01,"Vancouver Wcaps","Rapids",2,1,"H",2.3,1.5,2,2,0,0,3,3,3,8,6,9,"2-1",3,11,15,"3-8","Y","Y","N",4,0,"Michael Venne","2024-06-01-Vancouver Wcaps-Rapids",16
+"123","MLS",2024-06-02,"Atlanta Utd","Charlotte",2,3,"A",2.1,1,3,4,0,0,4,4,4,3,12,10,"2-3",5,7,22,"4-3","Y","Y","Y",7,0,"Ismir Pekmic","2024-06-02-Atlanta Utd-Charlotte",16
+"124","MLS",2024-06-08,"NE Revolution","NY Red Bulls",1,0,"H",0.9,1.1,1,1,0,0,4,5,4,2,10,12,"1-0",1,6,22,"4-2","N","N","N",2,0,"Alexis Da Silva","2024-06-08-NE Revolution-NY Red Bulls",16
+"125","MLS",2024-06-08,"Minnesota Utd","FC Dallas",1,1,"D",0.6,0.3,2,0,0,0,6,4,5,4,7,6,"1-1",2,9,13,"5-4","Y","N","N",2,0,"Marcos de Oliveira","2024-06-08-Minnesota Utd-FC Dallas",16
+"126","MLS",2024-06-08,"St. Louis","Portland Timbers",0,0,"D",1.1,0.6,6,2,0,0,2,2,6,4,21,11,"0-0",0,10,32,"6-4","N","N","N",8,0,"Ismir Pekmic","2024-06-08-St. Louis-Portland Timbers",16
+"127","MLS",2024-06-08,"Sporting KC","Seattle",2,1,"H",0.7,1.1,3,3,0,1,4,1,9,1,13,16,"2-1",3,10,29,"9-1","Y","Y","N",6,1,"Guido Gonzalez Jr.","2024-06-08-Sporting KC-Seattle",16
+"128","MLS",2024-06-14,"NYCFC","Crew",2,3,"A",2.2,3.6,4,2,1,0,6,11,3,4,16,12,"2-3",5,7,28,"3-4","Y","Y","Y",6,1,"Alexis Da Silva","2024-06-14-NYCFC-Crew",16
+"129","MLS",2024-06-15,"CF Montreal","RSL",0,0,"D",1.1,0.9,5,1,0,0,2,6,0,7,16,11,"0-0",0,7,27,"0-7","N","N","N",6,0,"Filip Dujic","2024-06-15-CF Montreal-RSL",16
+"130","MLS",2024-06-15,"Orlando City","LAFC",1,3,"A",2,2.2,1,1,0,0,1,6,9,1,8,11,"1-3",4,10,19,"9-1","Y","Y","Y",2,0,"Rubiel Vazquez","2024-06-15-Orlando City-LAFC",17
+"131","MLS",2024-06-15,"NE Revolution","Vancouver Wcaps",3,2,"H",1,0.7,1,2,0,0,7,8,3,4,12,11,"3-2",5,7,23,"3-4","Y","Y","Y",3,0,"Natalie Simon","2024-06-15-NE Revolution-Vancouver Wcaps",17
+"132","MLS",2024-06-15,"NY Red Bulls","Nashville",0,0,"D",1.9,0.3,2,1,0,0,6,0,8,2,18,11,"0-0",0,10,29,"8-2","N","N","N",3,0,"Guido Gonzalez Jr.","2024-06-15-NY Red Bulls-Nashville",17
+"133","MLS",2024-06-15,"Atlanta Utd","Dynamo FC",2,2,"D",1.8,1.5,1,4,0,0,5,9,4,6,12,16,"2-2",4,10,28,"4-6","Y","Y","Y",5,0,"Victor Rivas","2024-06-15-Atlanta Utd-Dynamo FC",17
+"134","MLS",2024-06-15,"Philadelphia","Inter Miami",1,2,"A",1.9,1.2,3,6,0,2,3,4,6,3,8,11,"1-2",3,9,19,"6-3","Y","Y","N",9,2,"Ismir Pekmic","2024-06-15-Philadelphia-Inter Miami",17
+"135","MLS",2024-06-15,"Charlotte","D.C. United",1,0,"H",1.7,0.2,4,2,0,0,2,1,6,5,12,9,"1-0",1,11,21,"6-5","N","N","N",6,0,"Boiko Serhii","2024-06-15-Charlotte-D.C. United",17
+"136","MLS",2024-06-15,"Toronto FC","Fire",1,4,"A",0.9,1.1,0,0,0,0,6,8,5,5,6,12,"1-4",5,10,18,"5-5","Y","Y","Y",0,0,"Pierre-Luc Lauziere","2024-06-15-Toronto FC-Fire",17
+"137","MLS",2024-06-15,"LA Galaxy","Sporting KC",4,2,"H",3.2,2.6,3,1,0,0,10,4,5,4,10,6,"4-2",6,9,16,"5-4","Y","Y","Y",4,0,"Chris Penso","2024-06-15-LA Galaxy-Sporting KC",17
+"138","MLS",2024-06-15,"FC Dallas","St. Louis",2,0,"H",1.3,1.6,2,4,0,0,3,8,4,6,11,11,"2-0",2,10,22,"4-6","Y","N","N",6,0,"Jon Freemon","2024-06-15-FC Dallas-St. Louis",17
+"139","MLS",2024-06-15,"Rapids","Austin",2,0,"H",1,0.6,0,2,0,0,6,0,4,3,10,15,"2-0",2,7,25,"4-3","Y","N","N",2,0,"Malik Badawi","2024-06-15-Rapids-Austin",17
+"140","MLS",2024-06-15,"Seattle","Minnesota Utd",2,0,"H",2.2,0.2,0,2,0,1,4,0,6,3,10,13,"2-0",2,9,23,"6-3","Y","N","N",2,1,"Rosendo Mendoza","2024-06-15-Seattle-Minnesota Utd",17
+"141","MLS",2024-06-15,"SJ Earthquakes","FC Cincinnati",2,4,"A",2.9,1.9,1,1,0,0,7,6,10,3,5,11,"2-4",6,13,16,"10-3","Y","Y","Y",2,0,"Lukasz Szpala","2024-06-15-SJ Earthquakes-FC Cincinnati",17
+"156","MLS",2024-06-19,"Inter Miami","Crew",2,1,"H",1.1,1.6,2,0,0,0,7,4,3,4,8,6,"2-1",3,7,14,"3-4","Y","Y","N",2,0,"Boiko Serhii","2024-06-19-Inter Miami-Crew",17
+"157","MLS",2024-06-19,"Toronto FC","Nashville",1,2,"A",1.9,0.8,2,1,0,0,5,3,2,3,8,15,"1-2",3,5,23,"2-3","Y","Y","N",3,0,"Chris Penso","2024-06-19-Toronto FC-Nashville",17
+"158","MLS",2024-06-19,"Charlotte","Orlando City",2,2,"D",0.9,1.9,1,2,1,0,5,9,3,11,7,6,"2-2",4,14,13,"3-11","Y","Y","Y",3,1,"Allen Chapman","2024-06-19-Charlotte-Orlando City",17
+"159","MLS",2024-06-19,"CF Montreal","NY Red Bulls",2,2,"D",2,2.4,2,3,0,0,3,9,3,12,5,8,"2-2",4,15,13,"3-12","Y","Y","Y",5,0,"Lukasz Szpala","2024-06-19-CF Montreal-NY Red Bulls",18
+"160","MLS",2024-06-19,"D.C. United","Atlanta Utd",0,1,"A",1.2,0.9,2,2,0,0,4,4,11,2,5,11,"0-1",1,13,16,"11-2","N","N","N",4,0,"Pierre-Luc Lauziere","2024-06-19-D.C. United-Atlanta Utd",18
+"161","MLS",2024-06-19,"LA Galaxy","NYCFC",2,0,"H",1.7,0.8,3,2,0,0,5,4,2,5,9,9,"2-0",2,7,18,"2-5","Y","N","N",5,0,"Rubiel Vazquez","2024-06-19-LA Galaxy-NYCFC",18
+"162","MLS",2024-06-19,"Austin","LAFC",1,1,"D",0.3,1,3,3,0,0,1,1,1,8,18,12,"1-1",2,9,30,"1-8","Y","N","N",6,0,"Ted Unkel","2024-06-19-Austin-LAFC",18
+"163","MLS",2024-06-19,"SJ Earthquakes","Portland Timbers",1,2,"A",1.4,2.2,0,5,0,0,2,4,9,2,3,11,"1-2",3,11,14,"9-2","Y","Y","N",5,0,"Marcos de Oliveira","2024-06-19-SJ Earthquakes-Portland Timbers",18
+"164","MLS",2024-06-19,"Dynamo FC","Seattle",2,2,"D",2.6,1.1,3,1,0,0,5,4,5,2,12,11,"2-2",4,7,23,"5-2","Y","Y","Y",4,0,"Drew Fischer","2024-06-19-Dynamo FC-Seattle",18
+"165","MLS",2024-06-19,"St. Louis","Rapids",0,3,"A",1.7,3.4,4,2,0,0,4,4,4,7,15,10,"0-3",3,11,25,"4-7","Y","Y","N",6,0,"Guido Gonzalez Jr.","2024-06-19-St. Louis-Rapids",18
+"166","MLS",2024-06-19,"FC Dallas","Minnesota Utd",5,3,"H",1.7,3.2,2,1,0,0,9,6,1,7,11,9,"5-3",8,8,20,"1-7","Y","Y","Y",3,0,"Sergii Demianchuk","2024-06-19-FC Dallas-Minnesota Utd",18
+"167","MLS",2024-06-19,"Sporting KC","RSL",3,4,"A",2.7,2.7,1,1,0,0,7,9,13,0,16,11,"3-4",7,13,27,"13-0","Y","Y","Y",2,0,"Mark Allatin","2024-06-19-Sporting KC-RSL",18
+"168","MLS",2024-06-19,"FC Cincinnati","Philadelphia",4,3,"H",2.2,1.2,1,3,0,0,4,5,2,4,9,7,"4-3",7,6,16,"2-4","Y","Y","Y",4,0,"Jair Marrufo","2024-06-19-FC Cincinnati-Philadelphia",18
+"169","MLS",2024-06-22,"NY Red Bulls","Toronto FC",3,0,"H",1.6,0.2,2,2,0,0,7,2,9,1,9,11,"3-0",3,10,20,"9-1","Y","Y","N",4,0,"Joe Dickerson","2024-06-22-NY Red Bulls-Toronto FC",18
+"170","MLS",2024-06-22,"D.C. United","Dynamo FC",1,4,"A",1.6,2.1,6,1,2,0,2,5,7,2,20,11,"1-4",5,9,31,"7-2","Y","Y","Y",7,2,"Tim Ford","2024-06-22-D.C. United-Dynamo FC",18
+"171","MLS",2024-06-22,"Crew","Sporting KC",4,0,"H",2,0.2,0,2,0,0,8,0,7,1,5,15,"4-0",4,8,20,"7-1","Y","Y","Y",2,0,"Marcos de Oliveira","2024-06-22-Crew-Sporting KC",18
+"172","MLS",2024-06-22,"FC Cincinnati","NE Revolution",1,2,"A",1.2,0.5,6,1,1,0,5,5,9,3,19,9,"1-2",3,12,28,"9-3","Y","Y","N",7,1,"Jon Freemon","2024-06-22-FC Cincinnati-NE Revolution",18
+"173","MLS",2024-06-22,"Philadelphia","Charlotte",0,2,"A",1,2.6,0,3,0,0,5,7,7,9,9,10,"0-2",2,16,19,"7-9","Y","N","N",3,0,"Alexis Da Silva","2024-06-22-Philadelphia-Charlotte",18
+"174","MLS",2024-06-22,"Orlando City","Fire",4,2,"H",2.3,3,1,1,0,0,5,11,1,3,11,12,"4-2",6,4,23,"1-3","Y","Y","Y",2,0,"Natalie Simon","2024-06-22-Orlando City-Fire",19
+"175","MLS",2024-06-22,"St. Louis","Atlanta Utd",1,1,"D",1.1,1.5,2,1,0,0,4,7,7,5,13,12,"1-1",2,12,25,"7-5","Y","N","N",3,0,"Filip Dujic","2024-06-22-St. Louis-Atlanta Utd",19
+"176","MLS",2024-06-22,"Seattle","FC Dallas",3,2,"H",2,0.8,1,2,0,0,10,5,9,1,16,12,"3-2",5,10,28,"9-1","Y","Y","Y",3,0,"Malik Badawi","2024-06-22-Seattle-FC Dallas",19
+"177","MLS",2024-06-22,"RSL","LA Galaxy",0,1,"A",1,0.8,2,1,0,0,4,3,6,3,14,10,"0-1",1,9,24,"6-3","N","N","N",3,0,"Jair Marrufo","2024-06-22-RSL-LA Galaxy",19
+"178","MLS",2024-06-22,"LAFC","SJ Earthquakes",6,2,"H",3,1.3,0,1,0,0,8,4,6,6,5,4,"6-2",8,12,9,"6-6","Y","Y","Y",1,0,"Boiko Serhii","2024-06-22-LAFC-SJ Earthquakes",19
+"179","MLS",2024-06-22,"Rapids","CF Montreal",4,1,"H",3.1,0.3,0,2,0,0,7,1,10,3,7,5,"4-1",5,13,12,"10-3","Y","Y","Y",2,0,"Rosendo Mendoza","2024-06-22-Rapids-CF Montreal",19
+"180","MLS",2024-06-22,"Portland Timbers","Vancouver Wcaps",2,0,"H",1.5,0.8,1,4,0,1,7,2,1,4,11,12,"2-0",2,5,23,"1-4","Y","N","N",5,1,"Ted Unkel","2024-06-22-Portland Timbers-Vancouver Wcaps",19
+"181","MLS",2024-06-22,"Nashville","NYCFC",1,0,"H",1.3,1.3,0,2,0,0,3,0,3,5,8,10,"1-0",1,8,18,"3-5","N","N","N",2,0,"Victor Rivas","2024-06-22-Nashville-NYCFC",19
+"182","MLS",2024-06-22,"Minnesota Utd","Austin",0,1,"A",0.6,0.6,4,2,1,0,1,3,6,4,18,15,"0-1",1,10,33,"6-4","N","N","N",6,1,"Drew Fischer","2024-06-22-Minnesota Utd-Austin",19
+"183","MLS",2024-06-28,"NYCFC","Orlando City",4,2,"H",1.8,1.2,2,0,0,0,6,8,3,2,12,10,"4-2",6,5,22,"3-2","Y","Y","Y",2,0,"Boiko Serhii","2024-06-28-NYCFC-Orlando City",19
+"184","MLS",2024-06-29,"Atlanta Utd","Toronto FC",2,1,"H",1.3,1.2,2,1,0,0,5,4,6,2,17,10,"2-1",3,8,27,"6-2","Y","Y","N",3,0,"Marcos de Oliveira","2024-06-29-Atlanta Utd-Toronto FC",19
+"185","MLS",2024-06-29,"NY Red Bulls","D.C. United",2,2,"D",1.8,0.6,2,6,0,1,3,3,5,2,16,11,"2-2",4,7,27,"5-2","Y","Y","Y",8,1,"Malik Badawi","2024-06-29-NY Red Bulls-D.C. United",19
+"186","MLS",2024-06-29,"CF Montreal","Philadelphia",4,2,"H",2.1,0.9,1,1,0,0,6,5,5,3,11,10,"4-2",6,8,21,"5-3","Y","Y","Y",2,0,"Jon Freemon","2024-06-29-CF Montreal-Philadelphia",19
+"187","MLS",2024-06-29,"NE Revolution","Crew",1,5,"A",1.4,2.6,0,1,0,0,5,6,4,3,15,8,"1-5",6,7,23,"4-3","Y","Y","Y",1,0,"Ricardo Fierro","2024-06-29-NE Revolution-Crew",19
+"188","MLS",2024-06-29,"LAFC","Rapids",3,0,"H",2.8,0.7,1,5,0,1,11,1,4,9,9,11,"3-0",3,13,20,"4-9","Y","Y","N",6,1,"Chris Penso","2024-06-29-LAFC-Rapids",19
+"189","MLS",2024-06-29,"Nashville","Inter Miami",1,2,"A",1.4,0.9,1,1,0,0,4,5,7,5,3,11,"1-2",3,12,14,"7-5","Y","Y","N",2,0,"Lukasz Szpala","2024-06-29-Nashville-Inter Miami",20
+"190","MLS",2024-06-29,"Vancouver Wcaps","St. Louis",4,3,"H",1.5,1.9,1,2,0,0,7,3,3,5,11,9,"4-3",7,8,20,"3-5","Y","Y","Y",3,0,"Mark Allatin","2024-06-29-Vancouver Wcaps-St. Louis",20
+"191","MLS",2024-06-29,"Seattle","Fire",2,1,"H",2.3,1.7,2,2,0,0,5,4,3,2,10,17,"2-1",3,5,27,"3-2","Y","Y","N",4,0,"Joe Dickerson","2024-06-29-Seattle-Fire",20
+"192","MLS",2024-06-29,"Dynamo FC","Charlotte",1,0,"H",1.4,1,1,1,0,0,4,4,7,2,8,9,"1-0",1,9,17,"7-2","N","N","N",2,0,"Pierre-Luc Lauziere","2024-06-29-Dynamo FC-Charlotte",20
+"193","MLS",2024-06-29,"Portland Timbers","Minnesota Utd",3,2,"H",4,1.7,0,0,0,0,12,4,11,1,9,8,"3-2",5,12,17,"11-1","Y","Y","Y",0,0,"Tim Ford","2024-06-29-Portland Timbers-Minnesota Utd",20
+"194","MLS",2024-06-29,"Sporting KC","Austin",2,0,"H",1.8,0.5,3,3,0,0,2,0,5,1,16,20,"2-0",2,6,36,"5-1","Y","N","N",6,0,"Filip Dujic","2024-06-29-Sporting KC-Austin",20
+"195","MLS",2024-06-29,"SJ Earthquakes","LA Galaxy",0,3,"A",1.9,2.3,1,4,0,0,6,7,5,6,11,9,"0-3",3,11,20,"5-6","Y","Y","N",5,0,"Guido Gonzalez Jr.","2024-06-29-SJ Earthquakes-LA Galaxy",20
+"196","MLS",2024-06-29,"FC Dallas","FC Cincinnati",0,1,"A",1,1.1,2,6,0,0,2,2,5,1,16,14,"0-1",1,6,30,"5-1","N","N","N",8,0,"Victor Rivas","2024-06-29-FC Dallas-FC Cincinnati",20
+"197","MLS",2024-07-03,"Toronto FC","Orlando City",1,2,"A",1.5,1.3,4,3,0,0,1,2,6,4,11,6,"1-2",3,10,17,"6-4","Y","Y","N",7,0,"Mark Allatin","2024-07-03-Toronto FC-Orlando City",20
+"198","MLS",2024-07-03,"Charlotte","Inter Miami",1,2,"A",1.5,1.7,1,4,1,0,2,4,6,1,13,11,"1-2",3,7,24,"6-1","Y","Y","N",5,1,"Rubiel Vazquez","2024-07-03-Charlotte-Inter Miami",20
+"199","MLS",2024-07-03,"NYCFC","CF Montreal",2,0,"H",2.6,0.9,1,1,0,0,7,4,2,4,10,13,"2-0",2,6,23,"2-4","Y","N","N",2,0,"Marcos de Oliveira","2024-07-03-NYCFC-CF Montreal",20
+"200","MLS",2024-07-03,"D.C. United","FC Cincinnati",2,3,"A",1.1,1.3,2,2,0,0,6,6,3,4,9,12,"2-3",5,7,21,"3-4","Y","Y","Y",4,0,"Alexis Da Silva","2024-07-03-D.C. United-FC Cincinnati",20
+"201","MLS",2024-07-03,"Fire","Philadelphia",4,3,"H",3.2,1.3,2,2,0,0,10,3,4,1,16,12,"4-3",7,5,28,"4-1","Y","Y","Y",4,0,"Abdou Ndiaye","2024-07-03-Fire-Philadelphia",20
+"202","MLS",2024-07-03,"Minnesota Utd","Vancouver Wcaps",1,3,"A",2.9,1.4,4,3,0,0,2,3,7,5,12,13,"1-3",4,12,25,"7-5","Y","Y","Y",7,0,"Victor Rivas","2024-07-03-Minnesota Utd-Vancouver Wcaps",20
+"203","MLS",2024-07-03,"St. Louis","SJ Earthquakes",2,0,"H",3.3,0.3,2,2,0,0,8,1,7,5,15,12,"2-0",2,12,27,"7-5","Y","N","N",4,0,"Malik Badawi","2024-07-03-St. Louis-SJ Earthquakes",20
+"204","MLS",2024-07-03,"RSL","Dynamo FC",3,2,"H",3.6,0.9,2,2,0,0,7,2,7,2,17,13,"3-2",5,9,30,"7-2","Y","Y","Y",4,0,"Allen Chapman","2024-07-03-RSL-Dynamo FC",21
+"205","MLS",2024-07-03,"NE Revolution","Atlanta Utd",2,1,"H",1.4,1.9,0,1,0,0,5,8,3,12,5,7,"2-1",3,15,12,"3-12","Y","Y","N",1,0,"Jair Marrufo","2024-07-03-NE Revolution-Atlanta Utd",21
+"206","MLS",2024-07-03,"Crew","Nashville",2,0,"H",2.3,0.8,0,2,0,0,4,3,10,4,8,16,"2-0",2,14,24,"10-4","Y","N","N",2,0,"Joe Dickerson","2024-07-03-Crew-Nashville",21
+"207","MLS",2024-07-04,"FC Dallas","Portland Timbers",3,2,"H",1.1,1.6,4,1,0,0,4,5,7,1,17,10,"3-2",5,8,27,"7-1","Y","Y","Y",5,0,"Rosendo Mendoza","2024-07-04-FC Dallas-Portland Timbers",21
+"208","MLS",2024-07-04,"Rapids","Sporting KC",2,1,"H",2.5,1.3,2,2,0,0,3,1,4,1,5,12,"2-1",3,5,17,"4-1","Y","Y","N",4,0,"Boiko Serhii","2024-07-04-Rapids-Sporting KC",21
+"209","MLS",2024-07-04,"LA Galaxy","LAFC",1,2,"A",0.9,2.5,2,1,0,0,4,6,5,11,8,14,"1-2",3,16,22,"5-11","Y","Y","N",3,0,"Drew Fischer","2024-07-04-LA Galaxy-LAFC",21
+"210","MLS",2024-07-06,"Orlando City","D.C. United",5,0,"H",2.3,0.3,0,1,0,1,9,0,12,1,5,8,"5-0",5,13,13,"12-1","Y","Y","Y",1,1,"Lukasz Szpala","2024-07-06-Orlando City-D.C. United",21
+"211","MLS",2024-07-06,"FC Cincinnati","Inter Miami",6,1,"H",3.7,1.2,2,5,0,1,10,4,7,5,13,14,"6-1",7,12,27,"7-5","Y","Y","Y",7,1,"Chris Penso","2024-07-06-FC Cincinnati-Inter Miami",21
+"212","MLS",2024-07-06,"Crew","Toronto FC",4,0,"H",2,0.4,1,4,0,0,6,2,5,4,8,15,"4-0",4,9,23,"5-4","Y","Y","Y",5,0,"Ted Unkel","2024-07-06-Crew-Toronto FC",21
+"213","MLS",2024-07-06,"CF Montreal","Vancouver Wcaps",1,1,"D",0.9,1.4,1,1,0,0,3,4,3,7,6,5,"1-1",2,10,11,"3-7","Y","N","N",2,0,"Guido Gonzalez Jr.","2024-07-06-CF Montreal-Vancouver Wcaps",21
+"214","MLS",2024-07-06,"Philadelphia","NY Red Bulls",0,0,"D",2.5,3.1,1,1,0,0,6,5,4,3,8,9,"0-0",0,7,17,"4-3","N","N","N",2,0,"Filip Dujic","2024-07-06-Philadelphia-NY Red Bulls",21
+"215","MLS",2024-07-06,"Seattle","NE Revolution",2,0,"H",0.8,0.7,1,2,0,0,7,4,9,8,5,7,"2-0",2,17,12,"9-8","Y","N","N",3,0,"Fotis Bazakos","2024-07-06-Seattle-NE Revolution",21
+"216","MLS",2024-07-06,"RSL","Atlanta Utd",5,2,"H",1.7,1.3,1,2,0,0,6,4,5,5,11,8,"5-2",7,10,19,"5-5","Y","Y","Y",3,0,"Rubiel Vazquez","2024-07-06-RSL-Atlanta Utd",21
+"217","MLS",2024-07-06,"Austin","NYCFC",2,1,"H",1.1,2.3,1,0,0,0,4,4,5,5,5,7,"2-1",3,10,12,"5-5","Y","Y","N",1,0,"Tim Ford","2024-07-06-Austin-NYCFC",21
+"218","MLS",2024-07-07,"SJ Earthquakes","Fire",1,0,"H",1.3,1.3,2,3,0,0,3,1,7,5,7,11,"1-0",1,12,18,"7-5","N","N","N",5,0,"Ramy Touchan","2024-07-07-SJ Earthquakes-Fire",21
+"219","MLS",2024-07-07,"Sporting KC","FC Dallas",3,2,"H",2.3,1.8,2,1,1,0,6,4,7,0,18,9,"3-2",5,7,27,"7-0","Y","Y","Y",3,1,"Natalie Simon","2024-07-07-Sporting KC-FC Dallas",22
+"220","MLS",2024-07-07,"Rapids","St. Louis",4,1,"H",2.1,1,0,1,0,0,5,3,3,7,6,12,"4-1",5,10,18,"3-7","Y","Y","Y",1,0,"Drew Fischer","2024-07-07-Rapids-St. Louis",22
+"221","MLS",2024-07-07,"Portland Timbers","Nashville",4,1,"H",3.2,2.1,0,1,0,1,8,3,3,3,10,11,"4-1",5,6,21,"3-3","Y","Y","Y",1,1,"Jon Freemon","2024-07-07-Portland Timbers-Nashville",22
+"222","MLS",2024-07-07,"LA Galaxy","Minnesota Utd",2,1,"H",2.5,1.2,2,1,0,0,4,7,3,6,4,13,"2-1",3,9,17,"3-6","Y","Y","N",3,0,"Pierre-Luc Lauziere","2024-07-07-LA Galaxy-Minnesota Utd",22
+"223","MLS",2024-07-13,"Portland Timbers","RSL",3,0,"H",1.6,0.6,4,5,0,0,7,3,6,2,11,21,"3-0",3,8,32,"6-2","Y","Y","N",9,0,"Joe Dickerson","2024-07-13-Portland Timbers-RSL",22
+"224","MLS",2024-07-13,"Toronto FC","Philadelphia",2,1,"H",0.9,1,0,1,0,0,2,3,0,3,8,12,"2-1",3,3,20,"0-3","Y","Y","N",1,0,"Allen Chapman","2024-07-13-Toronto FC-Philadelphia",22
+"225","MLS",2024-07-13,"NE Revolution","Orlando City",1,3,"A",1,1.2,1,2,0,0,3,7,3,4,9,7,"1-3",4,7,16,"3-4","Y","Y","Y",3,0,"Boiko Serhii","2024-07-13-NE Revolution-Orlando City",22
+"226","MLS",2024-07-13,"D.C. United","Nashville",2,1,"H",2.1,0.7,1,1,0,0,7,3,6,3,12,12,"2-1",3,9,24,"6-3","Y","Y","N",2,0,"Filip Dujic","2024-07-13-D.C. United-Nashville",22
+"227","MLS",2024-07-13,"FC Cincinnati","Charlotte",1,3,"A",2.1,1.7,2,5,1,0,6,6,5,2,9,11,"1-3",4,7,20,"5-2","Y","Y","Y",7,1,"Guido Gonzalez Jr.","2024-07-13-FC Cincinnati-Charlotte",22
+"228","MLS",2024-07-13,"CF Montreal","Atlanta Utd",1,0,"H",2.1,0.4,3,2,0,1,7,0,4,7,10,11,"1-0",1,11,21,"4-7","N","N","N",5,1,"Ted Unkel","2024-07-13-CF Montreal-Atlanta Utd",22
+"229","MLS",2024-07-13,"SJ Earthquakes","Sporting KC",1,2,"A",0.7,0.9,2,1,0,0,1,4,8,7,7,12,"1-2",3,15,19,"8-7","Y","Y","N",3,0,"Alexis Da Silva","2024-07-13-SJ Earthquakes-Sporting KC",22
+"230","MLS",2024-07-13,"LAFC","Crew",1,5,"A",1.3,2.1,4,0,2,1,5,8,6,7,17,6,"1-5",6,13,23,"6-7","Y","Y","Y",4,3,"Lukasz Szpala","2024-07-13-LAFC-Crew",22
+"231","MLS",2024-07-13,"FC Dallas","LA Galaxy",2,0,"H",1.3,0.4,0,0,0,0,5,1,6,2,11,8,"2-0",2,8,19,"6-2","Y","N","N",0,0,"Ramy Touchan","2024-07-13-FC Dallas-LA Galaxy",22
+"232","MLS",2024-07-13,"Fire","NYCFC",0,0,"D",0.9,0.8,4,2,0,0,1,1,6,4,13,10,"0-0",0,10,23,"6-4","N","N","N",6,0,"Rosendo Mendoza","2024-07-13-Fire-NYCFC",22
+"233","MLS",2024-07-13,"St. Louis","Vancouver Wcaps",1,4,"A",1.3,2.7,3,3,0,0,2,9,5,5,10,10,"1-4",5,10,20,"5-5","Y","Y","Y",6,0,"Pierre-Luc Lauziere","2024-07-13-St. Louis-Vancouver Wcaps",22
+"234","MLS",2024-07-13,"Rapids","NY Red Bulls",1,1,"D",1.9,1.6,1,2,0,0,4,7,1,3,6,13,"1-1",2,4,19,"1-3","Y","N","N",3,0,"Tim Ford","2024-07-13-Rapids-NY Red Bulls",23
+"235","MLS",2024-07-13,"Austin","Seattle",0,1,"A",0.6,0.8,2,1,1,0,4,6,7,3,15,6,"0-1",1,10,21,"7-3","N","N","N",3,1,"Jair Marrufo","2024-07-13-Austin-Seattle",23
+"236","MLS",2024-07-13,"Dynamo FC","Minnesota Utd",1,1,"D",0.9,0.6,2,1,0,0,6,2,8,4,11,11,"1-1",2,12,22,"8-4","Y","N","N",3,0,"Jon Freemon","2024-07-13-Dynamo FC-Minnesota Utd",23
+"334","ARG",2024-05-10,"Sarmiento","Instituto",1,2,"A",1.1,1.2,3,4,0,0,5,3,7,3,12,10,"1-2",3,10,22,"7-3","Y","Y","N",7,0,"Sebastián Martinez","2024-05-10-Sarmiento-Instituto",1
+"335","ARG",2024-05-10,"Arg Juniors","Rosario Central",3,2,"H",1.4,0.7,1,4,0,0,8,4,6,0,10,12,"3-2",5,6,22,"6-0","Y","Y","Y",5,0,"Hernán Mastrángelo","2024-05-10-Arg Juniors-Rosario Central",1
+"336","ARG",2024-05-10,"Newells OB","Platense",2,0,"H",1.2,0.5,3,4,0,0,8,1,1,5,13,17,"2-0",2,6,30,"1-5","Y","N","N",7,0,"Andrés Merlos","2024-05-10-Newells OB-Platense",1
+"337","ARG",2024-05-11,"Huracan","Defensa Justicia",3,1,"H",1.6,0.5,1,6,0,1,5,4,6,5,13,14,"3-1",4,11,27,"6-5","Y","Y","Y",7,1,"Darío Herrera","2024-05-11-Huracan-Defensa Justicia",1
+"338","ARG",2024-05-11,"Godoy Cruz","Barracas Central",0,1,"A",1.9,0.6,0,1,0,0,5,4,7,5,15,6,"0-1",1,12,21,"7-5","N","N","N",1,0,"Silvio Trucco","2024-05-11-Godoy Cruz-Barracas Central",1
+"339","ARG",2024-05-11,"Independiente","Talleres",1,3,"A",0.4,1.3,7,4,1,0,5,5,5,5,15,14,"1-3",4,10,29,"5-5","Y","Y","Y",11,1,"Yael Falcón","2024-05-11-Independiente-Talleres",1
+"340","ARG",2024-05-11,"River Plate","Central Cordoba",3,0,"H",2.6,0.3,2,4,0,1,13,2,7,2,17,12,"3-0",3,9,29,"7-2","Y","Y","N",6,1,"Robin Fuhrmann","2024-05-11-River Plate-Central Cordoba",1
+"341","ARG",2024-05-12,"Deportivo Riestra","San Lorenzo",1,0,"H",0.5,0.3,5,4,0,0,3,0,3,4,13,12,"1-0",1,7,25,"3-4","N","N","N",9,0,"Leandro Rey Hilfer","2024-05-12-Deportivo Riestra-San Lorenzo",1
+"342","ARG",2024-05-12,"Tigre","Estudiantes",0,1,"A",0.9,0.5,2,1,0,0,2,3,8,2,11,14,"0-1",1,10,25,"8-2","N","N","N",3,0,"Carlos Gareano","2024-05-12-Tigre-Estudiantes",1
+"343","ARG",2024-05-12,"Lanus","Independiente Rivadavia",0,2,"A",0.8,0.7,1,1,1,0,2,3,6,3,10,12,"0-2",2,9,22,"6-3","Y","N","N",2,1,"Sebastían Zunino","2024-05-12-Lanus-Independiente Rivadavia",1
+"344","ARG",2024-05-12,"Belgrano","Racing Club",4,4,"D",1.4,1.8,3,2,0,0,4,8,4,9,14,10,"4-4",8,13,24,"4-9","Y","Y","Y",5,0,"Nazareno Arasa","2024-05-12-Belgrano-Racing Club",1
+"345","ARG",2024-05-12,"Atletico Tucuman","Boca Juniors",1,0,"H",1.6,0.6,3,1,0,0,5,4,3,13,12,11,"1-0",1,16,23,"3-13","N","N","N",4,0,"Pablo Echavarría","2024-05-12-Atletico Tucuman-Boca Juniors",1
+"346","ARG",2024-05-13,"Gimnasia–LP","Velez Sarsfield",3,1,"H",1.8,1.3,3,3,0,0,5,4,4,7,14,8,"3-1",4,11,22,"4-7","Y","Y","Y",6,0,"Franco Acita","2024-05-13-Gimnasia–LP-Velez Sarsfield",1
+"347","ARG",2024-05-13,"Union","Banfield",1,0,"H",1.3,0.6,2,4,0,0,6,2,5,2,10,15,"1-0",1,7,25,"5-2","N","N","N",6,0,"Fernando Espinoza","2024-05-13-Union-Banfield",1
+"348","ARG",2024-05-18,"Independiente Rivadavia","Godoy Cruz",0,0,"D",0.4,0.7,2,4,0,0,0,2,1,8,13,16,"0-0",0,9,29,"1-8","N","N","N",6,0,"Darío Herrera","2024-05-18-Independiente Rivadavia-Godoy Cruz",2
+"349","ARG",2024-05-18,"River Plate","Belgrano",3,0,"H",1.2,0.3,3,2,0,0,10,0,7,1,12,15,"3-0",3,8,27,"7-1","Y","Y","N",5,0,"Pablo Dóvalo","2024-05-18-River Plate-Belgrano",2
+"350","ARG",2024-05-18,"Defensa Justicia","Gimnasia–LP",1,1,"D",1.2,1.6,2,3,0,0,3,3,3,7,9,12,"1-1",2,10,21,"3-7","Y","N","N",5,0,"Fernando Echenique","2024-05-18-Defensa Justicia-Gimnasia–LP",2
+"351","ARG",2024-05-18,"Instituto","Union",1,1,"D",0.6,1,0,1,1,0,1,2,5,6,10,8,"1-1",2,11,18,"5-6","Y","N","N",1,1,"Sebastían Zunino","2024-05-18-Instituto-Union",2
+"352","ARG",2024-05-19,"Barracas Central","Sarmiento",1,1,"D",0.6,1.2,2,4,0,0,6,3,5,2,14,25,"1-1",2,7,39,"5-2","Y","N","N",6,0,"Yael Falcón","2024-05-19-Barracas Central-Sarmiento",2
+"353","ARG",2024-05-19,"Platense","Independiente",0,0,"D",1.2,0.3,2,5,0,0,4,4,3,1,13,13,"0-0",0,4,26,"3-1","N","N","N",7,0,"Leandro Rey Hilfer","2024-05-19-Platense-Independiente",2
+"354","ARG",2024-05-19,"Talleres","Atletico Tucuman",2,0,"H",0.5,0.9,2,4,0,0,3,4,1,9,9,15,"2-0",2,10,24,"1-9","Y","N","N",6,0,"Nazareno Arasa","2024-05-19-Talleres-Atletico Tucuman",2
+"355","ARG",2024-05-19,"Banfield","Huracan",1,1,"D",0.9,1.1,3,1,1,0,5,1,6,1,12,10,"1-1",2,7,22,"6-1","Y","N","N",4,1,"Jorge Baliño","2024-05-19-Banfield-Huracan",2
+"356","ARG",2024-05-19,"Central Cordoba","Boca Juniors",2,4,"A",1.5,2.8,3,1,0,0,2,12,2,6,14,15,"2-4",6,8,29,"2-6","Y","Y","Y",4,0,"Facundo Tello","2024-05-19-Central Cordoba-Boca Juniors",2
+"357","ARG",2024-05-20,"Estudiantes","Deportivo Riestra",2,0,"H",1.7,0.5,4,3,0,0,7,1,6,3,14,12,"2-0",2,9,26,"6-3","Y","N","N",7,0,"Fernando Espinoza","2024-05-20-Estudiantes-Deportivo Riestra",2
+"358","ARG",2024-05-20,"San Lorenzo","Lanus",1,1,"D",0.9,1.1,2,6,0,0,4,4,7,6,10,21,"1-1",2,13,31,"7-6","Y","N","N",8,0,"Pablo Echavarría","2024-05-20-San Lorenzo-Lanus",2
+"359","ARG",2024-05-20,"Rosario Central","Tigre",1,1,"D",0.9,0.4,3,1,0,0,4,3,7,2,8,10,"1-1",2,9,18,"7-2","Y","N","N",4,0,"Andrés Merlos","2024-05-20-Rosario Central-Tigre",2
+"360","ARG",2024-05-20,"Racing Club","Arg Juniors",3,0,"H",1.5,0.4,4,5,0,1,9,0,3,4,17,14,"3-0",3,7,31,"3-4","Y","Y","N",9,1,"Robin Fuhrmann","2024-05-20-Racing Club-Arg Juniors",2
+"361","ARG",2024-05-21,"Velez Sarsfield","Newells OB",1,0,"H",0.5,0.9,5,5,0,0,2,2,2,4,17,16,"1-0",1,6,33,"2-4","N","N","N",10,0,"Fernando Rapallini","2024-05-21-Velez Sarsfield-Newells OB",2
+"362","ARG",2024-05-24,"Deportivo Riestra","Rosario Central",0,2,"A",2.4,1.6,1,3,0,0,6,6,7,1,12,14,"0-2",2,8,26,"7-1","Y","N","N",4,0,"Nicolás Lamolina","2024-05-24-Deportivo Riestra-Rosario Central",3
+"363","ARG",2024-05-24,"Tigre","Racing Club",0,4,"A",0.6,2.9,4,2,0,0,4,7,1,3,13,8,"0-4",4,4,21,"1-3","Y","Y","Y",6,0,"Yael Falcón","2024-05-24-Tigre-Racing Club",3
+"364","ARG",2024-05-24,"Belgrano","Central Cordoba",2,1,"H",3.1,1.2,6,3,1,0,6,1,4,7,20,8,"2-1",3,11,28,"4-7","Y","Y","N",9,1,"Luis Lobo Medina","2024-05-24-Belgrano-Central Cordoba",3
+"365","ARG",2024-05-24,"Lanus","Estudiantes",2,1,"H",1.1,1.4,2,1,1,0,5,5,1,5,11,12,"2-1",3,6,23,"1-5","Y","Y","N",3,1,"Andrés Merlos","2024-05-24-Lanus-Estudiantes",3
+"366","ARG",2024-05-25,"Arg Juniors","River Plate",1,0,"H",0.7,0.3,3,6,0,0,4,0,3,5,12,27,"1-0",1,8,39,"3-5","N","N","N",9,0,"Leandro Rey Hilfer","2024-05-25-Arg Juniors-River Plate",3
+"367","ARG",2024-05-25,"Newells OB","Defensa Justicia",1,0,"H",0.7,0.4,1,3,0,0,4,3,5,4,12,11,"1-0",1,9,23,"5-4","N","N","N",4,0,"Pablo Echavarría","2024-05-25-Newells OB-Defensa Justicia",3
+"368","ARG",2024-05-25,"Boca Juniors","Talleres",0,0,"D",0.4,1.7,4,3,0,0,2,5,5,4,10,17,"0-0",0,9,27,"5-4","N","N","N",7,0,"Hernán Mastrángelo","2024-05-25-Boca Juniors-Talleres",3
+"369","ARG",2024-05-26,"Huracan","Instituto",1,0,"H",1,0.7,4,4,1,1,1,2,7,3,11,18,"1-0",1,10,29,"7-3","N","N","N",8,2,"Ariel Penel","2024-05-26-Huracan-Instituto",3
+"370","ARG",2024-05-26,"Sarmiento","Independiente Rivadavia",0,1,"A",0.5,0.6,3,3,1,0,2,2,5,3,16,15,"0-1",1,8,31,"5-3","N","N","N",6,1,"Facundo Tello","2024-05-26-Sarmiento-Independiente Rivadavia",3
+"371","ARG",2024-05-26,"Gimnasia–LP","Banfield",3,0,"H",2.3,0.4,1,0,0,0,9,4,3,5,11,13,"3-0",3,8,24,"3-5","Y","Y","N",1,0,"Sebastían Zunino","2024-05-26-Gimnasia–LP-Banfield",3
+"372","ARG",2024-05-26,"Independiente","Velez Sarsfield",1,1,"D",0.5,1.2,3,3,0,0,4,1,4,3,14,22,"1-1",2,7,36,"4-3","Y","N","N",6,0,"Darío Herrera","2024-05-26-Independiente-Velez Sarsfield",3
+"373","ARG",2024-05-27,"Union","Barracas Central",2,0,"H",2,0.9,4,3,0,0,8,2,5,3,14,8,"2-0",2,8,22,"5-3","Y","N","N",7,0,"Robin Fuhrmann","2024-05-27-Union-Barracas Central",3
+"374","ARG",2024-05-27,"Atletico Tucuman","Platense",1,1,"D",1.2,0.9,2,6,0,1,4,1,6,0,14,11,"1-1",2,6,25,"6-0","Y","N","N",8,1,"Silvio Trucco","2024-05-27-Atletico Tucuman-Platense",3
+"375","ARG",2024-06-01,"Racing Club","Deportivo Riestra",1,0,"H",1.6,0.2,1,1,0,0,3,2,12,6,9,11,"1-0",1,18,20,"12-6","N","N","N",2,0,"Fernando Echenique","2024-06-01-Racing Club-Deportivo Riestra",3
+"376","ARG",2024-06-01,"Belgrano","Arg Juniors",1,0,"H",0.9,1,3,4,1,0,3,2,1,9,10,14,"1-0",1,10,24,"1-9","N","N","N",7,1,"Facundo Tello","2024-06-01-Belgrano-Arg Juniors",4
+"377","ARG",2024-06-01,"Velez Sarsfield","Atletico Tucuman",1,1,"D",0.7,0.6,3,1,0,0,7,3,9,4,7,17,"1-1",2,13,24,"9-4","Y","N","N",4,0,"Nicolás Lamolina","2024-06-01-Velez Sarsfield-Atletico Tucuman",4
+"378","ARG",2024-06-02,"Platense","Boca Juniors",1,0,"H",1.8,0.3,2,7,0,1,6,4,7,6,15,12,"1-0",1,13,27,"7-6","N","N","N",9,1,"Robin Fuhrmann","2024-06-02-Platense-Boca Juniors",4
+"379","ARG",2024-06-02,"Rosario Central","Lanus",1,1,"D",0.9,0.1,3,5,0,0,5,1,6,1,15,16,"1-1",2,7,31,"6-1","Y","N","N",8,0,"Sebastián Martinez","2024-06-02-Rosario Central-Lanus",4
+"380","ARG",2024-06-02,"Central Cordoba","Talleres",2,4,"A",1.4,1.1,3,1,0,0,2,7,5,0,11,16,"2-4",6,5,27,"5-0","Y","Y","Y",4,0,"Carlos Gareano","2024-06-02-Central Cordoba-Talleres",4
+"381","ARG",2024-06-02,"Instituto","Gimnasia–LP",2,1,"H",0.6,0.5,4,2,0,0,2,4,4,3,10,12,"2-1",3,7,22,"4-3","Y","Y","N",6,0,"Hernán Mastrángelo","2024-06-02-Instituto-Gimnasia–LP",4
+"382","ARG",2024-06-02,"River Plate","Tigre",3,1,"H",2.7,1.8,3,1,0,0,7,1,6,5,13,15,"3-1",4,11,28,"6-5","Y","Y","Y",4,0,"Nazareno Arasa","2024-06-02-River Plate-Tigre",4
+"383","ARG",2024-06-03,"San Lorenzo","Sarmiento",0,1,"A",1.4,0.3,1,4,0,0,3,2,10,0,5,21,"0-1",1,10,26,"10-0","N","N","N",5,0,"Fernando Espinoza","2024-06-03-San Lorenzo-Sarmiento",4
+"384","ARG",2024-06-03,"Defensa Justicia","Independiente",0,0,"D",0.7,1,4,5,0,0,1,3,4,6,14,12,"0-0",0,10,26,"4-6","N","N","N",9,0,"Fernando Rapallini","2024-06-03-Defensa Justicia-Independiente",4
+"385","ARG",2024-06-03,"Estudiantes","Godoy Cruz",1,1,"D",1.5,0.6,3,2,0,0,8,1,5,2,7,13,"1-1",2,7,20,"5-2","Y","N","N",5,0,"Pablo Echavarría","2024-06-03-Estudiantes-Godoy Cruz",4
+"386","ARG",2024-06-04,"Barracas Central","Huracan",0,2,"A",0.7,1.8,3,2,0,0,4,6,3,3,15,11,"0-2",2,6,26,"3-3","Y","N","N",5,0,"Andrés Merlos","2024-06-04-Barracas Central-Huracan",4
+"387","ARG",2024-06-04,"Banfield","Newells OB",2,0,"H",3,1,3,2,0,0,4,4,6,3,11,13,"2-0",2,9,24,"6-3","Y","N","N",5,0,"Leandro Rey Hilfer","2024-06-04-Banfield-Newells OB",4
+"388","ARG",2024-06-04,"Independiente Rivadavia","Union",0,1,"A",0.4,1.3,3,7,1,2,5,0,4,3,8,13,"0-1",1,7,21,"4-3","N","N","N",10,3,"Luis Lobo Medina","2024-06-04-Independiente Rivadavia-Union",4
+"389","ARG",2024-06-12,"Godoy Cruz","Rosario Central",1,1,"D",1.2,1.8,2,3,0,0,2,4,2,5,18,17,"1-1",2,7,35,"2-5","Y","N","N",5,0,"Ariel Penel","2024-06-12-Godoy Cruz-Rosario Central",4
+"390","ARG",2024-06-12,"Arg Juniors","Central Cordoba",2,1,"H",0.5,0.2,2,3,0,0,5,1,5,0,13,12,"2-1",3,5,25,"5-0","Y","Y","N",5,0,"Nazareno Arasa","2024-06-12-Arg Juniors-Central Cordoba",5
+"391","ARG",2024-06-12,"Independiente","Banfield",2,1,"H",1.7,1.8,5,4,0,1,5,3,5,6,14,16,"2-1",3,11,30,"5-6","Y","Y","N",9,1,"Robin Fuhrmann","2024-06-12-Independiente-Banfield",5
+"392","ARG",2024-06-12,"Gimnasia–LP","Barracas Central",2,1,"H",2.4,1.7,3,0,0,0,3,6,4,10,13,8,"2-1",3,14,21,"4-10","Y","Y","N",3,0,"Carlos Gareano","2024-06-12-Gimnasia–LP-Barracas Central",5
+"393","ARG",2024-06-13,"Deportivo Riestra","River Plate",2,0,"H",1.4,1.5,1,2,0,0,2,2,1,3,13,17,"2-0",2,4,30,"1-3","Y","N","N",3,0,"Hernán Mastrángelo","2024-06-13-Deportivo Riestra-River Plate",5
+"394","ARG",2024-06-13,"Tigre","Belgrano",1,1,"D",1.2,1.4,2,1,0,0,4,4,2,6,9,10,"1-1",2,8,19,"2-6","Y","N","N",3,0,"Sebastían Zunino","2024-06-13-Tigre-Belgrano",5
+"395","ARG",2024-06-13,"Sarmiento","Estudiantes",2,0,"H",2.5,0.8,2,3,0,0,6,4,5,6,14,9,"2-0",2,11,23,"5-6","Y","N","N",5,0,"Jorge Baliño","2024-06-13-Sarmiento-Estudiantes",5
+"396","ARG",2024-06-13,"Lanus","Racing Club",2,0,"H",1.2,0.2,2,4,0,1,8,1,6,3,9,19,"2-0",2,9,28,"6-3","Y","N","N",6,1,"Leandro Rey Hilfer","2024-06-13-Lanus-Racing Club",5
+"397","ARG",2024-06-13,"Newells OB","Instituto",0,2,"A",0.7,1.1,4,1,1,0,2,5,7,1,12,7,"0-2",2,8,19,"7-1","Y","N","N",5,1,"Nicolás Lamolina","2024-06-13-Newells OB-Instituto",5
+"398","ARG",2024-06-14,"Talleres","Platense",2,1,"H",0.8,0.3,2,1,0,1,5,2,3,4,8,11,"2-1",3,7,19,"3-4","Y","Y","N",3,1,"Fernando Espinoza","2024-06-14-Talleres-Platense",5
+"399","ARG",2024-06-14,"Boca Juniors","Velez Sarsfield",1,0,"H",1,0.7,4,1,1,1,2,3,5,5,16,11,"1-0",1,10,27,"5-5","N","N","N",5,2,"Fernando Echenique","2024-06-14-Boca Juniors-Velez Sarsfield",5
+"400","ARG",2024-06-15,"Union","San Lorenzo",2,1,"H",1.3,0.7,5,3,0,0,8,3,7,2,11,11,"2-1",3,9,22,"7-2","Y","Y","N",8,0,"Andrés Merlos","2024-06-15-Union-San Lorenzo",5
+"401","ARG",2024-06-15,"Huracan","Independiente Rivadavia",1,0,"H",0.9,0.8,3,2,0,1,3,3,2,4,21,12,"1-0",1,6,33,"2-4","N","N","N",5,1,"Fernando Rapallini","2024-06-15-Huracan-Independiente Rivadavia",5
+"402","ARG",2024-06-15,"Atletico Tucuman","Defensa Justicia",1,1,"D",2.6,1.7,1,4,0,0,4,5,3,4,8,10,"1-1",2,7,18,"3-4","Y","N","N",5,0,"Pablo Dóvalo","2024-06-15-Atletico Tucuman-Defensa Justicia",5

@@ -4,7 +4,8 @@ library('lubridate')
 library('dplyr')
 MLS <- read.csv('LEAGUESCSV/MLS.csv')
 ARG <- read.csv('LEAGUESCSV/ARG.csv')
-allteamsnewleagues2024 <- rbind(MLS,ARG)
+BRA <- read.csv('LEAGUESCSV/BRA.csv')
+allteamsnewleagues2024 <- rbind(MLS,ARG,BRA)
 allteamsnewleagues2024 <- allteamsnewleagues2024[,c(-1)]
 
 #change date strings to Date objects
@@ -27,5 +28,6 @@ allteamsnewleagues2024 <- allteamsnewleagues2024 %>% dplyr::relocate(21,.after =
 #create divisions subsets
 MLS <- subset(allteamsnewleagues2024, Div == "MLS")
 ARG <- subset(allteamsnewleagues2024, Div == "ARG")
+BRA <- subset(allteamsnewleagues2024, Div == "BRA")
 
-
+View(allteamsnewleagues2024)

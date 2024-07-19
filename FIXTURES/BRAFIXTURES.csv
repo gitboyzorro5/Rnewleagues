@@ -1,0 +1,381 @@
+"","Div","HomeTeam","AwayTeam","Date"
+"1","BRA","Criciuma","Juventude",2024-04-13
+"2","BRA","Internacional","Bahia",2024-04-13
+"3","BRA","Fluminense","Red Bull Bragantino",2024-04-13
+"4","BRA","Sao Paulo","Fortaleza",2024-04-13
+"5","BRA","Ath Paranaense","Cuiaba",2024-04-14
+"6","BRA","Vasco da Gama","Gremio",2024-04-14
+"7","BRA","Corinthians","Atletico Mineiro",2024-04-14
+"8","BRA","Atl Goianiense","Flamengo",2024-04-14
+"9","BRA","Cruzeiro","Botafogo RJ",2024-04-14
+"10","BRA","Vitoria","Palmeiras",2024-04-14
+"11","BRA","Atl Goianiense","Criciuma",2024-06-19
+"12","BRA","Botafogo RJ","Ath Paranaense",2024-06-19
+"13","BRA","Fortaleza","Gremio",2024-06-19
+"14","BRA","Sao Paulo","Cuiaba",2024-06-19
+"15","BRA","Juventude","Vasco da Gama",2024-06-19
+"16","BRA","Internacional","Corinthians",2024-06-19
+"17","BRA","Cruzeiro","Fluminense",2024-06-19
+"18","BRA","Vitoria","Atletico Mineiro",2024-06-20
+"19","BRA","Flamengo","Bahia",2024-06-20
+"20","BRA","Palmeiras","Red Bull Bragantino",2024-06-20
+"21","BRA","Criciuma","Botafogo RJ",2024-06-22
+"22","BRA","Cuiaba","Atl Goianiense",2024-06-22
+"23","BRA","Gremio","Internacional",2024-06-22
+"24","BRA","Vasco da Gama","Sao Paulo",2024-06-22
+"25","BRA","Fluminense","Flamengo",2024-06-23
+"26","BRA","Bahia","Cruzeiro",2024-06-23
+"27","BRA","Ath Paranaense","Corinthians",2024-06-23
+"28","BRA","Atletico Mineiro","Fortaleza",2024-06-23
+"29","BRA","Palmeiras","Juventude",2024-06-23
+"30","BRA","Red Bull Bragantino","Vitoria",2024-06-23
+"31","BRA","Botafogo RJ","Red Bull Bragantino",2024-06-26
+"32","BRA","Cruzeiro","Ath Paranaense",2024-06-26
+"33","BRA","Juventude","Flamengo",2024-06-26
+"34","BRA","Atl Goianiense","Gremio",2024-06-26
+"35","BRA","Corinthians","Cuiaba",2024-06-26
+"36","BRA","Bahia","Vasco da Gama",2024-06-26
+"37","BRA","Internacional","Atletico Mineiro",2024-06-26
+"38","BRA","Fortaleza","Palmeiras",2024-06-26
+"39","BRA","Fluminense","Vitoria",2024-06-27
+"40","BRA","Sao Paulo","Criciuma",2024-06-27
+"41","BRA","Cuiaba","Red Bull Bragantino",2024-06-29
+"42","BRA","Vasco da Gama","Botafogo RJ",2024-06-29
+"43","BRA","Atletico Mineiro","Atl Goianiense",2024-06-30
+"44","BRA","Sao Paulo","Bahia",2024-06-30
+"45","BRA","Fortaleza","Juventude",2024-06-30
+"46","BRA","Gremio","Fluminense",2024-06-30
+"47","BRA","Flamengo","Cruzeiro",2024-06-30
+"48","BRA","Criciuma","Internacional",2024-06-30
+"49","BRA","Vitoria","Ath Paranaense",2024-06-30
+"50","BRA","Palmeiras","Corinthians",2024-07-01
+"51","BRA","Cuiaba","Botafogo RJ",2024-07-03
+"52","BRA","Vasco da Gama","Fortaleza",2024-07-03
+"53","BRA","Criciuma","Cruzeiro",2024-07-03
+"54","BRA","Ath Paranaense","Sao Paulo",2024-07-03
+"55","BRA","Red Bull Bragantino","Atl Goianiense",2024-07-03
+"56","BRA","Atletico Mineiro","Flamengo",2024-07-03
+"57","BRA","Gremio","Palmeiras",2024-07-04
+"58","BRA","Bahia","Juventude",2024-07-04
+"59","BRA","Corinthians","Vitoria",2024-07-04
+"60","BRA","Fluminense","Internacional",2024-07-04
+"61","BRA","Flamengo","Cuiaba",2024-07-06
+"62","BRA","Sao Paulo","Red Bull Bragantino",2024-07-06
+"63","BRA","Fortaleza","Fluminense",2024-07-07
+"64","BRA","Juventude","Gremio",2024-07-07
+"65","BRA","Cruzeiro","Corinthians",2024-07-07
+"66","BRA","Internacional","Vasco da Gama",2024-07-07
+"67","BRA","Atl Goianiense","Ath Paranaense",2024-07-07
+"68","BRA","Palmeiras","Bahia",2024-07-07
+"69","BRA","Vitoria","Criciuma",2024-07-07
+"70","BRA","Botafogo RJ","Atletico Mineiro",2024-07-07
+"71","BRA","Red Bull Bragantino","Internacional",2024-07-10
+"72","BRA","Cuiaba","Juventude",2024-07-10
+"73","BRA","Gremio","Cruzeiro",2024-07-10
+"74","BRA","Ath Paranaense","Bahia",2024-07-10
+"75","BRA","Vasco da Gama","Corinthians",2024-07-10
+"76","BRA","Palmeiras","Atl Goianiense",2024-07-11
+"77","BRA","Flamengo","Fortaleza",2024-07-11
+"78","BRA","Criciuma","Fluminense",2024-07-11
+"79","BRA","Vitoria","Botafogo RJ",2024-07-11
+"80","BRA","Atletico Mineiro","Sao Paulo",2024-07-11
+"81","BRA","Cruzeiro","Red Bull Bragantino",2024-07-13
+"82","BRA","Bahia","Cuiaba",2024-07-13
+"83","BRA","Juventude","Atletico Mineiro",2024-07-16
+"84","BRA","Corinthians","Criciuma",2024-07-16
+"85","BRA","Fluminense","Ath Paranaense",2024-07-17
+"86","BRA","Internacional","Flamengo",2024-07-17
+"87","BRA","Atl Goianiense","Vasco da Gama",2024-07-17
+"88","BRA","Sao Paulo","Gremio",2024-07-17
+"89","BRA","Fortaleza","Vitoria",2024-07-17
+"90","BRA","Botafogo RJ","Palmeiras",2024-07-17
+"91","BRA","Flamengo","Criciuma",2024-07-20
+"92","BRA","Botafogo RJ","Internacional",2024-07-20
+"93","BRA","Palmeiras","Cruzeiro",2024-07-20
+"94","BRA","Gremio","Vitoria",2024-07-21
+"95","BRA","Bahia","Corinthians",2024-07-21
+"96","BRA","Atletico Mineiro","Vasco da Gama",2024-07-21
+"97","BRA","Red Bull Bragantino","Ath Paranaense",2024-07-21
+"98","BRA","Fortaleza","Atl Goianiense",2024-07-21
+"99","BRA","Juventude","Sao Paulo",2024-07-21
+"100","BRA","Cuiaba","Fluminense",2024-07-21
+"101","BRA","Vasco da Gama","Cuiaba",2024-07-24
+"102","BRA","Criciuma","Red Bull Bragantino",2024-07-24
+"103","BRA","Internacional","Fortaleza",2024-07-24
+"104","BRA","Ath Paranaense","Atletico Mineiro",2024-07-24
+"105","BRA","Cruzeiro","Juventude",2024-07-24
+"106","BRA","Sao Paulo","Botafogo RJ",2024-07-24
+"107","BRA","Vitoria","Flamengo",2024-07-24
+"108","BRA","Atl Goianiense","Bahia",2024-07-24
+"109","BRA","Fluminense","Palmeiras",2024-07-24
+"110","BRA","Corinthians","Gremio",2024-07-25
+"111","BRA","Bahia","Fluminense",2024-04-16
+"112","BRA","Gremio","Ath Paranaense",2024-04-17
+"113","BRA","Red Bull Bragantino","Vasco da Gama",2024-04-17
+"114","BRA","Juventude","Corinthians",2024-04-17
+"115","BRA","Atletico Mineiro","Criciuma",2024-04-17
+"116","BRA","Palmeiras","Internacional",2024-04-17
+"117","BRA","Fortaleza","Cruzeiro",2024-04-17
+"118","BRA","Flamengo","Sao Paulo",2024-04-17
+"119","BRA","Botafogo RJ","Atl Goianiense",2024-04-18
+"120","BRA","Cuiaba","Vitoria",2024-06-05
+"121","BRA","Bahia","Internacional",2024-07-28
+"122","BRA","Atletico Mineiro","Corinthians",2024-07-28
+"123","BRA","Gremio","Vasco da Gama",2024-07-28
+"124","BRA","Palmeiras","Vitoria",2024-07-28
+"125","BRA","Juventude","Criciuma",2024-07-28
+"126","BRA","Cuiaba","Ath Paranaense",2024-07-28
+"127","BRA","Red Bull Bragantino","Fluminense",2024-07-28
+"128","BRA","Botafogo RJ","Cruzeiro",2024-07-28
+"129","BRA","Fortaleza","Sao Paulo",2024-07-28
+"130","BRA","Flamengo","Atl Goianiense",2024-07-28
+"131","BRA","Sao Paulo","Flamengo",2024-08-04
+"132","BRA","Internacional","Palmeiras",2024-08-04
+"133","BRA","Vasco da Gama","Red Bull Bragantino",2024-08-04
+"134","BRA","Fluminense","Bahia",2024-08-04
+"135","BRA","Vitoria","Cuiaba",2024-08-04
+"136","BRA","Corinthians","Juventude",2024-08-04
+"137","BRA","Cruzeiro","Fortaleza",2024-08-04
+"138","BRA","Atl Goianiense","Botafogo RJ",2024-08-04
+"139","BRA","Ath Paranaense","Gremio",2024-08-04
+"140","BRA","Criciuma","Atletico Mineiro",2024-08-04
+"141","BRA","Internacional","Ath Paranaense",2024-08-11
+"142","BRA","Cuiaba","Gremio",2024-08-11
+"143","BRA","Cruzeiro","Atletico Mineiro",2024-08-11
+"144","BRA","Juventude","Botafogo RJ",2024-08-11
+"145","BRA","Sao Paulo","Atl Goianiense",2024-08-11
+"146","BRA","Corinthians","Red Bull Bragantino",2024-08-11
+"147","BRA","Fortaleza","Criciuma",2024-08-11
+"148","BRA","Vasco da Gama","Fluminense",2024-08-11
+"149","BRA","Flamengo","Palmeiras",2024-08-11
+"150","BRA","Bahia","Vitoria",2024-08-11
+"151","BRA","Criciuma","Vasco da Gama",2024-08-18
+"152","BRA","Red Bull Bragantino","Fortaleza",2024-08-18
+"153","BRA","Palmeiras","Sao Paulo",2024-08-18
+"154","BRA","Vitoria","Cruzeiro",2024-08-18
+"155","BRA","Atletico Mineiro","Cuiaba",2024-08-18
+"156","BRA","Atl Goianiense","Internacional",2024-08-18
+"157","BRA","Ath Paranaense","Juventude",2024-08-18
+"158","BRA","Fluminense","Corinthians",2024-08-18
+"159","BRA","Botafogo RJ","Flamengo",2024-08-18
+"160","BRA","Gremio","Bahia",2024-08-18
+"161","BRA","Internacional","Cruzeiro",2024-08-25
+"162","BRA","Atletico Mineiro","Fluminense",2024-08-25
+"163","BRA","Criciuma","Gremio",2024-08-25
+"164","BRA","Flamengo","Red Bull Bragantino",2024-08-25
+"165","BRA","Palmeiras","Cuiaba",2024-08-25
+"166","BRA","Atl Goianiense","Juventude",2024-08-25
+"167","BRA","Sao Paulo","Vitoria",2024-08-25
+"168","BRA","Bahia","Botafogo RJ",2024-08-25
+"169","BRA","Fortaleza","Corinthians",2024-08-25
+"170","BRA","Vasco da Gama","Ath Paranaense",2024-08-25
+"171","BRA","Cruzeiro","Atl Goianiense",2024-09-01
+"172","BRA","Cuiaba","Criciuma",2024-09-01
+"173","BRA","Juventude","Internacional",2024-09-01
+"174","BRA","Gremio","Atletico Mineiro",2024-09-01
+"175","BRA","Ath Paranaense","Palmeiras",2024-09-01
+"176","BRA","Fluminense","Sao Paulo",2024-09-01
+"177","BRA","Corinthians","Flamengo",2024-09-01
+"178","BRA","Vitoria","Vasco da Gama",2024-09-01
+"179","BRA","Red Bull Bragantino","Bahia",2024-09-01
+"180","BRA","Botafogo RJ","Fortaleza",2024-09-01
+"181","BRA","Flamengo","Vasco da Gama",2024-09-15
+"182","BRA","Cruzeiro","Sao Paulo",2024-09-15
+"183","BRA","Red Bull Bragantino","Gremio",2024-09-15
+"184","BRA","Atl Goianiense","Vitoria",2024-09-15
+"185","BRA","Bahia","Atletico Mineiro",2024-09-15
+"186","BRA","Botafogo RJ","Corinthians",2024-09-15
+"187","BRA","Ath Paranaense","Fortaleza",2024-09-15
+"188","BRA","Internacional","Cuiaba",2024-09-15
+"189","BRA","Juventude","Fluminense",2024-09-15
+"190","BRA","Palmeiras","Criciuma",2024-09-15
+"191","BRA","Gremio","Flamengo",2024-09-22
+"192","BRA","Fortaleza","Bahia",2024-09-22
+"193","BRA","Sao Paulo","Internacional",2024-09-22
+"194","BRA","Cuiaba","Cruzeiro",2024-09-22
+"195","BRA","Fluminense","Botafogo RJ",2024-09-22
+"196","BRA","Vitoria","Juventude",2024-09-22
+"197","BRA","Corinthians","Atl Goianiense",2024-09-22
+"198","BRA","Criciuma","Ath Paranaense",2024-09-22
+"199","BRA","Vasco da Gama","Palmeiras",2024-09-22
+"200","BRA","Atletico Mineiro","Red Bull Bragantino",2024-09-22
+"201","BRA","Cruzeiro","Vasco da Gama",2024-09-29
+"202","BRA","Fortaleza","Cuiaba",2024-09-29
+"203","BRA","Botafogo RJ","Gremio",2024-09-29
+"204","BRA","Juventude","Red Bull Bragantino",2024-09-29
+"205","BRA","Atl Goianiense","Fluminense",2024-09-29
+"206","BRA","Internacional","Vitoria",2024-09-29
+"207","BRA","Sao Paulo","Corinthians",2024-09-29
+"208","BRA","Palmeiras","Atletico Mineiro",2024-09-29
+"209","BRA","Bahia","Criciuma",2024-09-29
+"210","BRA","Flamengo","Ath Paranaense",2024-09-29
+"211","BRA","Criciuma","Atl Goianiense",2024-10-05
+"212","BRA","Corinthians","Internacional",2024-10-05
+"213","BRA","Cuiaba","Sao Paulo",2024-10-05
+"214","BRA","Red Bull Bragantino","Palmeiras",2024-10-05
+"215","BRA","Bahia","Flamengo",2024-10-05
+"216","BRA","Gremio","Fortaleza",2024-10-05
+"217","BRA","Ath Paranaense","Botafogo RJ",2024-10-05
+"218","BRA","Vasco da Gama","Juventude",2024-10-05
+"219","BRA","Fluminense","Cruzeiro",2024-10-05
+"220","BRA","Atletico Mineiro","Vitoria",2024-10-05
+"221","BRA","Fluminense","Vasco da Gama",2024-04-20
+"222","BRA","Red Bull Bragantino","Corinthians",2024-04-20
+"223","BRA","Gremio","Cuiaba",2024-04-20
+"224","BRA","Atletico Mineiro","Cruzeiro",2024-04-20
+"225","BRA","Vitoria","Bahia",2024-04-21
+"226","BRA","Palmeiras","Flamengo",2024-04-21
+"227","BRA","Ath Paranaense","Internacional",2024-04-21
+"228","BRA","Atl Goianiense","Sao Paulo",2024-04-21
+"229","BRA","Botafogo RJ","Juventude",2024-04-21
+"230","BRA","Criciuma","Fortaleza",2024-07-24
+"231","BRA","Flamengo","Fluminense",2024-10-20
+"232","BRA","Sao Paulo","Vasco da Gama",2024-10-20
+"233","BRA","Corinthians","Ath Paranaense",2024-10-20
+"234","BRA","Juventude","Palmeiras",2024-10-20
+"235","BRA","Cruzeiro","Bahia",2024-10-20
+"236","BRA","Vitoria","Red Bull Bragantino",2024-10-20
+"237","BRA","Fortaleza","Atletico Mineiro",2024-10-20
+"238","BRA","Atl Goianiense","Cuiaba",2024-10-20
+"239","BRA","Botafogo RJ","Criciuma",2024-10-20
+"240","BRA","Internacional","Gremio",2024-10-20
+"241","BRA","Atletico Mineiro","Internacional",2024-10-26
+"242","BRA","Ath Paranaense","Cruzeiro",2024-10-26
+"243","BRA","Vitoria","Fluminense",2024-10-26
+"244","BRA","Red Bull Bragantino","Botafogo RJ",2024-10-26
+"245","BRA","Flamengo","Juventude",2024-10-26
+"246","BRA","Cuiaba","Corinthians",2024-10-26
+"247","BRA","Gremio","Atl Goianiense",2024-10-26
+"248","BRA","Criciuma","Sao Paulo",2024-10-26
+"249","BRA","Vasco da Gama","Bahia",2024-10-26
+"250","BRA","Palmeiras","Fortaleza",2024-10-26
+"251","BRA","Juventude","Fortaleza",2024-11-06
+"252","BRA","Red Bull Bragantino","Cuiaba",2024-11-06
+"253","BRA","Atl Goianiense","Atletico Mineiro",2024-11-06
+"254","BRA","Corinthians","Palmeiras",2024-11-06
+"255","BRA","Bahia","Sao Paulo",2024-11-06
+"256","BRA","Internacional","Criciuma",2024-11-06
+"257","BRA","Ath Paranaense","Vitoria",2024-11-06
+"258","BRA","Fluminense","Gremio",2024-11-06
+"259","BRA","Botafogo RJ","Vasco da Gama",2024-11-06
+"260","BRA","Cruzeiro","Flamengo",2024-11-06
+"261","BRA","Cruzeiro","Criciuma",2024-11-13
+"262","BRA","Fortaleza","Vasco da Gama",2024-11-13
+"263","BRA","Vitoria","Corinthians",2024-11-13
+"264","BRA","Atl Goianiense","Red Bull Bragantino",2024-11-13
+"265","BRA","Palmeiras","Gremio",2024-11-13
+"266","BRA","Botafogo RJ","Cuiaba",2024-11-13
+"267","BRA","Internacional","Fluminense",2024-11-13
+"268","BRA","Flamengo","Atletico Mineiro",2024-11-13
+"269","BRA","Sao Paulo","Ath Paranaense",2024-11-13
+"270","BRA","Juventude","Bahia",2024-11-13
+"271","BRA","Ath Paranaense","Atl Goianiense",2024-11-20
+"272","BRA","Bahia","Palmeiras",2024-11-20
+"273","BRA","Atletico Mineiro","Botafogo RJ",2024-11-20
+"274","BRA","Red Bull Bragantino","Sao Paulo",2024-11-20
+"275","BRA","Vasco da Gama","Internacional",2024-11-20
+"276","BRA","Corinthians","Cruzeiro",2024-11-20
+"277","BRA","Fluminense","Fortaleza",2024-11-20
+"278","BRA","Cuiaba","Flamengo",2024-11-20
+"279","BRA","Gremio","Juventude",2024-11-20
+"280","BRA","Criciuma","Vitoria",2024-11-20
+"281","BRA","Sao Paulo","Atletico Mineiro",2024-11-24
+"282","BRA","Fortaleza","Flamengo",2024-11-24
+"283","BRA","Bahia","Ath Paranaense",2024-11-24
+"284","BRA","Cruzeiro","Gremio",2024-11-24
+"285","BRA","Fluminense","Criciuma",2024-11-24
+"286","BRA","Atl Goianiense","Palmeiras",2024-11-24
+"287","BRA","Internacional","Red Bull Bragantino",2024-11-24
+"288","BRA","Botafogo RJ","Vitoria",2024-11-24
+"289","BRA","Corinthians","Vasco da Gama",2024-11-24
+"290","BRA","Juventude","Cuiaba",2024-11-24
+"291","BRA","Atletico Mineiro","Juventude",2024-12-01
+"292","BRA","Vitoria","Fortaleza",2024-12-01
+"293","BRA","Criciuma","Corinthians",2024-12-01
+"294","BRA","Vasco da Gama","Atl Goianiense",2024-12-01
+"295","BRA","Palmeiras","Botafogo RJ",2024-12-01
+"296","BRA","Red Bull Bragantino","Cruzeiro",2024-12-01
+"297","BRA","Cuiaba","Bahia",2024-12-01
+"298","BRA","Ath Paranaense","Fluminense",2024-12-01
+"299","BRA","Gremio","Sao Paulo",2024-12-01
+"300","BRA","Flamengo","Internacional",2024-12-01
+"301","BRA","Corinthians","Bahia",2024-12-04
+"302","BRA","Atl Goianiense","Fortaleza",2024-12-04
+"303","BRA","Criciuma","Flamengo",2024-12-04
+"304","BRA","Internacional","Botafogo RJ",2024-12-04
+"305","BRA","Cruzeiro","Palmeiras",2024-12-04
+"306","BRA","Vitoria","Gremio",2024-12-04
+"307","BRA","Vasco da Gama","Atletico Mineiro",2024-12-04
+"308","BRA","Fluminense","Cuiaba",2024-12-04
+"309","BRA","Ath Paranaense","Red Bull Bragantino",2024-12-04
+"310","BRA","Sao Paulo","Juventude",2024-12-04
+"311","BRA","Botafogo RJ","Sao Paulo",2024-12-08
+"312","BRA","Flamengo","Vitoria",2024-12-08
+"313","BRA","Cuiaba","Vasco da Gama",2024-12-08
+"314","BRA","Red Bull Bragantino","Criciuma",2024-12-08
+"315","BRA","Fortaleza","Internacional",2024-12-08
+"316","BRA","Gremio","Corinthians",2024-12-08
+"317","BRA","Palmeiras","Fluminense",2024-12-08
+"318","BRA","Bahia","Atl Goianiense",2024-12-08
+"319","BRA","Juventude","Cruzeiro",2024-12-08
+"320","BRA","Atletico Mineiro","Ath Paranaense",2024-12-08
+"321","BRA","Vasco da Gama","Criciuma",2024-04-27
+"322","BRA","Cuiaba","Atletico Mineiro",2024-04-27
+"323","BRA","Bahia","Gremio",2024-04-27
+"324","BRA","Flamengo","Botafogo RJ",2024-04-28
+"325","BRA","Cruzeiro","Vitoria",2024-04-28
+"326","BRA","Corinthians","Fluminense",2024-04-28
+"327","BRA","Fortaleza","Red Bull Bragantino",2024-04-28
+"328","BRA","Juventude","Ath Paranaense",2024-04-28
+"329","BRA","Internacional","Atl Goianiense",2024-04-28
+"330","BRA","Sao Paulo","Palmeiras",2024-04-29
+"331","BRA","Fluminense","Atletico Mineiro",2024-05-04
+"332","BRA","Red Bull Bragantino","Flamengo",2024-05-04
+"333","BRA","Corinthians","Fortaleza",2024-05-04
+"334","BRA","Cruzeiro","Internacional",2024-05-04
+"335","BRA","Vitoria","Sao Paulo",2024-05-05
+"336","BRA","Ath Paranaense","Vasco da Gama",2024-05-05
+"337","BRA","Gremio","Criciuma",2024-05-05
+"338","BRA","Cuiaba","Palmeiras",2024-05-05
+"339","BRA","Botafogo RJ","Bahia",2024-05-05
+"340","BRA","Juventude","Atl Goianiense",2024-06-05
+"341","BRA","Flamengo","Corinthians",2024-05-11
+"342","BRA","Atletico Mineiro","Gremio",2024-05-11
+"343","BRA","Palmeiras","Ath Paranaense",2024-05-12
+"344","BRA","Atl Goianiense","Cruzeiro",2024-05-12
+"345","BRA","Fortaleza","Botafogo RJ",2024-05-12
+"346","BRA","Bahia","Red Bull Bragantino",2024-05-12
+"347","BRA","Vasco da Gama","Vitoria",2024-05-12
+"348","BRA","Sao Paulo","Fluminense",2024-05-13
+"349","BRA","Internacional","Juventude",2024-05-13
+"350","BRA","Criciuma","Cuiaba",2024-06-09
+"351","BRA","Vitoria","Atl Goianiense",2024-06-01
+"352","BRA","Gremio","Red Bull Bragantino",2024-06-01
+"353","BRA","Cuiaba","Internacional",2024-06-01
+"354","BRA","Fluminense","Juventude",2024-06-01
+"355","BRA","Corinthians","Botafogo RJ",2024-06-01
+"356","BRA","Criciuma","Palmeiras",2024-06-02
+"357","BRA","Atletico Mineiro","Bahia",2024-06-02
+"358","BRA","Vasco da Gama","Flamengo",2024-06-02
+"359","BRA","Sao Paulo","Cruzeiro",2024-06-02
+"360","BRA","Fortaleza","Ath Paranaense",2024-06-02
+"361","BRA","Juventude","Vitoria",2024-06-11
+"362","BRA","Atl Goianiense","Corinthians",2024-06-11
+"363","BRA","Botafogo RJ","Fluminense",2024-06-11
+"364","BRA","Red Bull Bragantino","Atletico Mineiro",2024-06-11
+"365","BRA","Cruzeiro","Cuiaba",2024-06-13
+"366","BRA","Flamengo","Gremio",2024-06-13
+"367","BRA","Internacional","Sao Paulo",2024-06-13
+"368","BRA","Ath Paranaense","Criciuma",2024-06-13
+"369","BRA","Bahia","Fortaleza",2024-06-13
+"370","BRA","Palmeiras","Vasco da Gama",2024-06-13
+"371","BRA","Red Bull Bragantino","Juventude",2024-06-15
+"372","BRA","Fluminense","Atl Goianiense",2024-06-15
+"373","BRA","Vitoria","Internacional",2024-06-16
+"374","BRA","Corinthians","Sao Paulo",2024-06-16
+"375","BRA","Ath Paranaense","Flamengo",2024-06-16
+"376","BRA","Cuiaba","Fortaleza",2024-06-16
+"377","BRA","Criciuma","Bahia",2024-06-16
+"378","BRA","Gremio","Botafogo RJ",2024-06-16
+"379","BRA","Vasco da Gama","Cruzeiro",2024-06-16
+"380","BRA","Atletico Mineiro","Palmeiras",2024-06-17

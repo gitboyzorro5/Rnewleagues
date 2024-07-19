@@ -1,7 +1,7 @@
 
 mls_df_picks <- 1
 arg_df_picks <- 1
-# d2_df_picks <- 1
+bra_df_picks <- 1
 # e0_df_picks <- 1
 # e1_df_picks <- 1
 # e2_df_picks <- 1
@@ -88,36 +88,36 @@ unlink('finaldoublefixturearg.csv')
 write.csv(final_doublefixture_arg,"finaldoublefixturearg.csv")
 #########################################################################################################################
 #############################################################
-# myfixturesd2 <- subset(myfixtures,Div == "D2")
-# #############################################################
-# final_doublefixture_d2 <- c()
-# final_first_column_d2 <- c()
-# final_second_column_d2 <- c()
-#
-# for(dbfixture_d2 in 1:nrow(myfixturesd2))
-# {
-#   test_fixture_d2 <- myfixturesd2[dbfixture_d2,]
-#   test_fixture_inv_d2 <- test_fixture_d2[,c(1,3,2,4)]
-#
-#
-#   final_test_fixture_d2 <- test_fixture_d2[rep(seq_len(nrow(test_fixture_d2)), each = d2_df_picks),]
-#   final_test_fixture_inv_d2 <- test_fixture_inv_d2[rep(seq_len(nrow(test_fixture_inv_d2)), each = d2_df_picks),]
-#
-#
-#   final_test_fixture_d2 <- final_test_fixture_d2[,c(2,3)]
-#   final_test_fixture_inv_d2 <- final_test_fixture_inv_d2[,c(2,3)]
-#
-#   final_first_column_d2 <- c(final_test_fixture_d2[,c(1)],final_test_fixture_inv_d2[,c(1)])
-#   final_second_column_d2 <- c(final_test_fixture_d2[,c(2)],final_test_fixture_inv_d2[,c(2)])
-#
-#   mid_doublefixture_d2 <- cbind(final_first_column_d2,final_second_column_d2)
-#
-#   final_doublefixture_d2 <- rbind(final_doublefixture_d2,mid_doublefixture_d2)
-#
-#
-# }
-# unlink('finaldoublefixtured2.csv')
-# write.csv(final_doublefixture_d2,"finaldoublefixtured2.csv")
+myfixturesbra <- subset(myfixtures,Div == "BRA")
+#############################################################
+final_doublefixture_bra <- c()
+final_first_column_bra <- c()
+final_second_column_bra <- c()
+
+for(dbfixture_bra in 1:nrow(myfixturesbra))
+{
+  test_fixture_bra <- myfixturesbra[dbfixture_bra,]
+  test_fixture_inv_bra <- test_fixture_bra[,c(1,3,2,4)]
+
+
+  final_test_fixture_bra <- test_fixture_bra[rep(seq_len(nrow(test_fixture_bra)), each = bra_df_picks),]
+  final_test_fixture_inv_bra <- test_fixture_inv_bra[rep(seq_len(nrow(test_fixture_inv_bra)), each = bra_df_picks),]
+
+
+  final_test_fixture_bra <- final_test_fixture_bra[,c(2,3)]
+  final_test_fixture_inv_bra <- final_test_fixture_inv_bra[,c(2,3)]
+
+  final_first_column_bra <- c(final_test_fixture_bra[,c(1)],final_test_fixture_inv_bra[,c(1)])
+  final_second_column_bra <- c(final_test_fixture_bra[,c(2)],final_test_fixture_inv_bra[,c(2)])
+
+  mid_doublefixture_bra <- cbind(final_first_column_bra,final_second_column_bra)
+
+  final_doublefixture_bra <- rbind(final_doublefixture_bra,mid_doublefixture_bra)
+  final_doublefixture_bra
+
+}
+unlink('finaldoublefixturebra.csv')
+write.csv(final_doublefixture_bra,"finaldoublefixturebra.csv")
 # #####################################################################################################################
 # #############################################################
 # myfixturese0 <- subset(myfixtures,Div == "E0")
