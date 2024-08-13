@@ -110,6 +110,6 @@ BRA_schedule2024$Div <- "BRA"
 all_schedule2024 <- rbind(MLS_schedule2024,ARG_schedule2024,BRA_schedule2024)
 
 
-myfixtures <- all_schedule2024[all_schedule2024$Date >= '2024-07-18' & all_schedule2024$Date <= '2024-07-21',]
+myfixtures <- all_schedule2024[all_schedule2024$Date >= '2024-08-15' & all_schedule2024$Date <= '2024-08-19',]
 write.csv(myfixtures,'myfixtures.csv')
 View(myfixtures)

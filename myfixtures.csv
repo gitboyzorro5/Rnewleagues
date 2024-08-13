@@ -1,39 +1,25 @@
 "","Div","HomeTeam","AwayTeam","Date"
-"254","MLS","Inter Miami","Fire",2024-07-20
-"255","MLS","Philadelphia","Nashville",2024-07-20
-"256","MLS","NE Revolution","FC Dallas",2024-07-20
-"257","MLS","CF Montreal","Toronto FC",2024-07-20
-"258","MLS","NY Red Bulls","FC Cincinnati",2024-07-20
-"259","MLS","Orlando City","NYCFC",2024-07-20
-"260","MLS","Atlanta Utd","Crew",2024-07-20
-"261","MLS","Austin","Charlotte",2024-07-20
-"262","MLS","Sporting KC","St. Louis",2024-07-20
-"263","MLS","Vancouver Wcaps","Dynamo FC",2024-07-20
-"264","MLS","Minnesota Utd","SJ Earthquakes",2024-07-20
-"265","MLS","Rapids","RSL",2024-07-20
-"266","MLS","Seattle","LAFC",2024-07-20
-"267","MLS","LA Galaxy","Portland Timbers",2024-07-20
-"816","ARG","Arg Juniors","Tigre",2024-07-21
-"817","ARG","Independiente Rivadavia","Gimnasia–LP",2024-07-21
-"818","ARG","Central Cordoba","Platense",2024-07-21
-"819","ARG","Velez Sarsfield","Talleres",2024-07-21
-"820","ARG","Defensa Justicia","Boca Juniors",2024-07-21
-"821","ARG","San Lorenzo","Huracan",2024-07-21
-"822","ARG","Rosario Central","Sarmiento",2024-07-21
-"823","ARG","River Plate","Lanus",2024-07-21
-"824","ARG","Belgrano","Deportivo Riestra",2024-07-21
-"825","ARG","Barracas Central","Newells OB",2024-07-21
-"826","ARG","Racing Club","Godoy Cruz",2024-07-21
-"827","ARG","Banfield","Atletico Tucuman",2024-07-21
-"828","ARG","Instituto","Independiente",2024-07-21
-"829","ARG","Estudiantes","Union",2024-07-21
-"962","BRA","Flamengo","Criciuma",2024-07-20
-"963","BRA","Botafogo RJ","Internacional",2024-07-20
-"964","BRA","Palmeiras","Cruzeiro",2024-07-20
-"965","BRA","Gremio","Vitoria",2024-07-21
-"966","BRA","Bahia","Corinthians",2024-07-21
-"967","BRA","Atletico Mineiro","Vasco da Gama",2024-07-21
-"968","BRA","Red Bull Bragantino","Ath Paranaense",2024-07-21
-"969","BRA","Fortaleza","Atl Goianiense",2024-07-21
-"970","BRA","Juventude","Sao Paulo",2024-07-21
-"971","BRA","Cuiaba","Fluminense",2024-07-21
+"522","ARG","Independiente","Rosario Central",2024-08-18
+"523","ARG","Union","Arg Juniors",2024-08-18
+"524","ARG","Lanus","Central Cordoba",2024-08-18
+"525","ARG","Talleres","Independiente Rivadavia",2024-08-18
+"526","ARG","Sarmiento","Tigre",2024-08-18
+"527","ARG","Atletico Tucuman","Estudiantes",2024-08-18
+"528","ARG","Platense","Barracas Central",2024-08-18
+"529","ARG","Newells OB","Racing Club",2024-08-18
+"530","ARG","Godoy Cruz","Deportivo Riestra",2024-08-18
+"531","ARG","Defensa Justicia","Banfield",2024-08-18
+"532","ARG","Boca Juniors","San Lorenzo",2024-08-18
+"533","ARG","Velez Sarsfield","Instituto",2024-08-18
+"534","ARG","Gimnasia–LP","River Plate",2024-08-18
+"535","ARG","Huracan","Belgrano",2024-08-18
+"1022","BRA","Criciuma","Vasco da Gama",2024-08-18
+"1023","BRA","Red Bull Bragantino","Fortaleza",2024-08-18
+"1024","BRA","Palmeiras","Sao Paulo",2024-08-18
+"1025","BRA","Vitoria","Cruzeiro",2024-08-18
+"1026","BRA","Atletico Mineiro","Cuiaba",2024-08-18
+"1027","BRA","Atl Goianiense","Internacional",2024-08-18
+"1028","BRA","Ath Paranaense","Juventude",2024-08-18
+"1029","BRA","Fluminense","Corinthians",2024-08-18
+"1030","BRA","Botafogo RJ","Flamengo",2024-08-18
+"1031","BRA","Gremio","Bahia",2024-08-18

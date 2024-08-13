@@ -24,6 +24,8 @@ for(mls_sn in 1:28){
   write.xlsx(temp_analysis,file.path(path,paste(final_doublefixture_mls[mls_sn,1],final_doublefixture_mls[mls_sn + 1,1],"adv.xlsx",sep = "_")))
 
 }
+
+View(MLS_advstats)
 ###################
 #ARG
 advstatsn <- 6
